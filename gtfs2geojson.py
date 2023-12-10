@@ -104,7 +104,7 @@ class gtfs2geojson:
 
     def _join(self, d, lang, translation) -> dict:
 
-        properties = {"agency_name": self.agency_name, "agency_name:en": self.agency_name_en,
+        properties = {"operator": self.agency_name, "operator:en": self.agency_name_en,
                       "bus": "yes", "highway": "bus_stop", "public_transport": "platform"}
 
         k = 0
