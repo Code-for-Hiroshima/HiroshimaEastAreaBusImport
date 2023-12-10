@@ -5,12 +5,14 @@
 # See the file COPYING for more details.
 
 import pandas as pd
+from geojson2osm import geojson2osm
 import zipfile
 import datetime
 import urllib.request
 import io
 import json
 import os
+import xml.dom.minidom
 
 
 class gtfs2geojson:
@@ -44,6 +46,13 @@ class gtfs2geojson:
                     json.dump(ret, f, ensure_ascii=False, indent=4,
                               sort_keys=True, separators=(',', ': '))
                 print(f'{row.url} -> {self.agency_name_en.replace(" ","_")}.geojson')
+                self._osm_save(ret, self.agency_name_en.replace(" ", "_"))
+
+    def _osm_save(self, geojson_data, filename):
+        osm_xml = geojson2osm(geojson_data)
+        dom = xml.dom.minidom.parseString(osm_xml)
+        with open(os.path.join('data', filename+'.osm'), 'w') as output_file:
+            output_file.write(dom.toprettyxml())                
 
     def _load(self) -> str:
         j = []
