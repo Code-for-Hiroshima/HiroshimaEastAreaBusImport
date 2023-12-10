@@ -113,7 +113,9 @@ class gtfs2geojson:
         for i in [i for i, j in d.items()]:
             if i in ['stop_id', 'stop_name', 'platform_code']:
                 if i == 'stop_id':
-                    properties[i] = str(d.name[k]).replace("_", " ")
+                    properties[f"gtfs:{i}"] = str(d.name[k]).replace("_", " ")
+                elif i == 'stop_name':
+                    properties[f"name"] = d.name[k]                    
                 else:
                     properties[i] = d.name[k]
             elif i in ['stop_lat']:
@@ -122,7 +124,7 @@ class gtfs2geojson:
                 lon = d.name[k]
             k += 1
         for i, j in lang.items():
-            properties[j] = translation[i]
+            properties[f"name:{j}"] = translation[i]
 
         geometry = {"type": "Feature",
                     "geometry":
