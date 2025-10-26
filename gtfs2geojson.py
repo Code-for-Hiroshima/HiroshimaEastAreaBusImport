@@ -81,7 +81,7 @@ class gtfs2geojson:
     def _translations(self) -> pd.DataFrame:
         return pd.read_csv(
             self.zip_f.open("translations.txt"),
-            usecols=["trans_id", "lang", "translation"])
+            usecols=["field_value", "language", "translation"])
 
     def _stops(self) -> pd.DataFrame:
         return pd.read_csv(
@@ -93,7 +93,7 @@ class gtfs2geojson:
         return pd.merge(
             left=self._stops(),
             right=self._translations(),
-            left_on="stop_name", right_on="trans_id")
+            left_on="stop_name", right_on="field_value")
 
     def _agecy_name(self) -> str:
         return self._agency_names_translations.loc[
@@ -108,7 +108,7 @@ class gtfs2geojson:
     def _group(self) -> pd.DataFrame:
         group = self._merge_stops().groupby(
             ['stop_id', 'stop_name', 'stop_lat', 'stop_lon']
-        ).apply(lambda d: self._join(d, d.lang, d.translation))
+        ).apply(lambda d: self._join(d, d.language, d.translation))
         return group
 
     def _join(self, d, lang, translation) -> dict:
