@@ -311,8 +311,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.39633,
-                    34.50766
+                    133.39471,
+                    34.50873
                 ],
                 "type": "Point"
             },
@@ -1697,8 +1697,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.42862,
-                    34.513023
+                    133.42853,
+                    34.51281
                 ],
                 "type": "Point"
             },
@@ -2388,10 +2388,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "1125 2315",
                 "highway": "bus_stop",
-                "name": "港町一丁目",
-                "name:en": "Minatomachi icchome",
-                "name:ja": "港町一丁目",
-                "name:ja-Hrkt": "ミナトマチ1チョウメ",
+                "name": "福山記念病院前",
+                "name:en": "Fukuyamakinenbyouinmae",
+                "name:ja": "福山記念病院前",
+                "name:ja-Hrkt": "フクヤマキネンビョウインマエ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -2410,10 +2410,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "1125 2316",
                 "highway": "bus_stop",
-                "name": "港町一丁目",
-                "name:en": "Minatomachi icchome",
-                "name:ja": "港町一丁目",
-                "name:ja-Hrkt": "ミナトマチ1チョウメ",
+                "name": "福山記念病院前",
+                "name:en": "Fukuyamakinenbyouinmae",
+                "name:ja": "福山記念病院前",
+                "name:ja-Hrkt": "フクヤマキネンビョウインマエ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -2577,8 +2577,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.3747,
-                    34.485416
+                    133.37459,
+                    34.485413
                 ],
                 "type": "Point"
             },
@@ -2907,8 +2907,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.39978,
-                    34.448524
+                    133.40065,
+                    34.447815
                 ],
                 "type": "Point"
             },
@@ -2973,8 +2973,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.37207,
-                    34.486465
+                    133.37196,
+                    34.486526
                 ],
                 "type": "Point"
             },
@@ -3633,8 +3633,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.37447,
-                    34.494324
+                    133.37456,
+                    34.493706
                 ],
                 "type": "Point"
             },
@@ -3655,8 +3655,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.37466,
-                    34.493717
+                    133.37468,
+                    34.493664
                 ],
                 "type": "Point"
             },
@@ -3778,28 +3778,6 @@
                 "name:en": "Miyoshi-cho-minami",
                 "name:ja": "三吉町南",
                 "name:ja-Hrkt": "ミヨシチョウミナミ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34157,
-                    34.550205
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "117 242",
-                "highway": "bus_stop",
-                "name": "岩成",
-                "name:en": "Iwane",
-                "name:ja": "岩成",
-                "name:ja-Hrkt": "イワナリ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -4865,8 +4843,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.35611,
-                    34.53504
+                    133.35811,
+                    34.533978
                 ],
                 "type": "Point"
             },
@@ -5934,50 +5912,6 @@
                 "name:en": "Yoshizu",
                 "name:ja": "吉津",
                 "name:ja-Hrkt": "ヨシヅ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34145,
-                    34.552765
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1275 2640",
-                "highway": "bus_stop",
-                "name": "四ツ角",
-                "name:en": "Yotsukado",
-                "name:ja": "四ツ角",
-                "name:ja-Hrkt": "ヨツカド",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34137,
-                    34.5527
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1275 2641",
-                "highway": "bus_stop",
-                "name": "四ツ角",
-                "name:en": "Yotsukado",
-                "name:ja": "四ツ角",
-                "name:ja-Hrkt": "ヨツカド",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -7549,8 +7483,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.43062,
-                    34.50791
+                    133.43079,
+                    34.507412
                 ],
                 "type": "Point"
             },
@@ -7571,8 +7505,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.43079,
-                    34.50741
+                    133.43077,
+                    34.507626
                 ],
                 "type": "Point"
             },
@@ -9243,50 +9177,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.1378,
-                    34.55531
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1607 3301",
-                "highway": "bus_stop",
-                "name": "小猿",
-                "name:en": "Kozaru",
-                "name:ja": "小猿",
-                "name:ja-Hrkt": "コザル",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.13791,
-                    34.555397
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1607 3302",
-                "highway": "bus_stop",
-                "name": "小猿",
-                "name:en": "Kozaru",
-                "name:ja": "小猿",
-                "name:ja-Hrkt": "コザル",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.03545,
                     34.573174
                 ],
@@ -10145,8 +10035,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.38014,
-                    34.46067
+                    133.37971,
+                    34.46099
                 ],
                 "type": "Point"
             },
@@ -10488,50 +10378,6 @@
                 "name:en": "Tateishi",
                 "name:ja": "立石",
                 "name:ja-Hrkt": "タテイシ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.14566,
-                    34.5449
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1759 3604",
-                "highway": "bus_stop",
-                "name": "茶堂鼻",
-                "name:en": "Chadobana",
-                "name:ja": "茶堂鼻",
-                "name:ja-Hrkt": "チャドウバナ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.1459,
-                    34.545204
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1759 3605",
-                "highway": "bus_stop",
-                "name": "茶堂鼻",
-                "name:en": "Chadobana",
-                "name:ja": "茶堂鼻",
-                "name:ja-Hrkt": "チャドウバナ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -12389,8 +12235,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.1955,
-                    34.40582
+                    133.1972,
+                    34.406574
                 ],
                 "type": "Point"
             },
@@ -12499,8 +12345,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.0546,
-                    34.587147
+                    133.0539,
+                    34.58622
                 ],
                 "type": "Point"
             },
@@ -12521,8 +12367,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.05443,
-                    34.587254
+                    133.05396,
+                    34.586285
                 ],
                 "type": "Point"
             },
@@ -12653,8 +12499,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.39832,
-                    34.469593
+                    133.39821,
+                    34.46968
                 ],
                 "type": "Point"
             },
@@ -13080,10 +12926,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "2069 3721",
                 "highway": "bus_stop",
-                "name": "三次ロイヤルホテル前",
-                "name:en": "Miyoshi Royal Hotel-mae",
-                "name:ja": "三次ロイヤルホテル前",
-                "name:ja-Hrkt": "ミヨシロイヤルホテルマエ",
+                "name": "十日市南三丁目",
+                "name:en": "Tookaichiminamisanchome",
+                "name:ja": "十日市南三丁目",
+                "name:ja-Hrkt": "トオカイチミナミサンチョウメ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -13489,8 +13335,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.40213,
-                    34.46855
+                    133.40228,
+                    34.46854
                 ],
                 "type": "Point"
             },
@@ -13722,94 +13568,6 @@
                 "name:en": "Yamatoguchi",
                 "name:ja": "大和口",
                 "name:ja-Hrkt": "ヤマトグチ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.14618,
-                    34.549763
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "2113 4314",
-                "highway": "bus_stop",
-                "name": "大和公民館前",
-                "name:en": "Yamato kominkanmae",
-                "name:ja": "大和公民館前",
-                "name:ja-Hrkt": "ヤマトコウミンカンマエ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.14604,
-                    34.550064
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "2113 4315",
-                "highway": "bus_stop",
-                "name": "大和公民館前",
-                "name:en": "Yamato kominkanmae",
-                "name:ja": "大和公民館前",
-                "name:ja-Hrkt": "ヤマトコウミンカンマエ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.14421,
-                    34.529785
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "2114 4316",
-                "highway": "bus_stop",
-                "name": "大和橋",
-                "name:en": "Yamatobashi",
-                "name:ja": "大和橋",
-                "name:ja-Hrkt": "ヤマトバシ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.14424,
-                    34.52986
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "2114 4317",
-                "highway": "bus_stop",
-                "name": "大和橋",
-                "name:en": "Yamatobashi",
-                "name:ja": "大和橋",
-                "name:ja-Hrkt": "ヤマトバシ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -14479,8 +14237,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.19412,
-                    34.404663
+                    133.19344,
+                    34.404007
                 ],
                 "type": "Point"
             },
@@ -15192,10 +14950,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "246 502",
                 "highway": "bus_stop",
-                "name": "霞町",
-                "name:en": "Kasumicho",
-                "name:ja": "霞町",
-                "name:ja-Hrkt": "カスミチョウ",
+                "name": "ジーベック前",
+                "name:en": "XEBEC mae",
+                "name:ja": "ジーベック前",
+                "name:ja-Hrkt": "ジーベックマエ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -15214,10 +14972,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "246 505",
                 "highway": "bus_stop",
-                "name": "霞町",
-                "name:en": "Kasumicho",
-                "name:ja": "霞町",
-                "name:ja-Hrkt": "カスミチョウ",
+                "name": "ジーベック前",
+                "name:en": "XEBEC mae",
+                "name:ja": "ジーベック前",
+                "name:ja-Hrkt": "ジーベックマエ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -15557,50 +15315,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.34337,
-                    34.54791
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "270 554",
-                "highway": "bus_stop",
-                "name": "上岩成",
-                "name:en": "Kamiiwanari",
-                "name:ja": "上岩成",
-                "name:ja-Hrkt": "カミイワナリ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34343,
-                    34.54791
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "270 555",
-                "highway": "bus_stop",
-                "name": "上岩成",
-                "name:en": "Kamiiwanari",
-                "name:ja": "上岩成",
-                "name:ja-Hrkt": "カミイワナリ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.34723,
                     34.56189
                 ],
@@ -15680,28 +15394,6 @@
                 "name:en": "Kamigamo kokaido-mae",
                 "name:ja": "上加茂公会堂前",
                 "name:ja-Hrkt": "カミガモコウカイドウマエ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34341,
-                    34.566956
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "276 566",
-                "highway": "bus_stop",
-                "name": "上加茂橋",
-                "name:en": "Kamigamobashi",
-                "name:ja": "上加茂橋",
-                "name:ja-Hrkt": "カミガモバシ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -15821,50 +15513,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.34608,
-                    34.575882
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "284 582",
-                "highway": "bus_stop",
-                "name": "上中野",
-                "name:en": "Kaminakano",
-                "name:ja": "上中野",
-                "name:ja-Hrkt": "カミナカノ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34637,
-                    34.576134
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "284 583",
-                "highway": "bus_stop",
-                "name": "上中野",
-                "name:en": "Kaminakano",
-                "name:ja": "上中野",
-                "name:ja-Hrkt": "カミナカノ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.42963,
                     34.4919
                 ],
@@ -15953,28 +15601,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.34769,
-                    34.57899
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "301 616",
-                "highway": "bus_stop",
-                "name": "加茂ハイツ入口",
-                "name:en": "Kamohaitsu-iriguti",
-                "name:ja": "加茂ハイツ入口",
-                "name:ja-Hrkt": "カモハイツイリグチ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.34558,
                     34.56969
                 ],
@@ -16010,94 +15636,6 @@
                 "name:en": "Kamoshowabashi",
                 "name:ja": "加茂昭和橋",
                 "name:ja-Hrkt": "カモショウワバシ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34859,
-                    34.579624
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "303 620",
-                "highway": "bus_stop",
-                "name": "芦原下",
-                "name:en": "Ashihara-shimo",
-                "name:ja": "芦原下",
-                "name:ja-Hrkt": "アシハラシモ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.3487,
-                    34.57963
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "303 621",
-                "highway": "bus_stop",
-                "name": "芦原下",
-                "name:en": "Ashihara-shimo",
-                "name:ja": "芦原下",
-                "name:ja-Hrkt": "アシハラシモ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34134,
-                    34.55795
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "304 622",
-                "highway": "bus_stop",
-                "name": "加茂住宅前",
-                "name:en": "Kamojutaku-mae",
-                "name:ja": "加茂住宅前",
-                "name:ja-Hrkt": "カモジュウタクマエ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.3414,
-                    34.55778
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "304 623",
-                "highway": "bus_stop",
-                "name": "加茂住宅前",
-                "name:en": "Kamojutaku-mae",
-                "name:ja": "加茂住宅前",
-                "name:ja-Hrkt": "カモジュウタクマエ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -16415,8 +15953,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.38484,
-                    34.47893
+                    133.38403,
+                    34.47915
                 ],
                 "type": "Point"
             },
@@ -16679,52 +16217,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.3563,
-                    34.59254
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "32 63",
-                "highway": "bus_stop",
-                "name": "旭保育所前",
-                "name:en": "Asahihoikusho-mae",
-                "name:ja": "旭保育所前",
-                "name:ja-Hrkt": "アサヒホイクショマエ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.35635,
-                    34.59253
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "32 64",
-                "highway": "bus_stop",
-                "name": "旭保育所前",
-                "name:en": "Asahihoikusho-mae",
-                "name:ja": "旭保育所前",
-                "name:ja-Hrkt": "アサヒホイクショマエ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.3883,
-                    34.477947
+                    133.38779,
+                    34.47803
                 ],
                 "type": "Point"
             },
@@ -16877,8 +16371,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.3747,
-                    34.4903
+                    133.37408,
+                    34.490208
                 ],
                 "type": "Point"
             },
@@ -17251,8 +16745,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.3545,
-                    34.499645
+                    133.35452,
+                    34.499393
                 ],
                 "type": "Point"
             },
@@ -17274,7 +16768,7 @@
             "geometry": {
                 "coordinates": [
                     133.35443,
-                    34.499657
+                    34.499226
                 ],
                 "type": "Point"
             },
@@ -17581,50 +17075,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.3511,
-                    34.5828
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "36 71",
-                "highway": "bus_stop",
-                "name": "芦原",
-                "name:en": "Ashihara",
-                "name:ja": "芦原",
-                "name:ja-Hrkt": "アシハラ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.35106,
-                    34.582844
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "36 72",
-                "highway": "bus_stop",
-                "name": "芦原",
-                "name:en": "Ashihara",
-                "name:ja": "芦原",
-                "name:ja-Hrkt": "アシハラ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.24095,
                     34.552624
                 ],
@@ -17726,50 +17176,6 @@
                 "name:en": "Kurumigakuen-mae",
                 "name:ja": "来見学園前",
                 "name:ja-Hrkt": "クルミガクエンマエ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.35414,
-                    34.58666
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "37 73",
-                "highway": "bus_stop",
-                "name": "芦原上",
-                "name:en": "Ashihara-kami",
-                "name:ja": "芦原上",
-                "name:ja-Hrkt": "アシハラカミ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.35428,
-                    34.587215
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "37 74",
-                "highway": "bus_stop",
-                "name": "芦原上",
-                "name:en": "Ashihara-kami",
-                "name:ja": "芦原上",
-                "name:ja-Hrkt": "アシハラカミ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -17902,50 +17308,6 @@
                 "name:en": "Kenritsu rekishihakubutsukan-mae",
                 "name:ja": "県立歴史博物館前",
                 "name:ja-Hrkt": "ケンリツレキシハクブツカンマエ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.35345,
-                    34.585316
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "38 76",
-                "highway": "bus_stop",
-                "name": "芦原団地口",
-                "name:en": "Ashiharadanchiguchi",
-                "name:ja": "芦原団地口",
-                "name:ja-Hrkt": "アシハラダンチグチ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.3534,
-                    34.585335
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "38 78",
-                "highway": "bus_stop",
-                "name": "芦原団地口",
-                "name:en": "Ashiharadanchiguchi",
-                "name:ja": "芦原団地口",
-                "name:ja-Hrkt": "アシハラダンチグチ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -19615,7 +18977,7 @@
                 "gtfs:stop_id": "472 962",
                 "highway": "bus_stop",
                 "name": "南蔵王町二丁目",
-                "name:en": "Minamizaocho-Nichome",
+                "name:en": "Minamizaoucho-nichome",
                 "name:ja": "南蔵王町二丁目",
                 "name:ja-Hrkt": "ミナミザオウチョウニチョウメ",
                 "operator": "中国バス",
@@ -19627,8 +18989,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.39546,
-                    34.504433
+                    133.39221,
+                    34.504112
                 ],
                 "type": "Point"
             },
@@ -19637,97 +18999,9 @@
                 "gtfs:stop_id": "472 963",
                 "highway": "bus_stop",
                 "name": "南蔵王町二丁目",
-                "name:en": "Minamizaocho-Nichome",
+                "name:en": "Minamizaoucho-nichome",
                 "name:ja": "南蔵王町二丁目",
                 "name:ja-Hrkt": "ミナミザオウチョウニチョウメ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.35518,
-                    34.589638
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "478 974",
-                "highway": "bus_stop",
-                "name": "四川別",
-                "name:en": "Shikawawakare",
-                "name:ja": "四川別",
-                "name:ja-Hrkt": "シガワワカレ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.35526,
-                    34.589607
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "478 975",
-                "highway": "bus_stop",
-                "name": "四川別",
-                "name:en": "Shikawawakare",
-                "name:ja": "四川別",
-                "name:ja-Hrkt": "シガワワカレ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34502,
-                    34.568855
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "48263 1",
-                "highway": "bus_stop",
-                "name": "平成大橋",
-                "name:en": "Heiseiohashi",
-                "name:ja": "平成大橋",
-                "name:ja-Hrkt": "ヘイセイオオハシ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34492,
-                    34.56893
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "48263 2",
-                "highway": "bus_stop",
-                "name": "平成大橋",
-                "name:en": "Heiseiohashi",
-                "name:ja": "平成大橋",
-                "name:ja-Hrkt": "ヘイセイオオハシ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -20278,94 +19552,6 @@
                 "name:en": "Shimokawabe",
                 "name:ja": "下川辺",
                 "name:ja-Hrkt": "シモカワベ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34198,
-                    34.565018
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "508 1038",
-                "highway": "bus_stop",
-                "name": "下加茂",
-                "name:en": "Shimogamo",
-                "name:ja": "下加茂",
-                "name:ja-Hrkt": "シモガモ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34213,
-                    34.565357
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "508 1039",
-                "highway": "bus_stop",
-                "name": "下加茂",
-                "name:en": "Shimogamo",
-                "name:ja": "下加茂",
-                "name:ja-Hrkt": "シモガモ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34149,
-                    34.56177
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "509 1040",
-                "highway": "bus_stop",
-                "name": "下加茂下",
-                "name:en": "Shimogamoshimo",
-                "name:ja": "下加茂下",
-                "name:ja-Hrkt": "シモガモシモ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.34154,
-                    34.561863
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "509 1041",
-                "highway": "bus_stop",
-                "name": "下加茂下",
-                "name:en": "Shimogamoshimo",
-                "name:ja": "下加茂下",
-                "name:ja-Hrkt": "シモガモシモ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -21255,8 +20441,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.3893,
-                    34.462868
+                    133.38899,
+                    34.463
                 ],
                 "type": "Point"
             },
@@ -21356,28 +20542,6 @@
                 "name:en": "Shinkawa",
                 "name:ja": "新川",
                 "name:ja-Hrkt": "シンカワ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.35652,
-                    34.599606
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "55 112",
-                "highway": "bus_stop",
-                "name": "粟根",
-                "name:en": "Awane",
-                "name:ja": "粟根",
-                "name:ja-Hrkt": "アワネ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -22487,8 +21651,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.32184,
-                    34.424274
+                    133.32188,
+                    34.423943
                 ],
                 "type": "Point"
             },
@@ -23257,8 +22421,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.3676,
-                    34.46921
+                    133.36676,
+                    34.470253
                 ],
                 "type": "Point"
             },
@@ -23279,8 +22443,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.36758,
-                    34.46916
+                    133.36786,
+                    34.468742
                 ],
                 "type": "Point"
             },
@@ -23785,8 +22949,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.38019,
-                    34.47129
+                    133.38048,
+                    34.471085
                 ],
                 "type": "Point"
             },
@@ -24225,6 +23389,28 @@
         {
             "geometry": {
                 "coordinates": [
+                    133.43634,
+                    34.510235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bus": "yes",
+                "gtfs:stop_id": "710 1450",
+                "highway": "bus_stop",
+                "name": "大門高校前",
+                "name:en": "Daimonkoko-mae",
+                "name:ja": "大門高校前",
+                "name:ja-Hrkt": "ダイモンコウコウマエ",
+                "operator": "中国バス",
+                "operator:en": "Chugoku Bus",
+                "public_transport": "platform"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     133.44275,
                     34.501945
                 ],
@@ -24599,8 +23785,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.23723,
-                    34.58121
+                    133.23712,
+                    34.580826
                 ],
                 "type": "Point"
             },
@@ -26931,8 +26117,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.39246,
-                    34.484024
+                    133.39209,
+                    34.484016
                 ],
                 "type": "Point"
             },
@@ -26997,7 +26183,7 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.38211,
+                    133.38182,
                     34.483192
                 ],
                 "type": "Point"
@@ -27107,8 +26293,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.40512,
-                    34.48484
+                    133.40483,
+                    34.484806
                 ],
                 "type": "Point"
             },
@@ -27296,50 +26482,6 @@
                 "name:en": "Teranomae",
                 "name:ja": "寺ノ前",
                 "name:ja-Hrkt": "テラノマエ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.1443,
-                    34.540657
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "763 1557",
-                "highway": "bus_stop",
-                "name": "寺前",
-                "name:en": "Teramae",
-                "name:ja": "寺前",
-                "name:ja-Hrkt": "テラマエ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.14397,
-                    34.540207
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "763 1558",
-                "highway": "bus_stop",
-                "name": "寺前",
-                "name:en": "Teramae",
-                "name:ja": "寺前",
-                "name:ja-Hrkt": "テラマエ",
                 "operator": "中国バス",
                 "operator:en": "Chugoku Bus",
                 "public_transport": "platform"
@@ -27811,8 +26953,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.34416,
-                    34.572403
+                    133.34537,
+                    34.57174
                 ],
                 "type": "Point"
             },
@@ -27833,8 +26975,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.43777,
-                    34.515953
+                    133.43633,
+                    34.514977
                 ],
                 "type": "Point"
             },
@@ -29483,8 +28625,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.19044,
-                    34.403496
+                    133.19081,
+                    34.4025
                 ],
                 "type": "Point"
             },
@@ -29505,8 +28647,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.19104,
-                    34.403732
+                    133.19101,
+                    34.40267
                 ],
                 "type": "Point"
             },
@@ -30055,50 +29197,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.35608,
-                    34.59562
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "886 1819",
-                "highway": "bus_stop",
-                "name": "庭田",
-                "name:en": "Niwata",
-                "name:ja": "庭田",
-                "name:ja-Hrkt": "ニワタ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.35616,
-                    34.59612
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "886 1820",
-                "highway": "bus_stop",
-                "name": "庭田",
-                "name:en": "Niwata",
-                "name:ja": "庭田",
-                "name:ja-Hrkt": "ニワタ",
-                "operator": "中国バス",
-                "operator:en": "Chugoku Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.31824,
                     34.390182
                 ],
@@ -30583,8 +29681,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.4072,
-                    34.46989
+                    133.40729,
+                    34.47028
                 ],
                 "type": "Point"
             },
@@ -30759,8 +29857,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.40605,
-                    34.46836
+                    133.4061,
+                    34.46853
                 ],
                 "type": "Point"
             },
@@ -30913,8 +30011,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.39053,
-                    34.471767
+                    133.39034,
+                    34.471836
                 ],
                 "type": "Point"
             },
@@ -30957,8 +30055,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.38112,
-                    34.474766
+                    133.38199,
+                    34.474293
                 ],
                 "type": "Point"
             },
@@ -31419,8 +30517,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.39357,
-                    34.476757
+                    133.39282,
+                    34.476643
                 ],
                 "type": "Point"
             },

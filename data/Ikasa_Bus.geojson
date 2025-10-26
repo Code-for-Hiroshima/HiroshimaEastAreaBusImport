@@ -179,8 +179,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.39633,
-                    34.50766
+                    133.39471,
+                    34.50873
                 ],
                 "type": "Point"
             },
@@ -597,8 +597,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.42862,
-                    34.513023
+                    133.42853,
+                    34.51281
                 ],
                 "type": "Point"
             },
@@ -971,8 +971,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.37447,
-                    34.494324
+                    133.37456,
+                    34.493706
                 ],
                 "type": "Point"
             },
@@ -993,8 +993,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.37466,
-                    34.493717
+                    133.37468,
+                    34.493664
                 ],
                 "type": "Point"
             },
@@ -1873,6 +1873,28 @@
         {
             "geometry": {
                 "coordinates": [
+                    133.42592,
+                    34.49805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bus": "yes",
+                "gtfs:stop_id": "1287 2667",
+                "highway": "bus_stop",
+                "name": "ローズタウン入口",
+                "name:en": "Rosetown-iriguchi",
+                "name:ja": "ローズタウン入口",
+                "name:ja-Hrkt": "ローズタウンイリグチ",
+                "operator": "井笠バスカンパニー",
+                "operator:en": "Ikasa Bus",
+                "public_transport": "platform"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     133.42921,
                     34.495758
                 ],
@@ -1895,6 +1917,28 @@
         {
             "geometry": {
                 "coordinates": [
+                    133.42903,
+                    34.495636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bus": "yes",
+                "gtfs:stop_id": "1288 2669",
+                "highway": "bus_stop",
+                "name": "ローズタウン上",
+                "name:en": "Rosetown-kami",
+                "name:ja": "ローズタウン上",
+                "name:ja-Hrkt": "ローズタウンカミ",
+                "operator": "井笠バスカンパニー",
+                "operator:en": "Ikasa Bus",
+                "public_transport": "platform"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     133.4271,
                     34.49628
                 ],
@@ -1903,6 +1947,28 @@
             "properties": {
                 "bus": "yes",
                 "gtfs:stop_id": "1289 2670",
+                "highway": "bus_stop",
+                "name": "ローズタウン中",
+                "name:en": "Rosetown-naka",
+                "name:ja": "ローズタウン中",
+                "name:ja-Hrkt": "ローズタウンナカ",
+                "operator": "井笠バスカンパニー",
+                "operator:en": "Ikasa Bus",
+                "public_transport": "platform"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.42671,
+                    34.496758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bus": "yes",
+                "gtfs:stop_id": "1289 2671",
                 "highway": "bus_stop",
                 "name": "ローズタウン中",
                 "name:en": "Rosetown-naka",
@@ -8913,6 +8979,28 @@
         {
             "geometry": {
                 "coordinates": [
+                    133.51675,
+                    34.495197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bus": "yes",
+                "gtfs:stop_id": "2213 4455",
+                "highway": "bus_stop",
+                "name": "笠岡運動公園前",
+                "name:en": "Kasaokaundokoen-mae",
+                "name:ja": "笠岡運動公園前",
+                "name:ja-Hrkt": "カサオカウンドウコウエンマエ",
+                "operator": "井笠バスカンパニー",
+                "operator:en": "Ikasa Bus",
+                "public_transport": "platform"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     133.5171,
                     34.491833
                 ],
@@ -9362,10 +9450,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "246 502",
                 "highway": "bus_stop",
-                "name": "霞町",
-                "name:en": "Kasumicho",
-                "name:ja": "霞町",
-                "name:ja-Hrkt": "カスミチョウ",
+                "name": "ジーベック前",
+                "name:en": "XEBEC mae",
+                "name:ja": "ジーベック前",
+                "name:ja-Hrkt": "ジーベックマエ",
                 "operator": "井笠バスカンパニー",
                 "operator:en": "Ikasa Bus",
                 "public_transport": "platform"
@@ -9727,6 +9815,28 @@
         {
             "geometry": {
                 "coordinates": [
+                    133.42949,
+                    34.491142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bus": "yes",
+                "gtfs:stop_id": "28 56",
+                "highway": "bus_stop",
+                "name": "旭ヶ丘団地上",
+                "name:en": "Asahigaokadanchi-kami",
+                "name:ja": "旭ヶ丘団地上",
+                "name:ja-Hrkt": "アサヒガオカダンチカミ",
+                "operator": "井笠バスカンパニー",
+                "operator:en": "Ikasa Bus",
+                "public_transport": "platform"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     133.42265,
                     34.49235
                 ],
@@ -10057,8 +10167,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.3747,
-                    34.4903
+                    133.37408,
+                    34.490208
                 ],
                 "type": "Point"
             },
@@ -10497,8 +10607,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.42123,
-                    34.57671
+                    133.41936,
+                    34.575912
                 ],
                 "type": "Point"
             },
@@ -10717,8 +10827,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.39546,
-                    34.504433
+                    133.39221,
+                    34.504112
                 ],
                 "type": "Point"
             },
@@ -12037,6 +12147,50 @@
         {
             "geometry": {
                 "coordinates": [
+                    133.43631,
+                    34.510338
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bus": "yes",
+                "gtfs:stop_id": "710 1449",
+                "highway": "bus_stop",
+                "name": "大門高校前",
+                "name:en": "Daimonkoko-mae",
+                "name:ja": "大門高校前",
+                "name:ja-Hrkt": "ダイモンコウコウマエ",
+                "operator": "井笠バスカンパニー",
+                "operator:en": "Ikasa Bus",
+                "public_transport": "platform"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.43634,
+                    34.510235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bus": "yes",
+                "gtfs:stop_id": "710 1450",
+                "highway": "bus_stop",
+                "name": "大門高校前",
+                "name:en": "Daimonkoko-mae",
+                "name:ja": "大門高校前",
+                "name:ja-Hrkt": "ダイモンコウコウマエ",
+                "operator": "井笠バスカンパニー",
+                "operator:en": "Ikasa Bus",
+                "public_transport": "platform"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     133.42323,
                     34.502316
                 ],
@@ -12067,6 +12221,28 @@
             "properties": {
                 "bus": "yes",
                 "gtfs:stop_id": "7172 146",
+                "highway": "bus_stop",
+                "name": "伊勢丘三丁目",
+                "name:en": "Isegaokasanchome",
+                "name:ja": "伊勢丘三丁目",
+                "name:ja-Hrkt": "イセガオカサンチョウメ",
+                "operator": "井笠バスカンパニー",
+                "operator:en": "Ikasa Bus",
+                "public_transport": "platform"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    133.42455,
+                    34.502285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "bus": "yes",
+                "gtfs:stop_id": "7172 148",
                 "highway": "bus_stop",
                 "name": "伊勢丘三丁目",
                 "name:en": "Isegaokasanchome",

@@ -60,19 +60,7 @@
 		<tag k="name:ja" v="福山駅前"/>
 		<tag k="name:ja-Hrkt" v="フクヤマエキマエ"/>
 	</node>
-	<node id="-6" lat="34.459217" lon="133.23178">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1015 2089"/>
-		<tag k="name" v="福山大学"/>
-		<tag k="name:en" v="Fukuyama Daigaku(Fukuyama Univ.)"/>
-		<tag k="name:ja" v="福山大学"/>
-		<tag k="name:ja-Hrkt" v="フクヤマダイガク"/>
-	</node>
-	<node id="-7" lat="34.48901" lon="133.36523">
+	<node id="-6" lat="34.48901" lon="133.36523">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -84,7 +72,7 @@
 		<tag k="name:ja" v="伏見町"/>
 		<tag k="name:ja-Hrkt" v="フシミチョウ"/>
 	</node>
-	<node id="-8" lat="34.421227" lon="133.27794">
+	<node id="-7" lat="34.421227" lon="133.27794">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -96,7 +84,7 @@
 		<tag k="name:ja" v="藤江"/>
 		<tag k="name:ja-Hrkt" v="フジエ"/>
 	</node>
-	<node id="-9" lat="34.420906" lon="133.27814">
+	<node id="-8" lat="34.420906" lon="133.27814">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -108,31 +96,31 @@
 		<tag k="name:ja" v="藤江"/>
 		<tag k="name:ja-Hrkt" v="フジエ"/>
 	</node>
-	<node id="-10" lat="34.419563" lon="133.28148">
+	<node id="-9" lat="34.419563" lon="133.28148">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="1021 2104"/>
-		<tag k="name" v="藤江農協前"/>
-		<tag k="name:en" v="Fujie Nokyo-mae"/>
-		<tag k="name:ja" v="藤江農協前"/>
-		<tag k="name:ja-Hrkt" v="フジエノウキョウマエ"/>
+		<tag k="name" v="藤江交流館下"/>
+		<tag k="name:en" v="Fujie Koryukan Shita"/>
+		<tag k="name:ja" v="藤江交流館下"/>
+		<tag k="name:ja-Hrkt" v="フジエコウリュウカンシタ"/>
 	</node>
-	<node id="-11" lat="34.419636" lon="133.28137">
+	<node id="-10" lat="34.419636" lon="133.28137">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="1021 2105"/>
-		<tag k="name" v="藤江農協前"/>
-		<tag k="name:en" v="Fujie Nokyo-mae"/>
-		<tag k="name:ja" v="藤江農協前"/>
-		<tag k="name:ja-Hrkt" v="フジエノウキョウマエ"/>
+		<tag k="name" v="藤江交流館下"/>
+		<tag k="name:en" v="Fujie Koryukan Shita"/>
+		<tag k="name:ja" v="藤江交流館下"/>
+		<tag k="name:ja-Hrkt" v="フジエコウリュウカンシタ"/>
 	</node>
-	<node id="-12" lat="34.482037" lon="133.35735">
+	<node id="-11" lat="34.482037" lon="133.35735">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -144,7 +132,7 @@
 		<tag k="name:ja" v="古野上町"/>
 		<tag k="name:ja-Hrkt" v="フルノガミチョウ"/>
 	</node>
-	<node id="-13" lat="34.482155" lon="133.3573">
+	<node id="-12" lat="34.482155" lon="133.3573">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -156,7 +144,7 @@
 		<tag k="name:ja" v="古野上町"/>
 		<tag k="name:ja-Hrkt" v="フルノガミチョウ"/>
 	</node>
-	<node id="-14" lat="34.461575" lon="133.32184">
+	<node id="-13" lat="34.461575" lon="133.32184">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -168,7 +156,7 @@
 		<tag k="name:ja" v="別所"/>
 		<tag k="name:ja-Hrkt" v="ベッショ"/>
 	</node>
-	<node id="-15" lat="34.46138" lon="133.32199">
+	<node id="-14" lat="34.46138" lon="133.32199">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -180,7 +168,7 @@
 		<tag k="name:ja" v="別所"/>
 		<tag k="name:ja-Hrkt" v="ベッショ"/>
 	</node>
-	<node id="-16" lat="34.372612" lon="133.36292">
+	<node id="-15" lat="34.372612" lon="133.36292">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -192,7 +180,7 @@
 		<tag k="name:ja" v="阿伏兎隧道"/>
 		<tag k="name:ja-Hrkt" v="アブトズイドウ"/>
 	</node>
-	<node id="-17" lat="34.372658" lon="133.36298">
+	<node id="-16" lat="34.372658" lon="133.36298">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -204,55 +192,7 @@
 		<tag k="name:ja" v="阿伏兎隧道"/>
 		<tag k="name:ja-Hrkt" v="アブトズイドウ"/>
 	</node>
-	<node id="-18" lat="34.482357" lon="133.24117">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1049 2160"/>
-		<tag k="name" v="本郷温泉口"/>
-		<tag k="name:en" v="Hongo Onsenguchi"/>
-		<tag k="name:ja" v="本郷温泉口"/>
-		<tag k="name:ja-Hrkt" v="ホンゴウオンセングチ"/>
-	</node>
-	<node id="-19" lat="34.482346" lon="133.2411">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1049 2161"/>
-		<tag k="name" v="本郷温泉口"/>
-		<tag k="name:en" v="Hongo Onsenguchi"/>
-		<tag k="name:ja" v="本郷温泉口"/>
-		<tag k="name:ja-Hrkt" v="ホンゴウオンセングチ"/>
-	</node>
-	<node id="-20" lat="34.471027" lon="133.24586">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1053 2168"/>
-		<tag k="name" v="本郷小学校前"/>
-		<tag k="name:en" v="Hongo Shogakko-mae"/>
-		<tag k="name:ja" v="本郷小学校前"/>
-		<tag k="name:ja-Hrkt" v="ホンゴウショウガッコウマエ"/>
-	</node>
-	<node id="-21" lat="34.470287" lon="133.24599">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1053 2169"/>
-		<tag k="name" v="本郷小学校前"/>
-		<tag k="name:en" v="Hongo Shogakko-mae"/>
-		<tag k="name:ja" v="本郷小学校前"/>
-		<tag k="name:ja-Hrkt" v="ホンゴウショウガッコウマエ"/>
-	</node>
-	<node id="-22" lat="34.48586" lon="133.35144">
+	<node id="-17" lat="34.48586" lon="133.35144">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -264,7 +204,7 @@
 		<tag k="name:ja" v="本庄"/>
 		<tag k="name:ja-Hrkt" v="ホンジョウ"/>
 	</node>
-	<node id="-23" lat="34.4857" lon="133.3518">
+	<node id="-18" lat="34.4857" lon="133.3518">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -276,7 +216,7 @@
 		<tag k="name:ja" v="本庄"/>
 		<tag k="name:ja-Hrkt" v="ホンジョウ"/>
 	</node>
-	<node id="-24" lat="34.440186" lon="133.23177">
+	<node id="-19" lat="34.440186" lon="133.23177">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -288,7 +228,7 @@
 		<tag k="name:ja" v="今宮"/>
 		<tag k="name:ja-Hrkt" v="イマミヤ"/>
 	</node>
-	<node id="-25" lat="34.440548" lon="133.23215">
+	<node id="-20" lat="34.440548" lon="133.23215">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -300,7 +240,7 @@
 		<tag k="name:ja" v="今宮"/>
 		<tag k="name:ja-Hrkt" v="イマミヤ"/>
 	</node>
-	<node id="-26" lat="34.412518" lon="133.20593">
+	<node id="-21" lat="34.412518" lon="133.20593">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -312,7 +252,7 @@
 		<tag k="name:ja" v="防地口"/>
 		<tag k="name:ja-Hrkt" v="ボウジグチ"/>
 	</node>
-	<node id="-27" lat="34.41268" lon="133.20648">
+	<node id="-22" lat="34.41268" lon="133.20648">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -324,7 +264,7 @@
 		<tag k="name:ja" v="防地口"/>
 		<tag k="name:ja-Hrkt" v="ボウジグチ"/>
 	</node>
-	<node id="-28" lat="34.423077" lon="133.22797">
+	<node id="-23" lat="34.423077" lon="133.22797">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -336,7 +276,7 @@
 		<tag k="name:ja" v="今免"/>
 		<tag k="name:ja-Hrkt" v="イマメン"/>
 	</node>
-	<node id="-29" lat="34.421505" lon="133.2284">
+	<node id="-24" lat="34.421505" lon="133.2284">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -348,7 +288,7 @@
 		<tag k="name:ja" v="今免"/>
 		<tag k="name:ja-Hrkt" v="イマメン"/>
 	</node>
-	<node id="-30" lat="34.356705" lon="133.29073">
+	<node id="-25" lat="34.356705" lon="133.29073">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -360,7 +300,7 @@
 		<tag k="name:ja" v="町"/>
 		<tag k="name:ja-Hrkt" v="マチ"/>
 	</node>
-	<node id="-31" lat="34.356598" lon="133.2906">
+	<node id="-26" lat="34.356598" lon="133.2906">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -372,7 +312,7 @@
 		<tag k="name:ja" v="町"/>
 		<tag k="name:ja-Hrkt" v="マチ"/>
 	</node>
-	<node id="-32" lat="34.451378" lon="133.25484">
+	<node id="-27" lat="34.451378" lon="133.25484">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -384,7 +324,7 @@
 		<tag k="name:ja" v="松永"/>
 		<tag k="name:ja-Hrkt" v="マツナガ"/>
 	</node>
-	<node id="-33" lat="34.452087" lon="133.256">
+	<node id="-28" lat="34.452087" lon="133.256">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -396,19 +336,7 @@
 		<tag k="name:ja" v="松永"/>
 		<tag k="name:ja-Hrkt" v="マツナガ"/>
 	</node>
-	<node id="-34" lat="34.451168" lon="133.25862">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1083 2227"/>
-		<tag k="name" v="松永駅北口"/>
-		<tag k="name:en" v="Matsunaga Eki-kitaguchi(Matsunaga Sta.)"/>
-		<tag k="name:ja" v="松永駅北口"/>
-		<tag k="name:ja-Hrkt" v="マツナガエキキタグチ"/>
-	</node>
-	<node id="-35" lat="34.452618" lon="133.25725">
+	<node id="-29" lat="34.452618" lon="133.25725">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -420,31 +348,7 @@
 		<tag k="name:ja" v="松永駅前"/>
 		<tag k="name:ja-Hrkt" v="マツナガエキマエ"/>
 	</node>
-	<node id="-36" lat="34.45302" lon="133.25752">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1084 2230"/>
-		<tag k="name" v="松永駅前"/>
-		<tag k="name:en" v="Matsunaga Eki-mae"/>
-		<tag k="name:ja" v="松永駅前"/>
-		<tag k="name:ja-Hrkt" v="マツナガエキマエ"/>
-	</node>
-	<node id="-37" lat="34.452984" lon="133.25739">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1084 2231"/>
-		<tag k="name" v="松永駅前"/>
-		<tag k="name:en" v="Matsunaga Eki-mae"/>
-		<tag k="name:ja" v="松永駅前"/>
-		<tag k="name:ja-Hrkt" v="マツナガエキマエ"/>
-	</node>
-	<node id="-38" lat="34.453163" lon="133.2581">
+	<node id="-30" lat="34.453163" lon="133.2581">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -456,7 +360,7 @@
 		<tag k="name:ja" v="松永駅前"/>
 		<tag k="name:ja-Hrkt" v="マツナガエキマエ"/>
 	</node>
-	<node id="-39" lat="34.450443" lon="133.25887">
+	<node id="-31" lat="34.450443" lon="133.25887">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -468,7 +372,7 @@
 		<tag k="name:ja" v="松永駅南口"/>
 		<tag k="name:ja-Hrkt" v="マツナガエキミナミグチ"/>
 	</node>
-	<node id="-40" lat="34.453785" lon="133.26352">
+	<node id="-32" lat="34.453785" lon="133.26352">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -480,7 +384,7 @@
 		<tag k="name:ja" v="西警察署入口"/>
 		<tag k="name:ja-Hrkt" v="ニシケイサツショイリグチ"/>
 	</node>
-	<node id="-41" lat="34.45404" lon="133.26451">
+	<node id="-33" lat="34.45404" lon="133.26451">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -492,7 +396,7 @@
 		<tag k="name:ja" v="西警察署入口"/>
 		<tag k="name:ja-Hrkt" v="ニシケイサツショイリグチ"/>
 	</node>
-	<node id="-42" lat="34.447315" lon="133.25934">
+	<node id="-34" lat="34.447315" lon="133.25934">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -504,7 +408,7 @@
 		<tag k="name:ja" v="松永ｽﾎﾟｰﾂｾﾝﾀｰ前"/>
 		<tag k="name:ja-Hrkt" v="マツナガスポーツセンターマエ"/>
 	</node>
-	<node id="-43" lat="34.4475" lon="133.25943">
+	<node id="-35" lat="34.4475" lon="133.25943">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -516,7 +420,7 @@
 		<tag k="name:ja" v="松永ｽﾎﾟｰﾂｾﾝﾀｰ前"/>
 		<tag k="name:ja-Hrkt" v="マツナガスポーツセンターマエ"/>
 	</node>
-	<node id="-44" lat="34.446" lon="133.24666">
+	<node id="-36" lat="34.446" lon="133.24666">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -528,7 +432,7 @@
 		<tag k="name:ja" v="松永中学校前"/>
 		<tag k="name:ja-Hrkt" v="マツナガチュウガッコウマエ"/>
 	</node>
-	<node id="-45" lat="34.44554" lon="133.2468">
+	<node id="-37" lat="34.44554" lon="133.2468">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -540,7 +444,7 @@
 		<tag k="name:ja" v="松永中学校前"/>
 		<tag k="name:ja-Hrkt" v="マツナガチュウガッコウマエ"/>
 	</node>
-	<node id="-46" lat="34.443707" lon="133.2599">
+	<node id="-38" lat="34.443707" lon="133.2599">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -552,7 +456,7 @@
 		<tag k="name:ja" v="松永農協会館前"/>
 		<tag k="name:ja-Hrkt" v="マツナガノウキョウカイカンマエ"/>
 	</node>
-	<node id="-47" lat="34.443523" lon="133.25998">
+	<node id="-39" lat="34.443523" lon="133.25998">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -564,7 +468,7 @@
 		<tag k="name:ja" v="松永農協会館前"/>
 		<tag k="name:ja-Hrkt" v="マツナガノウキョウカイカンマエ"/>
 	</node>
-	<node id="-48" lat="34.459805" lon="133.36734">
+	<node id="-40" lat="34.459805" lon="133.36734">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -576,7 +480,7 @@
 		<tag k="name:ja" v="丸山口"/>
 		<tag k="name:ja-Hrkt" v="マルヤマグチ"/>
 	</node>
-	<node id="-49" lat="34.459457" lon="133.36769">
+	<node id="-41" lat="34.459457" lon="133.36769">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -588,7 +492,7 @@
 		<tag k="name:ja" v="丸山口"/>
 		<tag k="name:ja-Hrkt" v="マルヤマグチ"/>
 	</node>
-	<node id="-50" lat="34.478455" lon="133.3689">
+	<node id="-42" lat="34.478455" lon="133.3689">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -600,7 +504,7 @@
 		<tag k="name:ja" v="御門町"/>
 		<tag k="name:ja-Hrkt" v="ミカドチョウ"/>
 	</node>
-	<node id="-51" lat="34.478325" lon="133.36902">
+	<node id="-43" lat="34.478325" lon="133.36902">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -612,7 +516,7 @@
 		<tag k="name:ja" v="御門町"/>
 		<tag k="name:ja-Hrkt" v="ミカドチョウ"/>
 	</node>
-	<node id="-52" lat="34.394287" lon="133.26004">
+	<node id="-44" lat="34.394287" lon="133.26004">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -624,7 +528,7 @@
 		<tag k="name:ja" v="満越"/>
 		<tag k="name:ja-Hrkt" v="ミチゴエ"/>
 	</node>
-	<node id="-53" lat="34.40926" lon="133.21974">
+	<node id="-45" lat="34.40926" lon="133.21974">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -636,7 +540,7 @@
 		<tag k="name:ja" v="道輝会前"/>
 		<tag k="name:ja-Hrkt" v="ミチテルカイマエ"/>
 	</node>
-	<node id="-54" lat="34.409245" lon="133.22032">
+	<node id="-46" lat="34.409245" lon="133.22032">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -648,7 +552,7 @@
 		<tag k="name:ja" v="道輝会前"/>
 		<tag k="name:ja-Hrkt" v="ミチテルカイマエ"/>
 	</node>
-	<node id="-55" lat="34.48778" lon="133.37476">
+	<node id="-47" lat="34.48778" lon="133.37476">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -660,7 +564,7 @@
 		<tag k="name:ja" v="入船町"/>
 		<tag k="name:ja-Hrkt" v="イリフネチョウ"/>
 	</node>
-	<node id="-56" lat="34.38352" lon="133.38211">
+	<node id="-48" lat="34.38352" lon="133.38211">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -672,7 +576,7 @@
 		<tag k="name:ja" v="港口"/>
 		<tag k="name:ja-Hrkt" v="ミナトグチ"/>
 	</node>
-	<node id="-57" lat="34.383556" lon="133.38214">
+	<node id="-49" lat="34.383556" lon="133.38214">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -684,7 +588,7 @@
 		<tag k="name:ja" v="港口"/>
 		<tag k="name:ja-Hrkt" v="ミナトグチ"/>
 	</node>
-	<node id="-58" lat="34.48302" lon="133.36874">
+	<node id="-50" lat="34.48302" lon="133.36874">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -696,7 +600,7 @@
 		<tag k="name:ja" v="南小学校前"/>
 		<tag k="name:ja-Hrkt" v="ミナミショウガッコウマエ"/>
 	</node>
-	<node id="-59" lat="34.486477" lon="133.36876">
+	<node id="-51" lat="34.486477" lon="133.36876">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -708,7 +612,7 @@
 		<tag k="name:ja" v="南本通り"/>
 		<tag k="name:ja-Hrkt" v="ミナミホンドオリ"/>
 	</node>
-	<node id="-60" lat="34.486294" lon="133.36885">
+	<node id="-52" lat="34.486294" lon="133.36885">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -720,7 +624,7 @@
 		<tag k="name:ja" v="南本通り"/>
 		<tag k="name:ja-Hrkt" v="ミナミホンドオリ"/>
 	</node>
-	<node id="-61" lat="34.482643" lon="133.37065">
+	<node id="-53" lat="34.482643" lon="133.37065">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -732,7 +636,7 @@
 		<tag k="name:ja" v="南町"/>
 		<tag k="name:ja-Hrkt" v="ミナミマチ"/>
 	</node>
-	<node id="-62" lat="34.443363" lon="133.24832">
+	<node id="-54" lat="34.443363" lon="133.24832">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -744,7 +648,7 @@
 		<tag k="name:ja" v="南松永"/>
 		<tag k="name:ja-Hrkt" v="ミナミマツナガ"/>
 	</node>
-	<node id="-63" lat="34.443237" lon="133.24825">
+	<node id="-55" lat="34.443237" lon="133.24825">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -756,7 +660,7 @@
 		<tag k="name:ja" v="南松永"/>
 		<tag k="name:ja-Hrkt" v="ミナミマツナガ"/>
 	</node>
-	<node id="-64" lat="34.452766" lon="133.19362">
+	<node id="-56" lat="34.452766" lon="133.19362">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -768,7 +672,7 @@
 		<tag k="name:ja" v="三成"/>
 		<tag k="name:ja-Hrkt" v="ミナリ"/>
 	</node>
-	<node id="-65" lat="34.45371" lon="133.19295">
+	<node id="-57" lat="34.45371" lon="133.19295">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -780,19 +684,7 @@
 		<tag k="name:ja" v="三成"/>
 		<tag k="name:ja-Hrkt" v="ミナリ"/>
 	</node>
-	<node id="-66" lat="34.45067" lon="133.1952">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1134 2340"/>
-		<tag k="name" v="三成"/>
-		<tag k="name:en" v="Minari"/>
-		<tag k="name:ja" v="三成"/>
-		<tag k="name:ja-Hrkt" v="ミナリ"/>
-	</node>
-	<node id="-67" lat="34.453625" lon="133.20659">
+	<node id="-58" lat="34.453625" lon="133.20659">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -804,7 +696,7 @@
 		<tag k="name:ja" v="三成口"/>
 		<tag k="name:ja-Hrkt" v="ミナリグチ"/>
 	</node>
-	<node id="-68" lat="34.453564" lon="133.20659">
+	<node id="-59" lat="34.453564" lon="133.20659">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -816,7 +708,7 @@
 		<tag k="name:ja" v="三成口"/>
 		<tag k="name:ja-Hrkt" v="ミナリグチ"/>
 	</node>
-	<node id="-69" lat="34.453598" lon="133.20157">
+	<node id="-60" lat="34.453598" lon="133.20157">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -828,7 +720,7 @@
 		<tag k="name:ja" v="三成下組"/>
 		<tag k="name:ja-Hrkt" v="ミナリシモグミ"/>
 	</node>
-	<node id="-70" lat="34.45387" lon="133.20213">
+	<node id="-61" lat="34.45387" lon="133.20213">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -840,7 +732,7 @@
 		<tag k="name:ja" v="三成下組"/>
 		<tag k="name:ja-Hrkt" v="ミナリシモグミ"/>
 	</node>
-	<node id="-71" lat="34.451794" lon="133.19658">
+	<node id="-62" lat="34.451794" lon="133.19658">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -852,7 +744,7 @@
 		<tag k="name:ja" v="美之郷温泉口"/>
 		<tag k="name:ja-Hrkt" v="ミノゴウオンセングチ"/>
 	</node>
-	<node id="-72" lat="34.45174" lon="133.1966">
+	<node id="-63" lat="34.45174" lon="133.1966">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -864,7 +756,7 @@
 		<tag k="name:ja" v="美之郷温泉口"/>
 		<tag k="name:ja-Hrkt" v="ミノゴウオンセングチ"/>
 	</node>
-	<node id="-73" lat="34.452713" lon="133.37737">
+	<node id="-64" lat="34.452713" lon="133.37737">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -876,7 +768,7 @@
 		<tag k="name:ja" v="水呑"/>
 		<tag k="name:ja-Hrkt" v="ミノミ"/>
 	</node>
-	<node id="-74" lat="34.45272" lon="133.37746">
+	<node id="-65" lat="34.45272" lon="133.37746">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -888,7 +780,7 @@
 		<tag k="name:ja" v="水呑"/>
 		<tag k="name:ja-Hrkt" v="ミノミ"/>
 	</node>
-	<node id="-75" lat="34.465847" lon="133.36053">
+	<node id="-66" lat="34.465847" lon="133.36053">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -900,7 +792,7 @@
 		<tag k="name:ja" v="水呑大橋"/>
 		<tag k="name:ja-Hrkt" v="ミノミオオハシ"/>
 	</node>
-	<node id="-76" lat="34.465446" lon="133.36118">
+	<node id="-67" lat="34.465446" lon="133.36118">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -912,7 +804,7 @@
 		<tag k="name:ja" v="水呑大橋"/>
 		<tag k="name:ja-Hrkt" v="ミノミオオハシ"/>
 	</node>
-	<node id="-77" lat="34.45476" lon="133.37492">
+	<node id="-68" lat="34.45476" lon="133.37492">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -924,7 +816,7 @@
 		<tag k="name:ja" v="水呑高浦"/>
 		<tag k="name:ja-Hrkt" v="ミノミタカウラ"/>
 	</node>
-	<node id="-78" lat="34.454597" lon="133.37523">
+	<node id="-69" lat="34.454597" lon="133.37523">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -936,7 +828,7 @@
 		<tag k="name:ja" v="水呑高浦"/>
 		<tag k="name:ja-Hrkt" v="ミノミタカウラ"/>
 	</node>
-	<node id="-79" lat="34.447575" lon="133.38">
+	<node id="-70" lat="34.447575" lon="133.38">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -948,7 +840,7 @@
 		<tag k="name:ja" v="水呑小学校入口"/>
 		<tag k="name:ja-Hrkt" v="ミノミショウガッコウイリグチ"/>
 	</node>
-	<node id="-80" lat="34.447243" lon="133.38031">
+	<node id="-71" lat="34.447243" lon="133.38031">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -960,7 +852,7 @@
 		<tag k="name:ja" v="水呑小学校入口"/>
 		<tag k="name:ja-Hrkt" v="ミノミショウガッコウイリグチ"/>
 	</node>
-	<node id="-81" lat="34.458065" lon="133.36998">
+	<node id="-72" lat="34.458065" lon="133.36998">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -972,7 +864,7 @@
 		<tag k="name:ja" v="水呑薬師"/>
 		<tag k="name:ja-Hrkt" v="ミノミヤクシ"/>
 	</node>
-	<node id="-82" lat="34.457653" lon="133.37091">
+	<node id="-73" lat="34.457653" lon="133.37091">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -984,7 +876,7 @@
 		<tag k="name:ja" v="水呑薬師"/>
 		<tag k="name:ja-Hrkt" v="ミノミヤクシ"/>
 	</node>
-	<node id="-83" lat="34.487263" lon="133.3724">
+	<node id="-74" lat="34.487263" lon="133.3724">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -996,7 +888,7 @@
 		<tag k="name:ja" v="御船町"/>
 		<tag k="name:ja-Hrkt" v="ミフネチョウ"/>
 	</node>
-	<node id="-84" lat="34.486546" lon="133.37198">
+	<node id="-75" lat="34.486546" lon="133.37198">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1008,7 +900,7 @@
 		<tag k="name:ja" v="御船町"/>
 		<tag k="name:ja-Hrkt" v="ミフネチョウ"/>
 	</node>
-	<node id="-85" lat="34.483494" lon="133.34325">
+	<node id="-76" lat="34.483494" lon="133.34325">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1020,7 +912,7 @@
 		<tag k="name:ja" v="神島橋西詰"/>
 		<tag k="name:ja-Hrkt" v="カシマバシニシヅメ"/>
 	</node>
-	<node id="-86" lat="34.483307" lon="133.3438">
+	<node id="-77" lat="34.483307" lon="133.3438">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1032,7 +924,7 @@
 		<tag k="name:ja" v="神島橋西詰"/>
 		<tag k="name:ja-Hrkt" v="カシマバシニシヅメ"/>
 	</node>
-	<node id="-87" lat="34.47772" lon="133.34108">
+	<node id="-78" lat="34.47772" lon="133.34108">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1044,7 +936,7 @@
 		<tag k="name:ja" v="明王台小学校前"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウダイショウガッコウマエ"/>
 	</node>
-	<node id="-88" lat="34.47767" lon="133.341">
+	<node id="-79" lat="34.47767" lon="133.341">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1056,7 +948,7 @@
 		<tag k="name:ja" v="明王台小学校前"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウダイショウガッコウマエ"/>
 	</node>
-	<node id="-89" lat="34.474995" lon="133.34116">
+	<node id="-80" lat="34.474995" lon="133.34116">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1068,7 +960,7 @@
 		<tag k="name:ja" v="明王台センター"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウダイセンター"/>
 	</node>
-	<node id="-90" lat="34.475048" lon="133.3411">
+	<node id="-81" lat="34.475048" lon="133.3411">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1080,7 +972,7 @@
 		<tag k="name:ja" v="明王台センター"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウダイセンター"/>
 	</node>
-	<node id="-91" lat="34.476337" lon="133.33855">
+	<node id="-82" lat="34.476337" lon="133.33855">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1092,7 +984,7 @@
 		<tag k="name:ja" v="明王台中"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウダイナカ"/>
 	</node>
-	<node id="-92" lat="34.476044" lon="133.3388">
+	<node id="-83" lat="34.476044" lon="133.3388">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1104,7 +996,7 @@
 		<tag k="name:ja" v="明王台中"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウダイナカ"/>
 	</node>
-	<node id="-93" lat="34.47774" lon="133.3351">
+	<node id="-84" lat="34.47774" lon="133.3351">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1116,7 +1008,7 @@
 		<tag k="name:ja" v="明王台西"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウダイニシ"/>
 	</node>
-	<node id="-94" lat="34.477177" lon="133.33636">
+	<node id="-85" lat="34.477177" lon="133.33636">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1128,7 +1020,7 @@
 		<tag k="name:ja" v="明王台西"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウダイニシ"/>
 	</node>
-	<node id="-95" lat="34.467712" lon="133.35872">
+	<node id="-86" lat="34.467712" lon="133.35872">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1140,7 +1032,7 @@
 		<tag k="name:ja" v="妙見"/>
 		<tag k="name:ja-Hrkt" v="ミョウケン"/>
 	</node>
-	<node id="-96" lat="34.467148" lon="133.35938">
+	<node id="-87" lat="34.467148" lon="133.35938">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1152,31 +1044,7 @@
 		<tag k="name:ja" v="妙見"/>
 		<tag k="name:ja-Hrkt" v="ミョウケン"/>
 	</node>
-	<node id="-97" lat="34.48008" lon="133.24132">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1169 2416"/>
-		<tag k="name" v="妙皇寺前"/>
-		<tag k="name:en" v="Myokoji-mae"/>
-		<tag k="name:ja" v="妙皇寺前"/>
-		<tag k="name:ja-Hrkt" v="ミョウコウジマエ"/>
-	</node>
-	<node id="-98" lat="34.48008" lon="133.24126">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1169 2417"/>
-		<tag k="name" v="妙皇寺前"/>
-		<tag k="name:en" v="Myokoji-mae"/>
-		<tag k="name:ja" v="妙皇寺前"/>
-		<tag k="name:ja-Hrkt" v="ミョウコウジマエ"/>
-	</node>
-	<node id="-99" lat="34.417778" lon="133.29126">
+	<node id="-88" lat="34.417778" lon="133.29126">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1188,7 +1056,7 @@
 		<tag k="name:ja" v="岩川"/>
 		<tag k="name:ja-Hrkt" v="イワカワ"/>
 	</node>
-	<node id="-100" lat="34.417835" lon="133.29121">
+	<node id="-89" lat="34.417835" lon="133.29121">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1200,7 +1068,7 @@
 		<tag k="name:ja" v="岩川"/>
 		<tag k="name:ja-Hrkt" v="イワカワ"/>
 	</node>
-	<node id="-101" lat="34.490814" lon="133.37898">
+	<node id="-90" lat="34.490814" lon="133.37898">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1212,7 +1080,7 @@
 		<tag k="name:ja" v="三吉町南"/>
 		<tag k="name:ja-Hrkt" v="ミヨシチョウミナミ"/>
 	</node>
-	<node id="-102" lat="34.41998" lon="133.30235">
+	<node id="-91" lat="34.41998" lon="133.30235">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1224,7 +1092,7 @@
 		<tag k="name:ja" v="みろくの里"/>
 		<tag k="name:ja-Hrkt" v="ミロクノサト"/>
 	</node>
-	<node id="-103" lat="34.416283" lon="133.30513">
+	<node id="-92" lat="34.416283" lon="133.30513">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1236,7 +1104,7 @@
 		<tag k="name:ja" v="みろくの里入口"/>
 		<tag k="name:ja-Hrkt" v="ミロクノサトイリグチ"/>
 	</node>
-	<node id="-104" lat="34.4161" lon="133.30496">
+	<node id="-93" lat="34.4161" lon="133.30496">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1248,7 +1116,7 @@
 		<tag k="name:ja" v="みろくの里入口"/>
 		<tag k="name:ja-Hrkt" v="ミロクノサトイリグチ"/>
 	</node>
-	<node id="-105" lat="34.416416" lon="133.29666">
+	<node id="-94" lat="34.416416" lon="133.29666">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1260,7 +1128,7 @@
 		<tag k="name:ja" v="みろくの里西"/>
 		<tag k="name:ja-Hrkt" v="ミロクノサトニシ"/>
 	</node>
-	<node id="-106" lat="34.416466" lon="133.29648">
+	<node id="-95" lat="34.416466" lon="133.29648">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1272,7 +1140,7 @@
 		<tag k="name:ja" v="みろくの里西"/>
 		<tag k="name:ja-Hrkt" v="ミロクノサトニシ"/>
 	</node>
-	<node id="-107" lat="34.413635" lon="133.31322">
+	<node id="-96" lat="34.413635" lon="133.31322">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1284,7 +1152,7 @@
 		<tag k="name:ja" v="みろくの里東口"/>
 		<tag k="name:ja-Hrkt" v="ミロクノサトヒガシグチ"/>
 	</node>
-	<node id="-108" lat="34.413532" lon="133.31331">
+	<node id="-97" lat="34.413532" lon="133.31331">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1296,7 +1164,7 @@
 		<tag k="name:ja" v="みろくの里東口"/>
 		<tag k="name:ja-Hrkt" v="ミロクノサトヒガシグチ"/>
 	</node>
-	<node id="-109" lat="34.355278" lon="133.28687">
+	<node id="-98" lat="34.355278" lon="133.28687">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1308,7 +1176,7 @@
 		<tag k="name:ja" v="睦橋"/>
 		<tag k="name:ja-Hrkt" v="ムツミバシ"/>
 	</node>
-	<node id="-110" lat="34.355293" lon="133.28677">
+	<node id="-99" lat="34.355293" lon="133.28677">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1320,7 +1188,7 @@
 		<tag k="name:ja" v="睦橋"/>
 		<tag k="name:ja-Hrkt" v="ムツミバシ"/>
 	</node>
-	<node id="-111" lat="34.415573" lon="133.2778">
+	<node id="-100" lat="34.415573" lon="133.2778">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1332,7 +1200,7 @@
 		<tag k="name:ja" v="村境"/>
 		<tag k="name:ja-Hrkt" v="ムラザカイ"/>
 	</node>
-	<node id="-112" lat="34.41575" lon="133.27779">
+	<node id="-101" lat="34.41575" lon="133.27779">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1344,7 +1212,7 @@
 		<tag k="name:ja" v="村境"/>
 		<tag k="name:ja-Hrkt" v="ムラザカイ"/>
 	</node>
-	<node id="-113" lat="34.37317" lon="133.36652">
+	<node id="-102" lat="34.37317" lon="133.36652">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1356,7 +1224,7 @@
 		<tag k="name:ja" v="室浜口"/>
 		<tag k="name:ja-Hrkt" v="ムロハマグチ"/>
 	</node>
-	<node id="-114" lat="34.373245" lon="133.36655">
+	<node id="-103" lat="34.373245" lon="133.36655">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1368,7 +1236,7 @@
 		<tag k="name:ja" v="室浜口"/>
 		<tag k="name:ja-Hrkt" v="ムロハマグチ"/>
 	</node>
-	<node id="-115" lat="34.473072" lon="133.30548">
+	<node id="-104" lat="34.473072" lon="133.30548">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1380,7 +1248,7 @@
 		<tag k="name:ja" v="赤坂駅前"/>
 		<tag k="name:ja-Hrkt" v="アカサカエキマエ"/>
 	</node>
-	<node id="-116" lat="34.473183" lon="133.30576">
+	<node id="-105" lat="34.473183" lon="133.30576">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1392,7 +1260,7 @@
 		<tag k="name:ja" v="赤坂駅前"/>
 		<tag k="name:ja-Hrkt" v="アカサカエキマエ"/>
 	</node>
-	<node id="-117" lat="34.487747" lon="133.3685">
+	<node id="-106" lat="34.487747" lon="133.3685">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1404,31 +1272,7 @@
 		<tag k="name:ja" v="木綿橋"/>
 		<tag k="name:ja-Hrkt" v="モメンバシ"/>
 	</node>
-	<node id="-118" lat="34.45549" lon="133.21736">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1213 2508"/>
-		<tag k="name" v="森実"/>
-		<tag k="name:en" v="Morizane"/>
-		<tag k="name:ja" v="森実"/>
-		<tag k="name:ja-Hrkt" v="モリザネ"/>
-	</node>
-	<node id="-119" lat="34.455154" lon="133.21632">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1213 2509"/>
-		<tag k="name" v="森実"/>
-		<tag k="name:en" v="Morizane"/>
-		<tag k="name:ja" v="森実"/>
-		<tag k="name:ja-Hrkt" v="モリザネ"/>
-	</node>
-	<node id="-120" lat="34.41915" lon="133.27776">
+	<node id="-107" lat="34.41915" lon="133.27776">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1440,7 +1284,7 @@
 		<tag k="name:ja" v="植松"/>
 		<tag k="name:ja-Hrkt" v="ウエマツ"/>
 	</node>
-	<node id="-121" lat="34.419163" lon="133.2778">
+	<node id="-108" lat="34.419163" lon="133.2778">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1452,7 +1296,7 @@
 		<tag k="name:ja" v="植松"/>
 		<tag k="name:ja-Hrkt" v="ウエマツ"/>
 	</node>
-	<node id="-122" lat="34.404808" lon="133.30605">
+	<node id="-109" lat="34.404808" lon="133.30605">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1464,7 +1308,7 @@
 		<tag k="name:ja" v="矢操"/>
 		<tag k="name:ja-Hrkt" v="ヤクリ"/>
 	</node>
-	<node id="-123" lat="34.40511" lon="133.30621">
+	<node id="-110" lat="34.40511" lon="133.30621">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1476,31 +1320,7 @@
 		<tag k="name:ja" v="矢操"/>
 		<tag k="name:ja-Hrkt" v="ヤクリ"/>
 	</node>
-	<node id="-124" lat="34.455803" lon="133.25397">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1229 2541"/>
-		<tag k="name" v="矢捨"/>
-		<tag k="name:en" v="Yasute"/>
-		<tag k="name:ja" v="矢捨"/>
-		<tag k="name:ja-Hrkt" v="ヤステ"/>
-	</node>
-	<node id="-125" lat="34.45577" lon="133.25392">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1229 2542"/>
-		<tag k="name" v="矢捨"/>
-		<tag k="name:en" v="Yasute"/>
-		<tag k="name:ja" v="矢捨"/>
-		<tag k="name:ja-Hrkt" v="ヤステ"/>
-	</node>
-	<node id="-126" lat="34.453773" lon="133.21208">
+	<node id="-111" lat="34.453773" lon="133.21208">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1512,7 +1332,7 @@
 		<tag k="name:ja" v="柳井"/>
 		<tag k="name:ja-Hrkt" v="ヤナイ"/>
 	</node>
-	<node id="-127" lat="34.453842" lon="133.21208">
+	<node id="-112" lat="34.453842" lon="133.21208">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1524,31 +1344,7 @@
 		<tag k="name:ja" v="柳井"/>
 		<tag k="name:ja-Hrkt" v="ヤナイ"/>
 	</node>
-	<node id="-128" lat="34.454037" lon="133.21304">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1232 3"/>
-		<tag k="name" v="柳井"/>
-		<tag k="name:en" v="Yanai"/>
-		<tag k="name:ja" v="柳井"/>
-		<tag k="name:ja-Hrkt" v="ヤナイ"/>
-	</node>
-	<node id="-129" lat="34.45398" lon="133.21306">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1232 4"/>
-		<tag k="name" v="柳井"/>
-		<tag k="name:en" v="Yanai"/>
-		<tag k="name:ja" v="柳井"/>
-		<tag k="name:ja-Hrkt" v="ヤナイ"/>
-	</node>
-	<node id="-130" lat="34.436863" lon="133.26765">
+	<node id="-113" lat="34.436863" lon="133.26765">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1560,7 +1356,7 @@
 		<tag k="name:ja" v="柳津"/>
 		<tag k="name:ja-Hrkt" v="ヤナイヅ"/>
 	</node>
-	<node id="-131" lat="34.436832" lon="133.2674">
+	<node id="-114" lat="34.436832" lon="133.2674">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1572,7 +1368,7 @@
 		<tag k="name:ja" v="柳津"/>
 		<tag k="name:ja-Hrkt" v="ヤナイヅ"/>
 	</node>
-	<node id="-132" lat="34.43725" lon="133.27255">
+	<node id="-115" lat="34.43725" lon="133.27255">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1584,7 +1380,7 @@
 		<tag k="name:ja" v="柳津東"/>
 		<tag k="name:ja-Hrkt" v="ヤナイヅヒガシ"/>
 	</node>
-	<node id="-133" lat="34.43756" lon="133.27177">
+	<node id="-116" lat="34.43756" lon="133.27177">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1596,7 +1392,7 @@
 		<tag k="name:ja" v="柳津東"/>
 		<tag k="name:ja-Hrkt" v="ヤナイヅヒガシ"/>
 	</node>
-	<node id="-134" lat="34.446495" lon="133.29776">
+	<node id="-117" lat="34.446495" lon="133.29776">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1608,7 +1404,7 @@
 		<tag k="name:ja" v="山庄口"/>
 		<tag k="name:ja-Hrkt" v="ヤマショウグチ"/>
 	</node>
-	<node id="-135" lat="34.446465" lon="133.29787">
+	<node id="-118" lat="34.446465" lon="133.29787">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1620,31 +1416,7 @@
 		<tag k="name:ja" v="山庄口"/>
 		<tag k="name:ja-Hrkt" v="ヤマショウグチ"/>
 	</node>
-	<node id="-136" lat="34.47691" lon="133.24246">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1245 2573"/>
-		<tag k="name" v="山手橋"/>
-		<tag k="name:en" v="Yamatebashi"/>
-		<tag k="name:ja" v="山手橋"/>
-		<tag k="name:ja-Hrkt" v="ヤマテバシ"/>
-	</node>
-	<node id="-137" lat="34.476944" lon="133.2425">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1245 2574"/>
-		<tag k="name" v="山手橋"/>
-		<tag k="name:en" v="Yamatebashi"/>
-		<tag k="name:ja" v="山手橋"/>
-		<tag k="name:ja-Hrkt" v="ヤマテバシ"/>
-	</node>
-	<node id="-138" lat="34.437965" lon="133.23103">
+	<node id="-119" lat="34.437965" lon="133.23103">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1656,7 +1428,7 @@
 		<tag k="name:ja" v="山本病院前"/>
 		<tag k="name:ja-Hrkt" v="ヤマモトビョウインマエ"/>
 	</node>
-	<node id="-139" lat="34.43757" lon="133.23102">
+	<node id="-120" lat="34.43757" lon="133.23102">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1668,7 +1440,7 @@
 		<tag k="name:ja" v="山本病院前"/>
 		<tag k="name:ja-Hrkt" v="ヤマモトビョウインマエ"/>
 	</node>
-	<node id="-140" lat="34.39253" lon="133.2702">
+	<node id="-121" lat="34.39253" lon="133.2702">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1680,7 +1452,7 @@
 		<tag k="name:ja" v="遊園地前"/>
 		<tag k="name:ja-Hrkt" v="ユウエンチマエ"/>
 	</node>
-	<node id="-141" lat="34.392464" lon="133.27013">
+	<node id="-122" lat="34.392464" lon="133.27013">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1692,7 +1464,7 @@
 		<tag k="name:ja" v="遊園地前"/>
 		<tag k="name:ja-Hrkt" v="ユウエンチマエ"/>
 	</node>
-	<node id="-142" lat="34.44245" lon="133.25934">
+	<node id="-123" lat="34.44245" lon="133.25934">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1704,7 +1476,7 @@
 		<tag k="name:ja" v="長和島南"/>
 		<tag k="name:ja-Hrkt" v="ナガワジマミナミ"/>
 	</node>
-	<node id="-143" lat="34.442593" lon="133.2594">
+	<node id="-124" lat="34.442593" lon="133.2594">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1716,7 +1488,7 @@
 		<tag k="name:ja" v="長和島南"/>
 		<tag k="name:ja-Hrkt" v="ナガワジマミナミ"/>
 	</node>
-	<node id="-144" lat="34.381836" lon="133.32983">
+	<node id="-125" lat="34.381836" lon="133.32983">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1728,7 +1500,7 @@
 		<tag k="name:ja" v="横引"/>
 		<tag k="name:ja-Hrkt" v="ヨコビキ"/>
 	</node>
-	<node id="-145" lat="34.381763" lon="133.32986">
+	<node id="-126" lat="34.381763" lon="133.32986">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1740,55 +1512,7 @@
 		<tag k="name:ja" v="横引"/>
 		<tag k="name:ja-Hrkt" v="ヨコビキ"/>
 	</node>
-	<node id="-146" lat="34.48527" lon="133.23813">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1265 2620"/>
-		<tag k="name" v="吉田下"/>
-		<tag k="name:en" v="Yoshida-shimo"/>
-		<tag k="name:ja" v="吉田下"/>
-		<tag k="name:ja-Hrkt" v="ヨシダシモ"/>
-	</node>
-	<node id="-147" lat="34.485207" lon="133.2381">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1265 2621"/>
-		<tag k="name" v="吉田下"/>
-		<tag k="name:en" v="Yoshida-shimo"/>
-		<tag k="name:ja" v="吉田下"/>
-		<tag k="name:ja-Hrkt" v="ヨシダシモ"/>
-	</node>
-	<node id="-148" lat="34.48544" lon="133.23317">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1267 2624"/>
-		<tag k="name" v="吉田橋"/>
-		<tag k="name:en" v="Yoshidabashi"/>
-		<tag k="name:ja" v="吉田橋"/>
-		<tag k="name:ja-Hrkt" v="ヨシダバシ"/>
-	</node>
-	<node id="-149" lat="34.48551" lon="133.23322">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1267 2625"/>
-		<tag k="name" v="吉田橋"/>
-		<tag k="name:en" v="Yoshidabashi"/>
-		<tag k="name:ja" v="吉田橋"/>
-		<tag k="name:ja-Hrkt" v="ヨシダバシ"/>
-	</node>
-	<node id="-150" lat="34.38358" lon="133.37999">
+	<node id="-127" lat="34.38358" lon="133.37999">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1800,7 +1524,7 @@
 		<tag k="name:ja" v="四ツ角"/>
 		<tag k="name:ja-Hrkt" v="ヨツカド"/>
 	</node>
-	<node id="-151" lat="34.383614" lon="133.37999">
+	<node id="-128" lat="34.383614" lon="133.37999">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1812,7 +1536,7 @@
 		<tag k="name:ja" v="四ツ角"/>
 		<tag k="name:ja-Hrkt" v="ヨツカド"/>
 	</node>
-	<node id="-152" lat="34.43842" lon="133.26492">
+	<node id="-129" lat="34.43842" lon="133.26492">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1824,7 +1548,7 @@
 		<tag k="name:ja" v="四ツ堂"/>
 		<tag k="name:ja-Hrkt" v="ヨツドウ"/>
 	</node>
-	<node id="-153" lat="34.438354" lon="133.2648">
+	<node id="-130" lat="34.438354" lon="133.2648">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1836,7 +1560,7 @@
 		<tag k="name:ja" v="四ツ堂"/>
 		<tag k="name:ja-Hrkt" v="ヨツドウ"/>
 	</node>
-	<node id="-154" lat="34.38035" lon="133.37737">
+	<node id="-131" lat="34.38035" lon="133.37737">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1848,7 +1572,7 @@
 		<tag k="name:ja" v="阿藻珍味前"/>
 		<tag k="name:ja-Hrkt" v="アモチンミマエ"/>
 	</node>
-	<node id="-155" lat="34.38037" lon="133.3773">
+	<node id="-132" lat="34.38037" lon="133.3773">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1860,7 +1584,7 @@
 		<tag k="name:ja" v="阿藻珍味前"/>
 		<tag k="name:ja-Hrkt" v="アモチンミマエ"/>
 	</node>
-	<node id="-156" lat="34.48344" lon="133.37462">
+	<node id="-133" lat="34.48344" lon="133.37462">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1872,7 +1596,7 @@
 		<tag k="name:ja" v="リーデンローズ入口"/>
 		<tag k="name:ja-Hrkt" v="リーデンローズイリグチ"/>
 	</node>
-	<node id="-157" lat="34.48428" lon="133.37495">
+	<node id="-134" lat="34.48428" lon="133.37495">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1884,7 +1608,7 @@
 		<tag k="name:ja" v="リーデンローズ入口"/>
 		<tag k="name:ja-Hrkt" v="リーデンローズイリグチ"/>
 	</node>
-	<node id="-158" lat="34.487938" lon="133.35854">
+	<node id="-135" lat="34.487938" lon="133.35854">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1896,7 +1620,7 @@
 		<tag k="name:ja" v="リム・ふくやま前"/>
 		<tag k="name:ja-Hrkt" v="リムフクヤママエ"/>
 	</node>
-	<node id="-159" lat="34.434692" lon="133.33434">
+	<node id="-136" lat="34.434692" lon="133.33434">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1908,7 +1632,7 @@
 		<tag k="name:ja" v="六本堂"/>
 		<tag k="name:ja-Hrkt" v="ロッポンドウ"/>
 	</node>
-	<node id="-160" lat="34.434734" lon="133.33441">
+	<node id="-137" lat="34.434734" lon="133.33441">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1920,7 +1644,7 @@
 		<tag k="name:ja" v="六本堂"/>
 		<tag k="name:ja-Hrkt" v="ロッポンドウ"/>
 	</node>
-	<node id="-161" lat="34.436962" lon="133.33372">
+	<node id="-138" lat="34.436962" lon="133.33372">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1932,7 +1656,7 @@
 		<tag k="name:ja" v="六本堂下"/>
 		<tag k="name:ja-Hrkt" v="ロッポンドウシモ"/>
 	</node>
-	<node id="-162" lat="34.437035" lon="133.33379">
+	<node id="-139" lat="34.437035" lon="133.33379">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1944,7 +1668,7 @@
 		<tag k="name:ja" v="六本堂下"/>
 		<tag k="name:ja-Hrkt" v="ロッポンドウシモ"/>
 	</node>
-	<node id="-163" lat="34.407776" lon="133.1997">
+	<node id="-140" lat="34.407776" lon="133.1997">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1956,7 +1680,7 @@
 		<tag k="name:ja" v="渡場通り"/>
 		<tag k="name:ja-Hrkt" v="ワタシバドオリ"/>
 	</node>
-	<node id="-164" lat="34.408283" lon="133.20042">
+	<node id="-141" lat="34.408283" lon="133.20042">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1968,7 +1692,7 @@
 		<tag k="name:ja" v="渡場通り"/>
 		<tag k="name:ja-Hrkt" v="ワタシバドオリ"/>
 	</node>
-	<node id="-165" lat="34.39034" lon="133.10968">
+	<node id="-142" lat="34.39034" lon="133.10968">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1980,7 +1704,7 @@
 		<tag k="name:ja" v="青木"/>
 		<tag k="name:ja-Hrkt" v="アオキ"/>
 	</node>
-	<node id="-166" lat="34.39027" lon="133.11055">
+	<node id="-143" lat="34.39027" lon="133.11055">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1992,7 +1716,7 @@
 		<tag k="name:ja" v="青木"/>
 		<tag k="name:ja-Hrkt" v="アオキ"/>
 	</node>
-	<node id="-167" lat="34.387802" lon="133.13744">
+	<node id="-144" lat="34.387802" lon="133.13744">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2004,7 +1728,7 @@
 		<tag k="name:ja" v="赤石"/>
 		<tag k="name:ja-Hrkt" v="アカイシ"/>
 	</node>
-	<node id="-168" lat="34.38786" lon="133.13731">
+	<node id="-145" lat="34.38786" lon="133.13731">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2016,7 +1740,7 @@
 		<tag k="name:ja" v="赤石"/>
 		<tag k="name:ja-Hrkt" v="アカイシ"/>
 	</node>
-	<node id="-169" lat="34.369434" lon="133.34805">
+	<node id="-146" lat="34.369434" lon="133.34805">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2028,19 +1752,19 @@
 		<tag k="name:ja" v="阿伏兎観音"/>
 		<tag k="name:ja-Hrkt" v="アブトカンノン"/>
 	</node>
-	<node id="-170" lat="34.351723" lon="133.28749">
+	<node id="-147" lat="34.351723" lon="133.28749">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="131 269"/>
-		<tag k="name" v="内海農協前"/>
-		<tag k="name:en" v="Utsumi Nokyo-mae"/>
-		<tag k="name:ja" v="内海農協前"/>
-		<tag k="name:ja-Hrkt" v="ウツミノウキョウマエ"/>
+		<tag k="name" v="内海・横田漁港前"/>
+		<tag k="name:en" v="Utsumi Yokotagyoko mae"/>
+		<tag k="name:ja" v="内海・横田漁港前"/>
+		<tag k="name:ja-Hrkt" v="ウツミヨコタギョコウマエ"/>
 	</node>
-	<node id="-171" lat="34.391144" lon="133.10793">
+	<node id="-148" lat="34.391144" lon="133.10793">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2052,7 +1776,7 @@
 		<tag k="name:ja" v="一中前"/>
 		<tag k="name:ja-Hrkt" v="イッチュウマエ"/>
 	</node>
-	<node id="-172" lat="34.391846" lon="133.10686">
+	<node id="-149" lat="34.391846" lon="133.10686">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2064,7 +1788,7 @@
 		<tag k="name:ja" v="一中前"/>
 		<tag k="name:ja-Hrkt" v="イッチュウマエ"/>
 	</node>
-	<node id="-173" lat="34.39279" lon="133.10526">
+	<node id="-150" lat="34.39279" lon="133.10526">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2076,7 +1800,7 @@
 		<tag k="name:ja" v="糸崎駅前"/>
 		<tag k="name:ja-Hrkt" v="イトサキエキマエ"/>
 	</node>
-	<node id="-174" lat="34.39281" lon="133.10394">
+	<node id="-151" lat="34.39281" lon="133.10394">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2088,7 +1812,7 @@
 		<tag k="name:ja" v="糸崎駅前"/>
 		<tag k="name:ja-Hrkt" v="イトサキエキマエ"/>
 	</node>
-	<node id="-175" lat="34.382782" lon="133.11996">
+	<node id="-152" lat="34.382782" lon="133.11996">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2100,7 +1824,7 @@
 		<tag k="name:ja" v="糸碕神社東"/>
 		<tag k="name:ja-Hrkt" v="イトサキジンジャヒガシ"/>
 	</node>
-	<node id="-176" lat="34.382874" lon="133.11989">
+	<node id="-153" lat="34.382874" lon="133.11989">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2112,7 +1836,7 @@
 		<tag k="name:ja" v="糸碕神社東"/>
 		<tag k="name:ja-Hrkt" v="イトサキジンジャヒガシ"/>
 	</node>
-	<node id="-177" lat="34.384525" lon="133.11545">
+	<node id="-154" lat="34.384525" lon="133.11545">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2124,7 +1848,7 @@
 		<tag k="name:ja" v="糸碕神社前"/>
 		<tag k="name:ja-Hrkt" v="イトサキジンジャマエ"/>
 	</node>
-	<node id="-178" lat="34.384697" lon="133.115">
+	<node id="-155" lat="34.384697" lon="133.115">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2136,7 +1860,7 @@
 		<tag k="name:ja" v="糸碕神社前"/>
 		<tag k="name:ja-Hrkt" v="イトサキジンジャマエ"/>
 	</node>
-	<node id="-179" lat="34.393013" lon="133.14749">
+	<node id="-156" lat="34.393013" lon="133.14749">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2148,7 +1872,7 @@
 		<tag k="name:ja" v="内畠"/>
 		<tag k="name:ja-Hrkt" v="ウチバタケ"/>
 	</node>
-	<node id="-180" lat="34.392868" lon="133.1469">
+	<node id="-157" lat="34.392868" lon="133.1469">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2160,7 +1884,7 @@
 		<tag k="name:ja" v="内畠"/>
 		<tag k="name:ja-Hrkt" v="ウチバタケ"/>
 	</node>
-	<node id="-181" lat="34.399467" lon="133.27713">
+	<node id="-158" lat="34.399467" lon="133.27713">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2172,7 +1896,7 @@
 		<tag k="name:ja" v="浦崎中学校前"/>
 		<tag k="name:ja-Hrkt" v="ウラサキチュウガッコウマエ"/>
 	</node>
-	<node id="-182" lat="34.399467" lon="133.27719">
+	<node id="-159" lat="34.399467" lon="133.27719">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2184,7 +1908,7 @@
 		<tag k="name:ja" v="浦崎中学校前"/>
 		<tag k="name:ja-Hrkt" v="ウラサキチュウガッコウマエ"/>
 	</node>
-	<node id="-183" lat="34.40638" lon="133.27917">
+	<node id="-160" lat="34.40638" lon="133.27917">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2196,7 +1920,7 @@
 		<tag k="name:ja" v="浦崎農協前"/>
 		<tag k="name:ja-Hrkt" v="ウラサキノウキョウマエ"/>
 	</node>
-	<node id="-184" lat="34.405777" lon="133.27937">
+	<node id="-161" lat="34.405777" lon="133.27937">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2208,7 +1932,7 @@
 		<tag k="name:ja" v="浦崎農協前"/>
 		<tag k="name:ja-Hrkt" v="ウラサキノウキョウマエ"/>
 	</node>
-	<node id="-185" lat="34.441105" lon="133.39307">
+	<node id="-162" lat="34.441105" lon="133.39307">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2220,7 +1944,7 @@
 		<tag k="name:ja" v="運動公園"/>
 		<tag k="name:ja-Hrkt" v="ウンドウコウエン"/>
 	</node>
-	<node id="-186" lat="34.440617" lon="133.39381">
+	<node id="-163" lat="34.440617" lon="133.39381">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2232,31 +1956,7 @@
 		<tag k="name:ja" v="運動公園"/>
 		<tag k="name:ja-Hrkt" v="ウンドウコウエン"/>
 	</node>
-	<node id="-187" lat="34.507984" lon="133.23338">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1413 2917"/>
-		<tag k="name" v="大西谷"/>
-		<tag k="name:en" v="Onishidani"/>
-		<tag k="name:ja" v="大西谷"/>
-		<tag k="name:ja-Hrkt" v="オオニシダニ"/>
-	</node>
-	<node id="-188" lat="34.50804" lon="133.23329">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1413 2918"/>
-		<tag k="name" v="大西谷"/>
-		<tag k="name:en" v="Onishidani"/>
-		<tag k="name:ja" v="大西谷"/>
-		<tag k="name:ja-Hrkt" v="オオニシダニ"/>
-	</node>
-	<node id="-189" lat="34.401165" lon="133.08607">
+	<node id="-164" lat="34.401165" lon="133.08607">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2268,7 +1968,7 @@
 		<tag k="name:ja" v="大橋"/>
 		<tag k="name:ja-Hrkt" v="オオハシ"/>
 	</node>
-	<node id="-190" lat="34.40097" lon="133.08615">
+	<node id="-165" lat="34.40097" lon="133.08615">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2280,7 +1980,7 @@
 		<tag k="name:ja" v="大橋"/>
 		<tag k="name:ja-Hrkt" v="オオハシ"/>
 	</node>
-	<node id="-191" lat="34.44593" lon="133.1829">
+	<node id="-166" lat="34.44593" lon="133.1829">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2292,91 +1992,7 @@
 		<tag k="name:ja" v="尾道工業団地"/>
 		<tag k="name:ja-Hrkt" v="オノミチコウギョウダンチ"/>
 	</node>
-	<node id="-192" lat="34.499844" lon="133.22534">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1444 2978"/>
-		<tag k="name" v="小原"/>
-		<tag k="name:en" v="Obara"/>
-		<tag k="name:ja" v="小原"/>
-		<tag k="name:ja-Hrkt" v="オバラ"/>
-	</node>
-	<node id="-193" lat="34.49975" lon="133.2252">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1444 2979"/>
-		<tag k="name" v="小原"/>
-		<tag k="name:en" v="Obara"/>
-		<tag k="name:ja" v="小原"/>
-		<tag k="name:ja-Hrkt" v="オバラ"/>
-	</node>
-	<node id="-194" lat="34.507137" lon="133.23236">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1445 2981"/>
-		<tag k="name" v="小原上"/>
-		<tag k="name:en" v="Obara-kami"/>
-		<tag k="name:ja" v="小原上"/>
-		<tag k="name:ja-Hrkt" v="オバラカミ"/>
-	</node>
-	<node id="-195" lat="34.4911" lon="133.22797">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1446 2982"/>
-		<tag k="name" v="小原下組"/>
-		<tag k="name:en" v="Obara-shimogumi"/>
-		<tag k="name:ja" v="小原下組"/>
-		<tag k="name:ja-Hrkt" v="オバラシモグミ"/>
-	</node>
-	<node id="-196" lat="34.49108" lon="133.2279">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1446 2983"/>
-		<tag k="name" v="小原下組"/>
-		<tag k="name:en" v="Obara-shimogumi"/>
-		<tag k="name:ja" v="小原下組"/>
-		<tag k="name:ja-Hrkt" v="オバラシモグミ"/>
-	</node>
-	<node id="-197" lat="34.487137" lon="133.22957">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1467 3023"/>
-		<tag k="name" v="梶山田口"/>
-		<tag k="name:en" v="Kajiyamadaguchi"/>
-		<tag k="name:ja" v="梶山田口"/>
-		<tag k="name:ja-Hrkt" v="カジヤマダグチ"/>
-	</node>
-	<node id="-198" lat="34.487144" lon="133.22966">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1467 3024"/>
-		<tag k="name" v="梶山田口"/>
-		<tag k="name:en" v="Kajiyamadaguchi"/>
-		<tag k="name:ja" v="梶山田口"/>
-		<tag k="name:ja-Hrkt" v="カジヤマダグチ"/>
-	</node>
-	<node id="-199" lat="34.39795" lon="133.15634">
+	<node id="-167" lat="34.39795" lon="133.15634">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2388,7 +2004,7 @@
 		<tag k="name:ja" v="上福地"/>
 		<tag k="name:ja-Hrkt" v="カミフクチ"/>
 	</node>
-	<node id="-200" lat="34.389458" lon="133.13919">
+	<node id="-168" lat="34.389458" lon="133.13919">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2400,7 +2016,7 @@
 		<tag k="name:ja" v="観音寺下"/>
 		<tag k="name:ja-Hrkt" v="カンノンジシタ"/>
 	</node>
-	<node id="-201" lat="34.390163" lon="133.13997">
+	<node id="-169" lat="34.390163" lon="133.13997">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2412,7 +2028,7 @@
 		<tag k="name:ja" v="観音寺下"/>
 		<tag k="name:ja-Hrkt" v="カンノンジシタ"/>
 	</node>
-	<node id="-202" lat="34.391075" lon="133.14182">
+	<node id="-170" lat="34.391075" lon="133.14182">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2424,7 +2040,7 @@
 		<tag k="name:ja" v="木原小学校下"/>
 		<tag k="name:ja-Hrkt" v="キハラショウガッコウシタ"/>
 	</node>
-	<node id="-203" lat="34.391457" lon="133.14223">
+	<node id="-171" lat="34.391457" lon="133.14223">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2436,7 +2052,7 @@
 		<tag k="name:ja" v="木原小学校下"/>
 		<tag k="name:ja-Hrkt" v="キハラショウガッコウシタ"/>
 	</node>
-	<node id="-204" lat="34.382275" lon="133.378">
+	<node id="-172" lat="34.382275" lon="133.378">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2448,7 +2064,7 @@
 		<tag k="name:ja" v="江の浦"/>
 		<tag k="name:ja-Hrkt" v="エノウラ"/>
 	</node>
-	<node id="-205" lat="34.3823" lon="133.37796">
+	<node id="-173" lat="34.3823" lon="133.37796">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2460,7 +2076,7 @@
 		<tag k="name:ja" v="江の浦"/>
 		<tag k="name:ja-Hrkt" v="エノウラ"/>
 	</node>
-	<node id="-206" lat="34.39677" lon="133.09773">
+	<node id="-174" lat="34.39677" lon="133.09773">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2472,7 +2088,7 @@
 		<tag k="name:ja" v="寿町"/>
 		<tag k="name:ja-Hrkt" v="コトブキチョウ"/>
 	</node>
-	<node id="-207" lat="34.39625" lon="133.09833">
+	<node id="-175" lat="34.39625" lon="133.09833">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2484,7 +2100,7 @@
 		<tag k="name:ja" v="寿町"/>
 		<tag k="name:ja-Hrkt" v="コトブキチョウ"/>
 	</node>
-	<node id="-208" lat="34.393208" lon="133.27293">
+	<node id="-176" lat="34.393208" lon="133.27293">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2496,7 +2112,7 @@
 		<tag k="name:ja" v="海老東"/>
 		<tag k="name:ja-Hrkt" v="エビヒガシ"/>
 	</node>
-	<node id="-209" lat="34.393257" lon="133.27293">
+	<node id="-177" lat="34.393257" lon="133.27293">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2508,7 +2124,7 @@
 		<tag k="name:ja" v="海老東"/>
 		<tag k="name:ja-Hrkt" v="エビヒガシ"/>
 	</node>
-	<node id="-210" lat="34.38311" lon="133.12752">
+	<node id="-178" lat="34.38311" lon="133.12752">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2520,7 +2136,7 @@
 		<tag k="name:ja" v="下木原"/>
 		<tag k="name:ja-Hrkt" v="シモキハラ"/>
 	</node>
-	<node id="-211" lat="34.383137" lon="133.12704">
+	<node id="-179" lat="34.383137" lon="133.12704">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2532,7 +2148,7 @@
 		<tag k="name:ja" v="下木原"/>
 		<tag k="name:ja-Hrkt" v="シモキハラ"/>
 	</node>
-	<node id="-212" lat="34.45073" lon="133.3017">
+	<node id="-180" lat="34.45073" lon="133.3017">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2544,7 +2160,7 @@
 		<tag k="name:ja" v="園芸センター入口"/>
 		<tag k="name:ja-Hrkt" v="エンゲイセンターイリグチ"/>
 	</node>
-	<node id="-213" lat="34.450565" lon="133.30171">
+	<node id="-181" lat="34.450565" lon="133.30171">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2556,7 +2172,7 @@
 		<tag k="name:ja" v="園芸センター入口"/>
 		<tag k="name:ja-Hrkt" v="エンゲイセンターイリグチ"/>
 	</node>
-	<node id="-214" lat="34.400505" lon="133.08748">
+	<node id="-182" lat="34.400505" lon="133.08748">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2568,7 +2184,7 @@
 		<tag k="name:ja" v="城町"/>
 		<tag k="name:ja-Hrkt" v="シロマチ"/>
 	</node>
-	<node id="-215" lat="34.40044" lon="133.08766">
+	<node id="-183" lat="34.40044" lon="133.08766">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2580,7 +2196,7 @@
 		<tag k="name:ja" v="城町"/>
 		<tag k="name:ja-Hrkt" v="シロマチ"/>
 	</node>
-	<node id="-216" lat="34.398197" lon="133.09041">
+	<node id="-184" lat="34.398197" lon="133.09041">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2592,7 +2208,7 @@
 		<tag k="name:ja" v="新古浜"/>
 		<tag k="name:ja-Hrkt" v="シンコハマ"/>
 	</node>
-	<node id="-217" lat="34.397976" lon="133.09064">
+	<node id="-185" lat="34.397976" lon="133.09064">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2604,7 +2220,7 @@
 		<tag k="name:ja" v="新古浜"/>
 		<tag k="name:ja-Hrkt" v="シンコハマ"/>
 	</node>
-	<node id="-218" lat="34.394638" lon="133.15472">
+	<node id="-186" lat="34.394638" lon="133.15472">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2616,7 +2232,7 @@
 		<tag k="name:ja" v="尾道バイパス西詰"/>
 		<tag k="name:ja-Hrkt" v="オノミチバイパスニシヅメ"/>
 	</node>
-	<node id="-219" lat="34.394993" lon="133.15646">
+	<node id="-187" lat="34.394993" lon="133.15646">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2628,43 +2244,7 @@
 		<tag k="name:ja" v="尾道バイパス西詰"/>
 		<tag k="name:ja-Hrkt" v="オノミチバイパスニシヅメ"/>
 	</node>
-	<node id="-220" lat="34.52093" lon="133.23317">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1751 3589"/>
-		<tag k="name" v="柞磨"/>
-		<tag k="name:en" v="Taruma"/>
-		<tag k="name:ja" v="柞磨"/>
-		<tag k="name:ja-Hrkt" v="タルマ"/>
-	</node>
-	<node id="-221" lat="34.51764" lon="133.24042">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1752 3590"/>
-		<tag k="name" v="柞磨峠"/>
-		<tag k="name:en" v="Taruma Toge"/>
-		<tag k="name:ja" v="柞磨峠"/>
-		<tag k="name:ja-Hrkt" v="タルマトウゲ"/>
-	</node>
-	<node id="-222" lat="34.51757" lon="133.2403">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1752 3591"/>
-		<tag k="name" v="柞磨峠"/>
-		<tag k="name:en" v="Taruma Toge"/>
-		<tag k="name:ja" v="柞磨峠"/>
-		<tag k="name:ja-Hrkt" v="タルマトウゲ"/>
-	</node>
-	<node id="-223" lat="34.367825" lon="133.30154">
+	<node id="-188" lat="34.367825" lon="133.30154">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2676,7 +2256,7 @@
 		<tag k="name:ja" v="大浦"/>
 		<tag k="name:ja-Hrkt" v="オオウラ"/>
 	</node>
-	<node id="-224" lat="34.36781" lon="133.3016">
+	<node id="-189" lat="34.36781" lon="133.3016">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2688,31 +2268,7 @@
 		<tag k="name:ja" v="大浦"/>
 		<tag k="name:ja-Hrkt" v="オオウラ"/>
 	</node>
-	<node id="-225" lat="34.51128" lon="133.24025">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1786 3657"/>
-		<tag k="name" v="村田精工前"/>
-		<tag k="name:en" v="Murata Seiko-mae"/>
-		<tag k="name:ja" v="村田精工前"/>
-		<tag k="name:ja-Hrkt" v="ムラタセイコウマエ"/>
-	</node>
-	<node id="-226" lat="34.511242" lon="133.24002">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="1786 3658"/>
-		<tag k="name" v="村田精工前"/>
-		<tag k="name:en" v="Murata Seiko-mae"/>
-		<tag k="name:ja" v="村田精工前"/>
-		<tag k="name:ja-Hrkt" v="ムラタセイコウマエ"/>
-	</node>
-	<node id="-227" lat="34.39535" lon="133.16064">
+	<node id="-190" lat="34.39535" lon="133.16064">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2724,7 +2280,7 @@
 		<tag k="name:ja" v="登山口"/>
 		<tag k="name:ja-Hrkt" v="トザングチ"/>
 	</node>
-	<node id="-228" lat="34.390354" lon="133.31136">
+	<node id="-191" lat="34.390354" lon="133.31136">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2736,7 +2292,7 @@
 		<tag k="name:ja" v="大越峠"/>
 		<tag k="name:ja-Hrkt" v="オオゴエトウゲ"/>
 	</node>
-	<node id="-229" lat="34.39031" lon="133.31137">
+	<node id="-192" lat="34.39031" lon="133.31137">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2748,7 +2304,7 @@
 		<tag k="name:ja" v="大越峠"/>
 		<tag k="name:ja-Hrkt" v="オオゴエトウゲ"/>
 	</node>
-	<node id="-230" lat="34.387634" lon="133.30602">
+	<node id="-193" lat="34.387634" lon="133.30602">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2760,7 +2316,7 @@
 		<tag k="name:ja" v="大越浜"/>
 		<tag k="name:ja-Hrkt" v="オオゴエハマ"/>
 	</node>
-	<node id="-231" lat="34.387573" lon="133.30608">
+	<node id="-194" lat="34.387573" lon="133.30608">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2772,7 +2328,7 @@
 		<tag k="name:ja" v="大越浜"/>
 		<tag k="name:ja-Hrkt" v="オオゴエハマ"/>
 	</node>
-	<node id="-232" lat="34.40009" lon="133.08975">
+	<node id="-195" lat="34.40009" lon="133.08975">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2784,7 +2340,7 @@
 		<tag k="name:ja" v="日赤入口"/>
 		<tag k="name:ja-Hrkt" v="ニッセキイリグチ"/>
 	</node>
-	<node id="-233" lat="34.40012" lon="133.08965">
+	<node id="-196" lat="34.40012" lon="133.08965">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2796,7 +2352,7 @@
 		<tag k="name:ja" v="日赤入口"/>
 		<tag k="name:ja-Hrkt" v="ニッセキイリグチ"/>
 	</node>
-	<node id="-234" lat="34.40175" lon="133.08888">
+	<node id="-197" lat="34.40175" lon="133.08888">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2808,7 +2364,7 @@
 		<tag k="name:ja" v="日赤前"/>
 		<tag k="name:ja-Hrkt" v="ニッセキマエ"/>
 	</node>
-	<node id="-235" lat="34.40167" lon="133.08887">
+	<node id="-198" lat="34.40167" lon="133.08887">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2820,7 +2376,7 @@
 		<tag k="name:ja" v="日赤前"/>
 		<tag k="name:ja-Hrkt" v="ニッセキマエ"/>
 	</node>
-	<node id="-236" lat="34.374184" lon="133.3495">
+	<node id="-199" lat="34.374184" lon="133.3495">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2832,7 +2388,7 @@
 		<tag k="name:ja" v="能登原明神"/>
 		<tag k="name:ja-Hrkt" v="ノトハラミョウジン"/>
 	</node>
-	<node id="-237" lat="34.37423" lon="133.34961">
+	<node id="-200" lat="34.37423" lon="133.34961">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2844,7 +2400,7 @@
 		<tag k="name:ja" v="能登原明神"/>
 		<tag k="name:ja-Hrkt" v="ノトハラミョウジン"/>
 	</node>
-	<node id="-238" lat="34.43896" lon="133.38533">
+	<node id="-201" lat="34.43896" lon="133.38533">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2856,7 +2412,7 @@
 		<tag k="name:ja" v="大谷団地前"/>
 		<tag k="name:ja-Hrkt" v="オオタニダンチマエ"/>
 	</node>
-	<node id="-239" lat="34.438244" lon="133.38553">
+	<node id="-202" lat="34.438244" lon="133.38553">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2868,7 +2424,7 @@
 		<tag k="name:ja" v="大谷団地前"/>
 		<tag k="name:ja-Hrkt" v="オオタニダンチマエ"/>
 	</node>
-	<node id="-240" lat="34.425636" lon="133.2277">
+	<node id="-203" lat="34.425636" lon="133.2277">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2880,7 +2436,7 @@
 		<tag k="name:ja" v="太田橋"/>
 		<tag k="name:ja-Hrkt" v="オオタバシ"/>
 	</node>
-	<node id="-241" lat="34.427135" lon="133.228">
+	<node id="-204" lat="34.427135" lon="133.228">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2892,7 +2448,7 @@
 		<tag k="name:ja" v="太田橋"/>
 		<tag k="name:ja-Hrkt" v="オオタバシ"/>
 	</node>
-	<node id="-242" lat="34.393818" lon="133.1506">
+	<node id="-205" lat="34.393818" lon="133.1506">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2904,7 +2460,7 @@
 		<tag k="name:ja" v="福地"/>
 		<tag k="name:ja-Hrkt" v="フクチ"/>
 	</node>
-	<node id="-243" lat="34.393993" lon="133.1508">
+	<node id="-206" lat="34.393993" lon="133.1508">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2916,7 +2472,7 @@
 		<tag k="name:ja" v="福地"/>
 		<tag k="name:ja-Hrkt" v="フクチ"/>
 	</node>
-	<node id="-244" lat="34.395004" lon="133.1579">
+	<node id="-207" lat="34.395004" lon="133.1579">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2928,7 +2484,7 @@
 		<tag k="name:ja" v="福地浜"/>
 		<tag k="name:ja-Hrkt" v="フクチハマ"/>
 	</node>
-	<node id="-245" lat="34.395096" lon="133.15773">
+	<node id="-208" lat="34.395096" lon="133.15773">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2940,7 +2496,7 @@
 		<tag k="name:ja" v="福地浜"/>
 		<tag k="name:ja-Hrkt" v="フクチハマ"/>
 	</node>
-	<node id="-246" lat="34.431484" lon="133.33057">
+	<node id="-209" lat="34.431484" lon="133.33057">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2952,7 +2508,7 @@
 		<tag k="name:ja" v="大富"/>
 		<tag k="name:ja-Hrkt" v="オオトミ"/>
 	</node>
-	<node id="-247" lat="34.4317" lon="133.33102">
+	<node id="-210" lat="34.4317" lon="133.33102">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2964,7 +2520,7 @@
 		<tag k="name:ja" v="大富"/>
 		<tag k="name:ja-Hrkt" v="オオトミ"/>
 	</node>
-	<node id="-248" lat="34.39358" lon="133.10149">
+	<node id="-211" lat="34.39358" lon="133.10149">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2976,7 +2532,7 @@
 		<tag k="name:ja" v="糸崎3丁目"/>
 		<tag k="name:ja-Hrkt" v="イトサキサンチョウメ"/>
 	</node>
-	<node id="-249" lat="34.39395" lon="133.1011">
+	<node id="-212" lat="34.39395" lon="133.1011">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2988,7 +2544,7 @@
 		<tag k="name:ja" v="糸崎3丁目"/>
 		<tag k="name:ja-Hrkt" v="イトサキサンチョウメ"/>
 	</node>
-	<node id="-250" lat="34.38834" lon="133.11276">
+	<node id="-213" lat="34.38834" lon="133.11276">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3000,7 +2556,7 @@
 		<tag k="name:ja" v="港口"/>
 		<tag k="name:ja-Hrkt" v="ミナトグチ"/>
 	</node>
-	<node id="-251" lat="34.38791" lon="133.11281">
+	<node id="-214" lat="34.38791" lon="133.11281">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3012,7 +2568,7 @@
 		<tag k="name:ja" v="港口"/>
 		<tag k="name:ja-Hrkt" v="ミナトグチ"/>
 	</node>
-	<node id="-252" lat="34.401012" lon="133.08125">
+	<node id="-215" lat="34.401012" lon="133.08125">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3024,7 +2580,7 @@
 		<tag k="name:ja" v="三原駅"/>
 		<tag k="name:ja-Hrkt" v="ミハラエキ"/>
 	</node>
-	<node id="-253" lat="34.401012" lon="133.08163">
+	<node id="-216" lat="34.401012" lon="133.08163">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3036,7 +2592,7 @@
 		<tag k="name:ja" v="三原駅"/>
 		<tag k="name:ja-Hrkt" v="ミハラエキ"/>
 	</node>
-	<node id="-254" lat="34.401016" lon="133.0814">
+	<node id="-217" lat="34.401016" lon="133.0814">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3048,7 +2604,7 @@
 		<tag k="name:ja" v="三原駅"/>
 		<tag k="name:ja-Hrkt" v="ミハラエキ"/>
 	</node>
-	<node id="-255" lat="34.400227" lon="133.08229">
+	<node id="-218" lat="34.400227" lon="133.08229">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3060,7 +2616,7 @@
 		<tag k="name:ja" v="三原駅"/>
 		<tag k="name:ja-Hrkt" v="ミハラエキ"/>
 	</node>
-	<node id="-256" lat="34.400047" lon="133.08289">
+	<node id="-219" lat="34.400047" lon="133.08289">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3072,7 +2628,7 @@
 		<tag k="name:ja" v="三原駅"/>
 		<tag k="name:ja-Hrkt" v="ミハラエキ"/>
 	</node>
-	<node id="-257" lat="34.398067" lon="133.0965">
+	<node id="-220" lat="34.398067" lon="133.0965">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3084,7 +2640,7 @@
 		<tag k="name:ja" v="三原古浜橋"/>
 		<tag k="name:ja-Hrkt" v="ミハラコハマバシ"/>
 	</node>
-	<node id="-258" lat="34.398445" lon="133.09592">
+	<node id="-221" lat="34.398445" lon="133.09592">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3096,31 +2652,7 @@
 		<tag k="name:ja" v="三原古浜橋"/>
 		<tag k="name:ja-Hrkt" v="ミハラコハマバシ"/>
 	</node>
-	<node id="-259" lat="34.49282" lon="133.22644">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="2126 4340"/>
-		<tag k="name" v="吉浦"/>
-		<tag k="name:en" v="Yoshiura"/>
-		<tag k="name:ja" v="吉浦"/>
-		<tag k="name:ja-Hrkt" v="ヨシウラ"/>
-	</node>
-	<node id="-260" lat="34.49281" lon="133.22636">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="2126 4341"/>
-		<tag k="name" v="吉浦"/>
-		<tag k="name:en" v="Yoshiura"/>
-		<tag k="name:ja" v="吉浦"/>
-		<tag k="name:ja-Hrkt" v="ヨシウラ"/>
-	</node>
-	<node id="-261" lat="34.411163" lon="133.2133">
+	<node id="-222" lat="34.411163" lon="133.2133">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3132,7 +2664,7 @@
 		<tag k="name:ja" v="尾崎"/>
 		<tag k="name:ja-Hrkt" v="オザキ"/>
 	</node>
-	<node id="-262" lat="34.411297" lon="133.21382">
+	<node id="-223" lat="34.411297" lon="133.21382">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3144,7 +2676,7 @@
 		<tag k="name:ja" v="尾崎"/>
 		<tag k="name:ja-Hrkt" v="オザキ"/>
 	</node>
-	<node id="-263" lat="34.404213" lon="133.19368">
+	<node id="-224" lat="34.404213" lon="133.19368">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3156,7 +2688,7 @@
 		<tag k="name:ja" v="尾道駅前"/>
 		<tag k="name:ja-Hrkt" v="オノミチエキマエ"/>
 	</node>
-	<node id="-264" lat="34.41234" lon="133.22932">
+	<node id="-225" lat="34.41234" lon="133.22932">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3168,7 +2700,7 @@
 		<tag k="name:ja" v="尾道造船前"/>
 		<tag k="name:ja-Hrkt" v="オノミチゾウセンマエ"/>
 	</node>
-	<node id="-265" lat="34.4124" lon="133.22928">
+	<node id="-226" lat="34.4124" lon="133.22928">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3180,7 +2712,7 @@
 		<tag k="name:ja" v="尾道造船前"/>
 		<tag k="name:ja-Hrkt" v="オノミチゾウセンマエ"/>
 	</node>
-	<node id="-266" lat="34.46971" lon="133.32686">
+	<node id="-227" lat="34.46971" lon="133.32686">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3192,7 +2724,7 @@
 		<tag k="name:ja" v="温泉口"/>
 		<tag k="name:ja-Hrkt" v="オンセングチ"/>
 	</node>
-	<node id="-267" lat="34.46987" lon="133.32721">
+	<node id="-228" lat="34.46987" lon="133.32721">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3204,7 +2736,7 @@
 		<tag k="name:ja" v="温泉口"/>
 		<tag k="name:ja-Hrkt" v="オンセングチ"/>
 	</node>
-	<node id="-268" lat="34.439808" lon="133.39696">
+	<node id="-229" lat="34.439808" lon="133.39696">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3216,7 +2748,7 @@
 		<tag k="name:ja" v="河口大橋"/>
 		<tag k="name:ja-Hrkt" v="カコウオオハシ"/>
 	</node>
-	<node id="-269" lat="34.439865" lon="133.39706">
+	<node id="-230" lat="34.439865" lon="133.39706">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3228,7 +2760,7 @@
 		<tag k="name:ja" v="河口大橋"/>
 		<tag k="name:ja-Hrkt" v="カコウオオハシ"/>
 	</node>
-	<node id="-270" lat="34.48548" lon="133.34763">
+	<node id="-231" lat="34.48548" lon="133.34763">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3240,7 +2772,7 @@
 		<tag k="name:ja" v="神島橋"/>
 		<tag k="name:ja-Hrkt" v="カシマバシ"/>
 	</node>
-	<node id="-271" lat="34.485565" lon="133.34898">
+	<node id="-232" lat="34.485565" lon="133.34898">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3252,31 +2784,31 @@
 		<tag k="name:ja" v="神島橋"/>
 		<tag k="name:ja-Hrkt" v="カシマバシ"/>
 	</node>
-	<node id="-272" lat="34.484505" lon="133.36415">
+	<node id="-233" lat="34.484505" lon="133.36415">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="246 502"/>
-		<tag k="name" v="霞町"/>
-		<tag k="name:en" v="Kasumicho"/>
-		<tag k="name:ja" v="霞町"/>
-		<tag k="name:ja-Hrkt" v="カスミチョウ"/>
+		<tag k="name" v="ジーベック前"/>
+		<tag k="name:en" v="XEBEC mae"/>
+		<tag k="name:ja" v="ジーベック前"/>
+		<tag k="name:ja-Hrkt" v="ジーベックマエ"/>
 	</node>
-	<node id="-273" lat="34.48385" lon="133.36464">
+	<node id="-234" lat="34.48385" lon="133.36464">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="246 505"/>
-		<tag k="name" v="霞町"/>
-		<tag k="name:en" v="Kasumicho"/>
-		<tag k="name:ja" v="霞町"/>
-		<tag k="name:ja-Hrkt" v="カスミチョウ"/>
+		<tag k="name" v="ジーベック前"/>
+		<tag k="name:en" v="XEBEC mae"/>
+		<tag k="name:ja" v="ジーベック前"/>
+		<tag k="name:ja-Hrkt" v="ジーベックマエ"/>
 	</node>
-	<node id="-274" lat="34.397175" lon="133.31021">
+	<node id="-235" lat="34.397175" lon="133.31021">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3288,7 +2820,7 @@
 		<tag k="name:ja" v="片山"/>
 		<tag k="name:ja-Hrkt" v="カタヤマ"/>
 	</node>
-	<node id="-275" lat="34.397045" lon="133.31091">
+	<node id="-236" lat="34.397045" lon="133.31091">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3300,7 +2832,7 @@
 		<tag k="name:ja" v="片山"/>
 		<tag k="name:ja-Hrkt" v="カタヤマ"/>
 	</node>
-	<node id="-276" lat="34.444355" lon="133.38318">
+	<node id="-237" lat="34.444355" lon="133.38318">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3312,7 +2844,7 @@
 		<tag k="name:ja" v="葛城"/>
 		<tag k="name:ja-Hrkt" v="カツラギ"/>
 	</node>
-	<node id="-277" lat="34.44352" lon="133.38358">
+	<node id="-238" lat="34.44352" lon="133.38358">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3324,7 +2856,7 @@
 		<tag k="name:ja" v="葛城"/>
 		<tag k="name:ja-Hrkt" v="カツラギ"/>
 	</node>
-	<node id="-278" lat="34.417694" lon="133.38472">
+	<node id="-239" lat="34.417694" lon="133.38472">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3336,7 +2868,7 @@
 		<tag k="name:ja" v="金崎"/>
 		<tag k="name:ja-Hrkt" v="カナザキ"/>
 	</node>
-	<node id="-279" lat="34.41819" lon="133.38472">
+	<node id="-240" lat="34.41819" lon="133.38472">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3348,7 +2880,7 @@
 		<tag k="name:ja" v="金崎"/>
 		<tag k="name:ja-Hrkt" v="カナザキ"/>
 	</node>
-	<node id="-280" lat="34.457645" lon="133.34973">
+	<node id="-241" lat="34.457645" lon="133.34973">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3360,7 +2892,7 @@
 		<tag k="name:ja" v="上志田原"/>
 		<tag k="name:ja-Hrkt" v="カミシダハラ"/>
 	</node>
-	<node id="-281" lat="34.45758" lon="133.34973">
+	<node id="-242" lat="34.45758" lon="133.34973">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3372,7 +2904,7 @@
 		<tag k="name:ja" v="上志田原"/>
 		<tag k="name:ja-Hrkt" v="カミシダハラ"/>
 	</node>
-	<node id="-282" lat="34.463036" lon="133.28804">
+	<node id="-243" lat="34.463036" lon="133.28804">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3384,7 +2916,7 @@
 		<tag k="name:ja" v="神村町一区"/>
 		<tag k="name:ja-Hrkt" v="カムラチョウイック"/>
 	</node>
-	<node id="-283" lat="34.464104" lon="133.29028">
+	<node id="-244" lat="34.464104" lon="133.29028">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3396,7 +2928,7 @@
 		<tag k="name:ja" v="神村町一区"/>
 		<tag k="name:ja-Hrkt" v="カムラチョウイック"/>
 	</node>
-	<node id="-284" lat="34.461693" lon="133.28442">
+	<node id="-245" lat="34.461693" lon="133.28442">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3408,7 +2940,7 @@
 		<tag k="name:ja" v="神村町二区"/>
 		<tag k="name:ja-Hrkt" v="カムラチョウニク"/>
 	</node>
-	<node id="-285" lat="34.461666" lon="133.28456">
+	<node id="-246" lat="34.461666" lon="133.28456">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3420,7 +2952,7 @@
 		<tag k="name:ja" v="神村町二区"/>
 		<tag k="name:ja-Hrkt" v="カムラチョウニク"/>
 	</node>
-	<node id="-286" lat="34.46021" lon="133.2805">
+	<node id="-247" lat="34.46021" lon="133.2805">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3432,7 +2964,7 @@
 		<tag k="name:ja" v="神村町三区"/>
 		<tag k="name:ja-Hrkt" v="カムラチョウサンク"/>
 	</node>
-	<node id="-287" lat="34.460526" lon="133.28114">
+	<node id="-248" lat="34.460526" lon="133.28114">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3444,7 +2976,7 @@
 		<tag k="name:ja" v="神村町三区"/>
 		<tag k="name:ja-Hrkt" v="カムラチョウサンク"/>
 	</node>
-	<node id="-288" lat="34.458282" lon="133.27516">
+	<node id="-249" lat="34.458282" lon="133.27516">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3456,7 +2988,7 @@
 		<tag k="name:ja" v="神村町五区"/>
 		<tag k="name:ja-Hrkt" v="カムラチョウゴク"/>
 	</node>
-	<node id="-289" lat="34.458595" lon="133.27606">
+	<node id="-250" lat="34.458595" lon="133.27606">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3468,7 +3000,7 @@
 		<tag k="name:ja" v="神村町五区"/>
 		<tag k="name:ja-Hrkt" v="カムラチョウゴク"/>
 	</node>
-	<node id="-290" lat="34.455822" lon="133.26971">
+	<node id="-251" lat="34.455822" lon="133.26971">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3480,7 +3012,7 @@
 		<tag k="name:ja" v="神村町六区東"/>
 		<tag k="name:ja-Hrkt" v="カムラチョウロックヒガシ"/>
 	</node>
-	<node id="-291" lat="34.456257" lon="133.27042">
+	<node id="-252" lat="34.456257" lon="133.27042">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3492,7 +3024,7 @@
 		<tag k="name:ja" v="神村町六区東"/>
 		<tag k="name:ja-Hrkt" v="カムラチョウロックヒガシ"/>
 	</node>
-	<node id="-292" lat="34.409344" lon="133.27817">
+	<node id="-253" lat="34.409344" lon="133.27817">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3504,7 +3036,7 @@
 		<tag k="name:ja" v="唐樋"/>
 		<tag k="name:ja-Hrkt" v="カラヒ"/>
 	</node>
-	<node id="-293" lat="34.40929" lon="133.27834">
+	<node id="-254" lat="34.40929" lon="133.27834">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3516,7 +3048,7 @@
 		<tag k="name:ja" v="唐樋"/>
 		<tag k="name:ja-Hrkt" v="カラヒ"/>
 	</node>
-	<node id="-294" lat="34.467045" lon="133.29646">
+	<node id="-255" lat="34.467045" lon="133.29646">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3528,7 +3060,7 @@
 		<tag k="name:ja" v="河手橋"/>
 		<tag k="name:ja-Hrkt" v="カワテバシ"/>
 	</node>
-	<node id="-295" lat="34.466774" lon="133.2958">
+	<node id="-256" lat="34.466774" lon="133.2958">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3540,7 +3072,7 @@
 		<tag k="name:ja" v="河手橋"/>
 		<tag k="name:ja-Hrkt" v="カワテバシ"/>
 	</node>
-	<node id="-296" lat="34.449814" lon="133.33798">
+	<node id="-257" lat="34.449814" lon="133.33798">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3552,7 +3084,7 @@
 		<tag k="name:ja" v="かんかん石"/>
 		<tag k="name:ja-Hrkt" v="カンカンイシ"/>
 	</node>
-	<node id="-297" lat="34.449818" lon="133.33806">
+	<node id="-258" lat="34.449818" lon="133.33806">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3564,7 +3096,7 @@
 		<tag k="name:ja" v="かんかん石"/>
 		<tag k="name:ja-Hrkt" v="カンカンイシ"/>
 	</node>
-	<node id="-298" lat="34.4531" lon="133.17458">
+	<node id="-259" lat="34.4531" lon="133.17458">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3576,7 +3108,7 @@
 		<tag k="name:ja" v="木頃本郷"/>
 		<tag k="name:ja-Hrkt" v="キゴロホンゴウ"/>
 	</node>
-	<node id="-299" lat="34.453358" lon="133.17572">
+	<node id="-260" lat="34.453358" lon="133.17572">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3588,7 +3120,7 @@
 		<tag k="name:ja" v="木頃本郷"/>
 		<tag k="name:ja-Hrkt" v="キゴロホンゴウ"/>
 	</node>
-	<node id="-300" lat="34.446957" lon="133.33727">
+	<node id="-261" lat="34.446957" lon="133.33727">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3600,7 +3132,7 @@
 		<tag k="name:ja" v="木原"/>
 		<tag k="name:ja-Hrkt" v="キハラ"/>
 	</node>
-	<node id="-301" lat="34.44706" lon="133.33733">
+	<node id="-262" lat="34.44706" lon="133.33733">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3612,7 +3144,7 @@
 		<tag k="name:ja" v="木原"/>
 		<tag k="name:ja-Hrkt" v="キハラ"/>
 	</node>
-	<node id="-302" lat="34.484188" lon="133.33801">
+	<node id="-263" lat="34.484188" lon="133.33801">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3624,7 +3156,7 @@
 		<tag k="name:ja" v="近大付属広島高等学校中学校福山校前"/>
 		<tag k="name:ja-Hrkt" v="キンダイフゾクヒロシマコウトウガッコウチュウガッコウフクヤマコウマエ"/>
 	</node>
-	<node id="-303" lat="34.484108" lon="133.33794">
+	<node id="-264" lat="34.484108" lon="133.33794">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3636,7 +3168,7 @@
 		<tag k="name:ja" v="近大付属広島高等学校中学校福山校前"/>
 		<tag k="name:ja-Hrkt" v="キンダイフゾクヒロシマコウトウガッコウチュウガッコウフクヤマコウマエ"/>
 	</node>
-	<node id="-304" lat="34.474422" lon="133.3586">
+	<node id="-265" lat="34.474422" lon="133.3586">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3648,7 +3180,7 @@
 		<tag k="name:ja" v="ホーコス本社前"/>
 		<tag k="name:ja-Hrkt" v="ホーコスホンシャマエ"/>
 	</node>
-	<node id="-305" lat="34.475216" lon="133.35892">
+	<node id="-266" lat="34.475216" lon="133.35892">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3660,7 +3192,7 @@
 		<tag k="name:ja" v="ホーコス本社前"/>
 		<tag k="name:ja-Hrkt" v="ホーコスホンシャマエ"/>
 	</node>
-	<node id="-306" lat="34.47158" lon="133.35475">
+	<node id="-267" lat="34.47158" lon="133.35475">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3672,7 +3204,7 @@
 		<tag k="name:ja" v="草戸大橋"/>
 		<tag k="name:ja-Hrkt" v="クサドオオハシ"/>
 	</node>
-	<node id="-307" lat="34.471542" lon="133.35452">
+	<node id="-268" lat="34.471542" lon="133.35452">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3684,7 +3216,7 @@
 		<tag k="name:ja" v="草戸大橋"/>
 		<tag k="name:ja-Hrkt" v="クサドオオハシ"/>
 	</node>
-	<node id="-308" lat="34.475925" lon="133.35013">
+	<node id="-269" lat="34.475925" lon="133.35013">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3696,7 +3228,7 @@
 		<tag k="name:ja" v="明王院前"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウインマエ"/>
 	</node>
-	<node id="-309" lat="34.475685" lon="133.35045">
+	<node id="-270" lat="34.475685" lon="133.35045">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3708,7 +3240,7 @@
 		<tag k="name:ja" v="明王院前"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウインマエ"/>
 	</node>
-	<node id="-310" lat="34.409496" lon="133.22256">
+	<node id="-271" lat="34.409496" lon="133.22256">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3720,7 +3252,7 @@
 		<tag k="name:ja" v="桑田"/>
 		<tag k="name:ja-Hrkt" v="クワタ"/>
 	</node>
-	<node id="-311" lat="34.4097" lon="133.22305">
+	<node id="-272" lat="34.4097" lon="133.22305">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3732,7 +3264,7 @@
 		<tag k="name:ja" v="桑田"/>
 		<tag k="name:ja-Hrkt" v="クワタ"/>
 	</node>
-	<node id="-312" lat="34.467472" lon="133.36896">
+	<node id="-273" lat="34.467472" lon="133.36896">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3744,7 +3276,7 @@
 		<tag k="name:ja" v="エフピコアリーナふくやま前"/>
 		<tag k="name:ja-Hrkt" v="エフピコアリーナフクヤママエ"/>
 	</node>
-	<node id="-313" lat="34.489323" lon="133.36015">
+	<node id="-274" lat="34.489323" lon="133.36015">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3756,7 +3288,7 @@
 		<tag k="name:ja" v="県立歴史博物館前"/>
 		<tag k="name:ja-Hrkt" v="ケンリツレキシハクブツカンマエ"/>
 	</node>
-	<node id="-314" lat="34.4781" lon="133.36142">
+	<node id="-275" lat="34.4781" lon="133.36142">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3768,7 +3300,7 @@
 		<tag k="name:ja" v="神辺内科前"/>
 		<tag k="name:ja-Hrkt" v="カンベナイカマエ"/>
 	</node>
-	<node id="-315" lat="34.476788" lon="133.3617">
+	<node id="-276" lat="34.476788" lon="133.3617">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3780,7 +3312,7 @@
 		<tag k="name:ja" v="神辺内科前"/>
 		<tag k="name:ja-Hrkt" v="カンベナイカマエ"/>
 	</node>
-	<node id="-316" lat="34.477196" lon="133.36308">
+	<node id="-277" lat="34.477196" lon="133.36308">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3792,7 +3324,7 @@
 		<tag k="name:ja" v="神辺内科前"/>
 		<tag k="name:ja-Hrkt" v="カンベナイカマエ"/>
 	</node>
-	<node id="-317" lat="34.449284" lon="133.33313">
+	<node id="-278" lat="34.449284" lon="133.33313">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3804,7 +3336,7 @@
 		<tag k="name:ja" v="高下"/>
 		<tag k="name:ja-Hrkt" v="コウゲ"/>
 	</node>
-	<node id="-318" lat="34.449276" lon="133.33319">
+	<node id="-279" lat="34.449276" lon="133.33319">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3816,7 +3348,7 @@
 		<tag k="name:ja" v="高下"/>
 		<tag k="name:ja-Hrkt" v="コウゲ"/>
 	</node>
-	<node id="-319" lat="34.44185" lon="133.33609">
+	<node id="-280" lat="34.44185" lon="133.33609">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3824,11 +3356,11 @@
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="399 818"/>
 		<tag k="name" v="小林"/>
-		<tag k="name:en" v="Obayashi"/>
+		<tag k="name:en" v="Kobayashi"/>
 		<tag k="name:ja" v="小林"/>
 		<tag k="name:ja-Hrkt" v="オバヤシ"/>
 	</node>
-	<node id="-320" lat="34.44132" lon="133.3359">
+	<node id="-281" lat="34.44132" lon="133.3359">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3836,11 +3368,11 @@
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="399 819"/>
 		<tag k="name" v="小林"/>
-		<tag k="name:en" v="Obayashi"/>
+		<tag k="name:en" v="Kobayashi"/>
 		<tag k="name:ja" v="小林"/>
 		<tag k="name:ja-Hrkt" v="オバヤシ"/>
 	</node>
-	<node id="-321" lat="34.461697" lon="133.3291">
+	<node id="-282" lat="34.461697" lon="133.3291">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3852,7 +3384,7 @@
 		<tag k="name:ja" v="光寿園前"/>
 		<tag k="name:ja-Hrkt" v="コウジュエンマエ"/>
 	</node>
-	<node id="-322" lat="34.37619" lon="133.37196">
+	<node id="-283" lat="34.37619" lon="133.37196">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3864,7 +3396,7 @@
 		<tag k="name:ja" v="荒神社前"/>
 		<tag k="name:ja-Hrkt" v="コウジンジャマエ"/>
 	</node>
-	<node id="-323" lat="34.376225" lon="133.37195">
+	<node id="-284" lat="34.376225" lon="133.37195">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3876,7 +3408,7 @@
 		<tag k="name:ja" v="荒神社前"/>
 		<tag k="name:ja-Hrkt" v="コウジンジャマエ"/>
 	</node>
-	<node id="-324" lat="34.383057" lon="133.31918">
+	<node id="-285" lat="34.383057" lon="133.31918">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3888,7 +3420,7 @@
 		<tag k="name:ja" v="小尾越"/>
 		<tag k="name:ja-Hrkt" v="コオゴエ"/>
 	</node>
-	<node id="-325" lat="34.38288" lon="133.31929">
+	<node id="-286" lat="34.38288" lon="133.31929">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3900,7 +3432,7 @@
 		<tag k="name:ja" v="小尾越"/>
 		<tag k="name:ja-Hrkt" v="コオゴエ"/>
 	</node>
-	<node id="-326" lat="34.468624" lon="133.29935">
+	<node id="-287" lat="34.468624" lon="133.29935">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3912,7 +3444,7 @@
 		<tag k="name:ja" v="市立福山中高北"/>
 		<tag k="name:ja-Hrkt" v="シリツフクヤマチュウコウキタ"/>
 	</node>
-	<node id="-327" lat="34.46889" lon="133.29962">
+	<node id="-288" lat="34.46889" lon="133.29962">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3924,7 +3456,7 @@
 		<tag k="name:ja" v="市立福山中高北"/>
 		<tag k="name:ja-Hrkt" v="シリツフクヤマチュウコウキタ"/>
 	</node>
-	<node id="-328" lat="34.40302" lon="133.30612">
+	<node id="-289" lat="34.40302" lon="133.30612">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3936,7 +3468,7 @@
 		<tag k="name:ja" v="小坂"/>
 		<tag k="name:ja-Hrkt" v="オサカ"/>
 	</node>
-	<node id="-329" lat="34.402348" lon="133.3064">
+	<node id="-290" lat="34.402348" lon="133.3064">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3948,7 +3480,7 @@
 		<tag k="name:ja" v="小坂"/>
 		<tag k="name:ja-Hrkt" v="オサカ"/>
 	</node>
-	<node id="-330" lat="34.381493" lon="133.3345">
+	<node id="-291" lat="34.381493" lon="133.3345">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3960,7 +3492,7 @@
 		<tag k="name:ja" v="小桜"/>
 		<tag k="name:ja-Hrkt" v="コザクラ"/>
 	</node>
-	<node id="-331" lat="34.381516" lon="133.33472">
+	<node id="-292" lat="34.381516" lon="133.33472">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3972,7 +3504,7 @@
 		<tag k="name:ja" v="小桜"/>
 		<tag k="name:ja-Hrkt" v="コザクラ"/>
 	</node>
-	<node id="-332" lat="34.463085" lon="133.3278">
+	<node id="-293" lat="34.463085" lon="133.3278">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3984,7 +3516,7 @@
 		<tag k="name:ja" v="小立団地"/>
 		<tag k="name:ja-Hrkt" v="コタチダンチ"/>
 	</node>
-	<node id="-333" lat="34.463093" lon="133.32765">
+	<node id="-294" lat="34.463093" lon="133.32765">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3996,7 +3528,7 @@
 		<tag k="name:ja" v="小立団地"/>
 		<tag k="name:ja-Hrkt" v="コタチダンチ"/>
 	</node>
-	<node id="-334" lat="34.37764" lon="133.35216">
+	<node id="-295" lat="34.37764" lon="133.35216">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4008,7 +3540,7 @@
 		<tag k="name:ja" v="阿伏兎"/>
 		<tag k="name:ja-Hrkt" v="アブト"/>
 	</node>
-	<node id="-335" lat="34.48272" lon="133.3253">
+	<node id="-296" lat="34.48272" lon="133.3253">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4020,7 +3552,7 @@
 		<tag k="name:ja" v="小森"/>
 		<tag k="name:ja-Hrkt" v="コモリ"/>
 	</node>
-	<node id="-336" lat="34.48285" lon="133.32521">
+	<node id="-297" lat="34.48285" lon="133.32521">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4032,7 +3564,7 @@
 		<tag k="name:ja" v="小森"/>
 		<tag k="name:ja-Hrkt" v="コモリ"/>
 	</node>
-	<node id="-337" lat="34.37587" lon="133.34933">
+	<node id="-298" lat="34.37587" lon="133.34933">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4044,7 +3576,7 @@
 		<tag k="name:ja" v="阿伏兎観音入口"/>
 		<tag k="name:ja-Hrkt" v="アブトカンノンイリグチ"/>
 	</node>
-	<node id="-338" lat="34.375927" lon="133.34938">
+	<node id="-299" lat="34.375927" lon="133.34938">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4056,7 +3588,7 @@
 		<tag k="name:ja" v="阿伏兎観音入口"/>
 		<tag k="name:ja-Hrkt" v="アブトカンノンイリグチ"/>
 	</node>
-	<node id="-339" lat="34.391853" lon="133.28505">
+	<node id="-300" lat="34.391853" lon="133.28505">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4068,7 +3600,7 @@
 		<tag k="name:ja" v="境ヶ浜"/>
 		<tag k="name:ja-Hrkt" v="サカイガハマ"/>
 	</node>
-	<node id="-340" lat="34.39103" lon="133.28554">
+	<node id="-301" lat="34.39103" lon="133.28554">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4080,7 +3612,7 @@
 		<tag k="name:ja" v="境ヶ浜"/>
 		<tag k="name:ja-Hrkt" v="サカイガハマ"/>
 	</node>
-	<node id="-341" lat="34.379745" lon="133.33835">
+	<node id="-302" lat="34.379745" lon="133.33835">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4092,7 +3624,7 @@
 		<tag k="name:ja" v="桜"/>
 		<tag k="name:ja-Hrkt" v="サクラ"/>
 	</node>
-	<node id="-342" lat="34.379795" lon="133.33844">
+	<node id="-303" lat="34.379795" lon="133.33844">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4104,7 +3636,7 @@
 		<tag k="name:ja" v="桜"/>
 		<tag k="name:ja-Hrkt" v="サクラ"/>
 	</node>
-	<node id="-343" lat="34.38623" lon="133.32455">
+	<node id="-304" lat="34.38623" lon="133.32455">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4116,7 +3648,7 @@
 		<tag k="name:ja" v="阿北"/>
 		<tag k="name:ja-Hrkt" v="アホク"/>
 	</node>
-	<node id="-344" lat="34.385826" lon="133.3251">
+	<node id="-305" lat="34.385826" lon="133.3251">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4128,7 +3660,7 @@
 		<tag k="name:ja" v="阿北"/>
 		<tag k="name:ja-Hrkt" v="アホク"/>
 	</node>
-	<node id="-345" lat="34.484158" lon="133.33139">
+	<node id="-306" lat="34.484158" lon="133.33139">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4140,7 +3672,7 @@
 		<tag k="name:ja" v="佐波橋"/>
 		<tag k="name:ja-Hrkt" v="サババシ"/>
 	</node>
-	<node id="-346" lat="34.4842" lon="133.33167">
+	<node id="-307" lat="34.4842" lon="133.33167">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4152,7 +3684,7 @@
 		<tag k="name:ja" v="佐波橋"/>
 		<tag k="name:ja-Hrkt" v="サババシ"/>
 	</node>
-	<node id="-347" lat="34.472027" lon="133.31242">
+	<node id="-308" lat="34.472027" lon="133.31242">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4164,7 +3696,7 @@
 		<tag k="name:ja" v="山北"/>
 		<tag k="name:ja-Hrkt" v="サボク"/>
 	</node>
-	<node id="-348" lat="34.472855" lon="133.31317">
+	<node id="-309" lat="34.472855" lon="133.31317">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4176,7 +3708,7 @@
 		<tag k="name:ja" v="山北"/>
 		<tag k="name:ja-Hrkt" v="サボク"/>
 	</node>
-	<node id="-349" lat="34.46205" lon="133.36473">
+	<node id="-310" lat="34.46205" lon="133.36473">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4188,7 +3720,7 @@
 		<tag k="name:ja" v="洗谷団地"/>
 		<tag k="name:ja-Hrkt" v="アライダニダンチ"/>
 	</node>
-	<node id="-350" lat="34.4619" lon="133.365">
+	<node id="-311" lat="34.4619" lon="133.365">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4200,7 +3732,7 @@
 		<tag k="name:ja" v="洗谷団地"/>
 		<tag k="name:ja-Hrkt" v="アライダニダンチ"/>
 	</node>
-	<node id="-351" lat="34.41585" lon="133.31786">
+	<node id="-312" lat="34.41585" lon="133.31786">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4212,7 +3744,7 @@
 		<tag k="name:ja" v="山南農協前"/>
 		<tag k="name:ja-Hrkt" v="サンナノウキョウマエ"/>
 	</node>
-	<node id="-352" lat="34.4159" lon="133.31787">
+	<node id="-313" lat="34.4159" lon="133.31787">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4224,7 +3756,7 @@
 		<tag k="name:ja" v="山南農協前"/>
 		<tag k="name:ja-Hrkt" v="サンナノウキョウマエ"/>
 	</node>
-	<node id="-353" lat="34.415913" lon="133.23149">
+	<node id="-314" lat="34.415913" lon="133.23149">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4236,7 +3768,7 @@
 		<tag k="name:ja" v="山波"/>
 		<tag k="name:ja-Hrkt" v="サンバ"/>
 	</node>
-	<node id="-354" lat="34.41563" lon="133.23157">
+	<node id="-315" lat="34.41563" lon="133.23157">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4248,31 +3780,7 @@
 		<tag k="name:ja" v="山波"/>
 		<tag k="name:ja-Hrkt" v="サンバ"/>
 	</node>
-	<node id="-355" lat="34.46694" lon="133.24638">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="470 958"/>
-		<tag k="name" v="松永北農協"/>
-		<tag k="name:en" v="Matsunaga Kita Nokyo"/>
-		<tag k="name:ja" v="松永北農協"/>
-		<tag k="name:ja-Hrkt" v="マツナガキタノウキョウ"/>
-	</node>
-	<node id="-356" lat="34.466743" lon="133.24654">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="470 959"/>
-		<tag k="name" v="松永北農協"/>
-		<tag k="name:en" v="Matsunaga Kita Nokyo"/>
-		<tag k="name:ja" v="松永北農協"/>
-		<tag k="name:ja-Hrkt" v="マツナガキタノウキョウ"/>
-	</node>
-	<node id="-357" lat="34.37864" lon="133.32129">
+	<node id="-316" lat="34.37864" lon="133.32129">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4284,7 +3792,7 @@
 		<tag k="name:ja" v="敷名"/>
 		<tag k="name:ja-Hrkt" v="シキナ"/>
 	</node>
-	<node id="-358" lat="34.37844" lon="133.32141">
+	<node id="-317" lat="34.37844" lon="133.32141">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4296,7 +3804,7 @@
 		<tag k="name:ja" v="敷名"/>
 		<tag k="name:ja-Hrkt" v="シキナ"/>
 	</node>
-	<node id="-359" lat="34.476208" lon="133.31552">
+	<node id="-318" lat="34.476208" lon="133.31552">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4308,7 +3816,7 @@
 		<tag k="name:ja" v="運転免許センター前"/>
 		<tag k="name:ja-Hrkt" v="ウンテンメンキョセンターマエ"/>
 	</node>
-	<node id="-360" lat="34.477055" lon="133.31622">
+	<node id="-319" lat="34.477055" lon="133.31622">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4320,7 +3828,7 @@
 		<tag k="name:ja" v="運転免許センター前"/>
 		<tag k="name:ja-Hrkt" v="ウンテンメンキョセンターマエ"/>
 	</node>
-	<node id="-361" lat="34.456844" lon="133.34497">
+	<node id="-320" lat="34.456844" lon="133.34497">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4332,7 +3840,7 @@
 		<tag k="name:ja" v="志田原"/>
 		<tag k="name:ja-Hrkt" v="シダハラ"/>
 	</node>
-	<node id="-362" lat="34.456814" lon="133.34537">
+	<node id="-321" lat="34.456814" lon="133.34537">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4344,7 +3852,7 @@
 		<tag k="name:ja" v="志田原"/>
 		<tag k="name:ja-Hrkt" v="シダハラ"/>
 	</node>
-	<node id="-363" lat="34.453403" lon="133.34048">
+	<node id="-322" lat="34.453403" lon="133.34048">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4356,7 +3864,7 @@
 		<tag k="name:ja" v="志田原団地前"/>
 		<tag k="name:ja-Hrkt" v="シダハラダンチマエ"/>
 	</node>
-	<node id="-364" lat="34.45354" lon="133.34071">
+	<node id="-323" lat="34.45354" lon="133.34071">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4368,7 +3876,7 @@
 		<tag k="name:ja" v="志田原団地前"/>
 		<tag k="name:ja-Hrkt" v="シダハラダンチマエ"/>
 	</node>
-	<node id="-365" lat="34.45074" lon="133.2302">
+	<node id="-324" lat="34.45074" lon="133.2302">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4380,7 +3888,7 @@
 		<tag k="name:ja" v="下西"/>
 		<tag k="name:ja-Hrkt" v="シモニシ"/>
 	</node>
-	<node id="-366" lat="34.450687" lon="133.23009">
+	<node id="-325" lat="34.450687" lon="133.23009">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4392,7 +3900,7 @@
 		<tag k="name:ja" v="下西"/>
 		<tag k="name:ja-Hrkt" v="シモニシ"/>
 	</node>
-	<node id="-367" lat="34.449883" lon="133.23369">
+	<node id="-326" lat="34.449883" lon="133.23369">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4404,7 +3912,7 @@
 		<tag k="name:ja" v="下西消防屯所前"/>
 		<tag k="name:ja-Hrkt" v="シモニシショウボウトンショマエ"/>
 	</node>
-	<node id="-368" lat="34.449806" lon="133.23369">
+	<node id="-327" lat="34.449806" lon="133.23369">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4416,7 +3924,7 @@
 		<tag k="name:ja" v="下西消防屯所前"/>
 		<tag k="name:ja-Hrkt" v="シモニシショウボウトンショマエ"/>
 	</node>
-	<node id="-369" lat="34.44366" lon="133.3365">
+	<node id="-328" lat="34.44366" lon="133.3365">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4428,7 +3936,7 @@
 		<tag k="name:ja" v="下山田"/>
 		<tag k="name:ja-Hrkt" v="シモヤマダ"/>
 	</node>
-	<node id="-370" lat="34.44398" lon="133.33662">
+	<node id="-329" lat="34.44398" lon="133.33662">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4440,7 +3948,7 @@
 		<tag k="name:ja" v="下山田"/>
 		<tag k="name:ja-Hrkt" v="シモヤマダ"/>
 	</node>
-	<node id="-371" lat="34.486416" lon="133.36243">
+	<node id="-330" lat="34.486416" lon="133.36243">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4452,7 +3960,7 @@
 		<tag k="name:ja" v="市役所北"/>
 		<tag k="name:ja-Hrkt" v="シヤクショキタ"/>
 	</node>
-	<node id="-372" lat="34.486168" lon="133.36353">
+	<node id="-331" lat="34.486168" lon="133.36353">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4464,7 +3972,7 @@
 		<tag k="name:ja" v="市役所東"/>
 		<tag k="name:ja-Hrkt" v="シヤクショヒガシ"/>
 	</node>
-	<node id="-373" lat="34.48474" lon="133.36128">
+	<node id="-332" lat="34.48474" lon="133.36128">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4476,7 +3984,7 @@
 		<tag k="name:ja" v="市役所前"/>
 		<tag k="name:ja-Hrkt" v="シヤクショマエ"/>
 	</node>
-	<node id="-374" lat="34.485188" lon="133.36255">
+	<node id="-333" lat="34.485188" lon="133.36255">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4488,7 +3996,7 @@
 		<tag k="name:ja" v="市役所前"/>
 		<tag k="name:ja-Hrkt" v="シヤクショマエ"/>
 	</node>
-	<node id="-375" lat="34.441418" lon="133.3849">
+	<node id="-334" lat="34.441418" lon="133.3849">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4500,7 +4008,7 @@
 		<tag k="name:ja" v="商業高校入口"/>
 		<tag k="name:ja-Hrkt" v="ショウギョウコウコウイリグチ"/>
 	</node>
-	<node id="-376" lat="34.441006" lon="133.38503">
+	<node id="-335" lat="34.441006" lon="133.38503">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4512,7 +4020,7 @@
 		<tag k="name:ja" v="商業高校入口"/>
 		<tag k="name:ja-Hrkt" v="ショウギョウコウコウイリグチ"/>
 	</node>
-	<node id="-377" lat="34.396587" lon="133.3126">
+	<node id="-336" lat="34.396587" lon="133.3126">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4524,7 +4032,7 @@
 		<tag k="name:ja" v="明治橋"/>
 		<tag k="name:ja-Hrkt" v="メイジバシ"/>
 	</node>
-	<node id="-378" lat="34.39632" lon="133.31435">
+	<node id="-337" lat="34.39632" lon="133.31435">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4536,7 +4044,7 @@
 		<tag k="name:ja" v="明治橋"/>
 		<tag k="name:ja-Hrkt" v="メイジバシ"/>
 	</node>
-	<node id="-379" lat="34.480988" lon="133.36523">
+	<node id="-338" lat="34.480988" lon="133.36523">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4548,7 +4056,7 @@
 		<tag k="name:ja" v="商工中金前"/>
 		<tag k="name:ja-Hrkt" v="ショウコウチュウキンマエ"/>
 	</node>
-	<node id="-380" lat="34.48117" lon="133.36551">
+	<node id="-339" lat="34.48117" lon="133.36551">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4560,7 +4068,7 @@
 		<tag k="name:ja" v="商工中金前"/>
 		<tag k="name:ja-Hrkt" v="ショウコウチュウキンマエ"/>
 	</node>
-	<node id="-381" lat="34.41118" lon="133.31013">
+	<node id="-340" lat="34.41118" lon="133.31013">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4572,7 +4080,7 @@
 		<tag k="name:ja" v="沼南高校前"/>
 		<tag k="name:ja-Hrkt" v="ショウナンコウコウマエ"/>
 	</node>
-	<node id="-382" lat="34.41172" lon="133.31075">
+	<node id="-341" lat="34.41172" lon="133.31075">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4584,7 +4092,7 @@
 		<tag k="name:ja" v="沼南高校前"/>
 		<tag k="name:ja-Hrkt" v="ショウナンコウコウマエ"/>
 	</node>
-	<node id="-383" lat="34.40581" lon="133.38109">
+	<node id="-342" lat="34.40581" lon="133.38109">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4596,7 +4104,7 @@
 		<tag k="name:ja" v="白茅"/>
 		<tag k="name:ja-Hrkt" v="シラカヤ"/>
 	</node>
-	<node id="-384" lat="34.405663" lon="133.38115">
+	<node id="-343" lat="34.405663" lon="133.38115">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4608,7 +4116,7 @@
 		<tag k="name:ja" v="白茅"/>
 		<tag k="name:ja-Hrkt" v="シラカヤ"/>
 	</node>
-	<node id="-385" lat="34.378983" lon="133.34128">
+	<node id="-344" lat="34.378983" lon="133.34128">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4620,7 +4128,7 @@
 		<tag k="name:ja" v="白浜"/>
 		<tag k="name:ja-Hrkt" v="シラハマ"/>
 	</node>
-	<node id="-386" lat="34.37908" lon="133.34135">
+	<node id="-345" lat="34.37908" lon="133.34135">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4632,31 +4140,7 @@
 		<tag k="name:ja" v="白浜"/>
 		<tag k="name:ja-Hrkt" v="シラハマ"/>
 	</node>
-	<node id="-387" lat="34.443993" lon="133.20941">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="54 109"/>
-		<tag k="name" v="アロン化成前"/>
-		<tag k="name:en" v="Aron Kasei-mae"/>
-		<tag k="name:ja" v="アロン化成前"/>
-		<tag k="name:ja-Hrkt" v="アロンカセイマエ"/>
-	</node>
-	<node id="-388" lat="34.443993" lon="133.20932">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="54 110"/>
-		<tag k="name" v="アロン化成前"/>
-		<tag k="name:en" v="Aron Kasei-mae"/>
-		<tag k="name:ja" v="アロン化成前"/>
-		<tag k="name:ja-Hrkt" v="アロンカセイマエ"/>
-	</node>
-	<node id="-389" lat="34.43512" lon="133.27657">
+	<node id="-346" lat="34.43512" lon="133.27657">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4668,7 +4152,7 @@
 		<tag k="name:ja" v="新池"/>
 		<tag k="name:ja-Hrkt" v="シンイケ"/>
 	</node>
-	<node id="-390" lat="34.435192" lon="133.27634">
+	<node id="-347" lat="34.435192" lon="133.27634">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4680,7 +4164,7 @@
 		<tag k="name:ja" v="新池"/>
 		<tag k="name:ja-Hrkt" v="シンイケ"/>
 	</node>
-	<node id="-391" lat="34.393047" lon="133.31921">
+	<node id="-348" lat="34.393047" lon="133.31921">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4692,7 +4176,7 @@
 		<tag k="name:ja" v="新川"/>
 		<tag k="name:ja-Hrkt" v="シンカワ"/>
 	</node>
-	<node id="-392" lat="34.393368" lon="133.3193">
+	<node id="-349" lat="34.393368" lon="133.3193">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4704,7 +4188,7 @@
 		<tag k="name:ja" v="新川"/>
 		<tag k="name:ja-Hrkt" v="シンカワ"/>
 	</node>
-	<node id="-393" lat="34.47924" lon="133.32089">
+	<node id="-350" lat="34.47924" lon="133.32089">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4716,7 +4200,7 @@
 		<tag k="name:ja" v="新川崎橋"/>
 		<tag k="name:ja-Hrkt" v="シンカワサキバシ"/>
 	</node>
-	<node id="-394" lat="34.479298" lon="133.32066">
+	<node id="-351" lat="34.479298" lon="133.32066">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4728,7 +4212,7 @@
 		<tag k="name:ja" v="新川崎橋"/>
 		<tag k="name:ja-Hrkt" v="シンカワサキバシ"/>
 	</node>
-	<node id="-395" lat="34.4449" lon="133.239">
+	<node id="-352" lat="34.4449" lon="133.239">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4740,7 +4224,7 @@
 		<tag k="name:ja" v="真川橋"/>
 		<tag k="name:ja-Hrkt" v="シンカワバシ"/>
 	</node>
-	<node id="-396" lat="34.44518" lon="133.23938">
+	<node id="-353" lat="34.44518" lon="133.23938">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4752,7 +4236,7 @@
 		<tag k="name:ja" v="真川橋"/>
 		<tag k="name:ja-Hrkt" v="シンカワバシ"/>
 	</node>
-	<node id="-397" lat="34.422882" lon="133.3093">
+	<node id="-354" lat="34.422882" lon="133.3093">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4764,7 +4248,7 @@
 		<tag k="name:ja" v="神勝寺"/>
 		<tag k="name:ja-Hrkt" v="シンショウジ"/>
 	</node>
-	<node id="-398" lat="34.389027" lon="133.38165">
+	<node id="-355" lat="34.389027" lon="133.38165">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4776,7 +4260,7 @@
 		<tag k="name:ja" v="安国寺下"/>
 		<tag k="name:ja-Hrkt" v="アンコクジシタ"/>
 	</node>
-	<node id="-399" lat="34.388653" lon="133.38185">
+	<node id="-356" lat="34.388653" lon="133.38185">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4788,7 +4272,7 @@
 		<tag k="name:ja" v="安国寺下"/>
 		<tag k="name:ja-Hrkt" v="アンコクジシタ"/>
 	</node>
-	<node id="-400" lat="34.487625" lon="133.37885">
+	<node id="-357" lat="34.487625" lon="133.37885">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4800,7 +4284,7 @@
 		<tag k="name:ja" v="新橋"/>
 		<tag k="name:ja-Hrkt" v="シンバシ"/>
 	</node>
-	<node id="-401" lat="34.466377" lon="133.32127">
+	<node id="-358" lat="34.466377" lon="133.32127">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4812,7 +4296,7 @@
 		<tag k="name:ja" v="地頭分"/>
 		<tag k="name:ja-Hrkt" v="ジトウブ"/>
 	</node>
-	<node id="-402" lat="34.46625" lon="133.3209">
+	<node id="-359" lat="34.46625" lon="133.3209">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4824,7 +4308,7 @@
 		<tag k="name:ja" v="地頭分"/>
 		<tag k="name:ja-Hrkt" v="ジトウブ"/>
 	</node>
-	<node id="-403" lat="34.474503" lon="133.31366">
+	<node id="-360" lat="34.474503" lon="133.31366">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4836,7 +4320,7 @@
 		<tag k="name:ja" v="こども家庭センター前"/>
 		<tag k="name:ja-Hrkt" v="コドモカテイセンターマエ"/>
 	</node>
-	<node id="-404" lat="34.474674" lon="133.31363">
+	<node id="-361" lat="34.474674" lon="133.31363">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4848,7 +4332,7 @@
 		<tag k="name:ja" v="こども家庭センター前"/>
 		<tag k="name:ja-Hrkt" v="コドモカテイセンターマエ"/>
 	</node>
-	<node id="-405" lat="34.48041" lon="133.35931">
+	<node id="-362" lat="34.48041" lon="133.35931">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4860,7 +4344,7 @@
 		<tag k="name:ja" v="地吹町(老人大学前)"/>
 		<tag k="name:ja-Hrkt" v="ジブキチョウロウジンダイガクマエ"/>
 	</node>
-	<node id="-406" lat="34.48015" lon="133.35945">
+	<node id="-363" lat="34.48015" lon="133.35945">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4872,7 +4356,7 @@
 		<tag k="name:ja" v="地吹町(老人大学前)"/>
 		<tag k="name:ja-Hrkt" v="ジブキチョウロウジンダイガクマエ"/>
 	</node>
-	<node id="-407" lat="34.4091" lon="133.38261">
+	<node id="-364" lat="34.4091" lon="133.38261">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4884,7 +4368,7 @@
 		<tag k="name:ja" v="エクセル鞆の浦前"/>
 		<tag k="name:ja-Hrkt" v="エクセルトモノウラマエ"/>
 	</node>
-	<node id="-408" lat="34.40966" lon="133.38266">
+	<node id="-365" lat="34.40966" lon="133.38266">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4896,31 +4380,7 @@
 		<tag k="name:ja" v="エクセル鞆の浦前"/>
 		<tag k="name:ja-Hrkt" v="エクセルトモノウラマエ"/>
 	</node>
-	<node id="-409" lat="34.462" lon="133.25044">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="587 1199"/>
-		<tag k="name" v="住宅前"/>
-		<tag k="name:en" v="Jutaku-mae"/>
-		<tag k="name:ja" v="住宅前"/>
-		<tag k="name:ja-Hrkt" v="ジュウタクマエ"/>
-	</node>
-	<node id="-410" lat="34.462074" lon="133.25046">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="587 1200"/>
-		<tag k="name" v="住宅前"/>
-		<tag k="name:en" v="Jutaku-mae"/>
-		<tag k="name:ja" v="住宅前"/>
-		<tag k="name:ja-Hrkt" v="ジュウタクマエ"/>
-	</node>
-	<node id="-411" lat="34.411385" lon="133.2101">
+	<node id="-366" lat="34.411385" lon="133.2101">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4932,7 +4392,7 @@
 		<tag k="name:ja" v="浄土寺下"/>
 		<tag k="name:ja-Hrkt" v="ジョウドジシタ"/>
 	</node>
-	<node id="-412" lat="34.41119" lon="133.21019">
+	<node id="-367" lat="34.41119" lon="133.21019">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4944,7 +4404,7 @@
 		<tag k="name:ja" v="浄土寺下"/>
 		<tag k="name:ja-Hrkt" v="ジョウドジシタ"/>
 	</node>
-	<node id="-413" lat="34.46171" lon="133.36115">
+	<node id="-368" lat="34.46171" lon="133.36115">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4956,7 +4416,7 @@
 		<tag k="name:ja" v="城陽団地"/>
 		<tag k="name:ja-Hrkt" v="ジョウヨウダンチ"/>
 	</node>
-	<node id="-414" lat="34.461735" lon="133.36133">
+	<node id="-369" lat="34.461735" lon="133.36133">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4968,7 +4428,7 @@
 		<tag k="name:ja" v="城陽団地"/>
 		<tag k="name:ja-Hrkt" v="ジョウヨウダンチ"/>
 	</node>
-	<node id="-415" lat="34.483265" lon="133.35472">
+	<node id="-370" lat="34.483265" lon="133.35472">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4980,7 +4440,7 @@
 		<tag k="name:ja" v="上下水道局前"/>
 		<tag k="name:ja-Hrkt" v="ジョウゲスイドウキョクマエ"/>
 	</node>
-	<node id="-416" lat="34.48298" lon="133.35533">
+	<node id="-371" lat="34.48298" lon="133.35533">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4992,7 +4452,7 @@
 		<tag k="name:ja" v="上下水道局前"/>
 		<tag k="name:ja-Hrkt" v="ジョウゲスイドウキョクマエ"/>
 	</node>
-	<node id="-417" lat="34.48287" lon="133.33241">
+	<node id="-372" lat="34.48287" lon="133.33241">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5004,7 +4464,7 @@
 		<tag k="name:ja" v="スイミングスクール前"/>
 		<tag k="name:ja-Hrkt" v="スイミングスクールマエ"/>
 	</node>
-	<node id="-418" lat="34.483116" lon="133.33281">
+	<node id="-373" lat="34.483116" lon="133.33281">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5016,31 +4476,31 @@
 		<tag k="name:ja" v="スイミングスクール前"/>
 		<tag k="name:ja-Hrkt" v="スイミングスクールマエ"/>
 	</node>
-	<node id="-419" lat="34.450035" lon="133.25172">
+	<node id="-374" lat="34.450035" lon="133.25172">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="608 1241"/>
-		<tag k="name" v="のとテック前（末広大橋）"/>
-		<tag k="name:en" v="NotoTEC-mae Suehiro Ohashi"/>
-		<tag k="name:ja" v="のとテック前（末広大橋）"/>
+		<tag k="name" v="末広大橋"/>
+		<tag k="name:en" v="Suehiro Ohashi"/>
+		<tag k="name:ja" v="末広大橋"/>
 		<tag k="name:ja-Hrkt" v="スエヒロオオハシ"/>
 	</node>
-	<node id="-420" lat="34.450016" lon="133.25192">
+	<node id="-375" lat="34.450016" lon="133.25192">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="608 1242"/>
-		<tag k="name" v="のとテック前（末広大橋）"/>
-		<tag k="name:en" v="NotoTEC-mae Suehiro Ohashi"/>
-		<tag k="name:ja" v="のとテック前（末広大橋）"/>
+		<tag k="name" v="末広大橋"/>
+		<tag k="name:en" v="Suehiro Ohashi"/>
+		<tag k="name:ja" v="末広大橋"/>
 		<tag k="name:ja-Hrkt" v="スエヒロオオハシ"/>
 	</node>
-	<node id="-421" lat="34.484432" lon="133.35112">
+	<node id="-376" lat="34.484432" lon="133.35112">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5052,7 +4512,7 @@
 		<tag k="name:ja" v="池の淵"/>
 		<tag k="name:ja-Hrkt" v="イケノフチ"/>
 	</node>
-	<node id="-422" lat="34.484432" lon="133.35123">
+	<node id="-377" lat="34.484432" lon="133.35123">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5064,7 +4524,7 @@
 		<tag k="name:ja" v="池の淵"/>
 		<tag k="name:ja-Hrkt" v="イケノフチ"/>
 	</node>
-	<node id="-423" lat="34.42428" lon="133.32178">
+	<node id="-378" lat="34.42428" lon="133.32178">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5076,7 +4536,7 @@
 		<tag k="name:ja" v="沼隈特別支援学校前"/>
 		<tag k="name:ja-Hrkt" v="ヌマクマトクベツシエンガッコウマエ"/>
 	</node>
-	<node id="-424" lat="34.424274" lon="133.32184">
+	<node id="-379" lat="34.423943" lon="133.32188">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5088,7 +4548,7 @@
 		<tag k="name:ja" v="沼隈特別支援学校前"/>
 		<tag k="name:ja-Hrkt" v="ヌマクマトクベツシエンガッコウマエ"/>
 	</node>
-	<node id="-425" lat="34.489494" lon="133.38008">
+	<node id="-380" lat="34.489494" lon="133.38008">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5100,31 +4560,7 @@
 		<tag k="name:ja" v="すこやかセンター前"/>
 		<tag k="name:ja-Hrkt" v="スコヤカセンターマエ"/>
 	</node>
-	<node id="-426" lat="34.468616" lon="133.24576">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="61 123"/>
-		<tag k="name" v="石井医院前"/>
-		<tag k="name:en" v="Ishiiiin-mae"/>
-		<tag k="name:ja" v="石井医院前"/>
-		<tag k="name:ja-Hrkt" v="イシイイインマエ"/>
-	</node>
-	<node id="-427" lat="34.468643" lon="133.24573">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="61 124"/>
-		<tag k="name" v="石井医院前"/>
-		<tag k="name:en" v="Ishiiiin-mae"/>
-		<tag k="name:ja" v="石井医院前"/>
-		<tag k="name:ja-Hrkt" v="イシイイインマエ"/>
-	</node>
-	<node id="-428" lat="34.475327" lon="133.3272">
+	<node id="-381" lat="34.475327" lon="133.3272">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5136,7 +4572,7 @@
 		<tag k="name:ja" v="瀬戸片山"/>
 		<tag k="name:ja-Hrkt" v="セトカタヤマ"/>
 	</node>
-	<node id="-429" lat="34.475353" lon="133.32712">
+	<node id="-382" lat="34.475353" lon="133.32712">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5148,7 +4584,7 @@
 		<tag k="name:ja" v="瀬戸片山"/>
 		<tag k="name:ja-Hrkt" v="セトカタヤマ"/>
 	</node>
-	<node id="-430" lat="34.46327" lon="133.32068">
+	<node id="-383" lat="34.46327" lon="133.32068">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5160,7 +4596,7 @@
 		<tag k="name:ja" v="瀬戸川住宅"/>
 		<tag k="name:ja-Hrkt" v="セトガワジュウタク"/>
 	</node>
-	<node id="-431" lat="34.463238" lon="133.32063">
+	<node id="-384" lat="34.463238" lon="133.32063">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5172,7 +4608,7 @@
 		<tag k="name:ja" v="瀬戸川住宅"/>
 		<tag k="name:ja-Hrkt" v="セトガワジュウタク"/>
 	</node>
-	<node id="-432" lat="34.456066" lon="133.32483">
+	<node id="-385" lat="34.456066" lon="133.32483">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5184,7 +4620,7 @@
 		<tag k="name:ja" v="瀬戸ゴルフ前"/>
 		<tag k="name:ja-Hrkt" v="セトゴルフマエ"/>
 	</node>
-	<node id="-433" lat="34.455997" lon="133.32509">
+	<node id="-386" lat="34.455997" lon="133.32509">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5196,7 +4632,7 @@
 		<tag k="name:ja" v="瀬戸ゴルフ前"/>
 		<tag k="name:ja-Hrkt" v="セトゴルフマエ"/>
 	</node>
-	<node id="-434" lat="34.47868" lon="133.33437">
+	<node id="-387" lat="34.47868" lon="133.33437">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5208,7 +4644,7 @@
 		<tag k="name:ja" v="瀬戸調整池前"/>
 		<tag k="name:ja-Hrkt" v="セトチョウセイチマエ"/>
 	</node>
-	<node id="-435" lat="34.478676" lon="133.3342">
+	<node id="-388" lat="34.478676" lon="133.3342">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5220,7 +4656,7 @@
 		<tag k="name:ja" v="瀬戸調整池前"/>
 		<tag k="name:ja-Hrkt" v="セトチョウセイチマエ"/>
 	</node>
-	<node id="-436" lat="34.46823" lon="133.32426">
+	<node id="-389" lat="34.46823" lon="133.32426">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5232,7 +4668,7 @@
 		<tag k="name:ja" v="瀬戸農協"/>
 		<tag k="name:ja-Hrkt" v="セトノウキョウ"/>
 	</node>
-	<node id="-437" lat="34.468315" lon="133.32437">
+	<node id="-390" lat="34.468315" lon="133.32437">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5244,7 +4680,7 @@
 		<tag k="name:ja" v="瀬戸農協"/>
 		<tag k="name:ja-Hrkt" v="セトノウキョウ"/>
 	</node>
-	<node id="-438" lat="34.479588" lon="133.33443">
+	<node id="-391" lat="34.479588" lon="133.33443">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5256,7 +4692,7 @@
 		<tag k="name:ja" v="明王台瀬戸入口"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウダイセトイリグチ"/>
 	</node>
-	<node id="-439" lat="34.48091" lon="133.33456">
+	<node id="-392" lat="34.48091" lon="133.33456">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5268,7 +4704,7 @@
 		<tag k="name:ja" v="明王台瀬戸入口"/>
 		<tag k="name:ja-Hrkt" v="ミョウオウダイセトイリグチ"/>
 	</node>
-	<node id="-440" lat="34.41878" lon="133.28867">
+	<node id="-393" lat="34.41878" lon="133.28867">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5280,7 +4716,7 @@
 		<tag k="name:ja" v="瀬丸"/>
 		<tag k="name:ja-Hrkt" v="セマル"/>
 	</node>
-	<node id="-441" lat="34.418736" lon="133.28871">
+	<node id="-394" lat="34.418736" lon="133.28871">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5292,7 +4728,7 @@
 		<tag k="name:ja" v="瀬丸"/>
 		<tag k="name:ja-Hrkt" v="セマル"/>
 	</node>
-	<node id="-442" lat="34.41407" lon="133.38403">
+	<node id="-395" lat="34.41407" lon="133.38403">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5304,7 +4740,7 @@
 		<tag k="name:ja" v="石の塔"/>
 		<tag k="name:ja-Hrkt" v="イシノトウ"/>
 	</node>
-	<node id="-443" lat="34.41387" lon="133.38411">
+	<node id="-396" lat="34.41387" lon="133.38411">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5316,7 +4752,7 @@
 		<tag k="name:ja" v="石の塔"/>
 		<tag k="name:ja-Hrkt" v="イシノトウ"/>
 	</node>
-	<node id="-444" lat="34.480106" lon="133.32838">
+	<node id="-397" lat="34.480106" lon="133.32838">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5328,7 +4764,7 @@
 		<tag k="name:ja" v="高浦"/>
 		<tag k="name:ja-Hrkt" v="タカウラ"/>
 	</node>
-	<node id="-445" lat="34.48014" lon="133.32848">
+	<node id="-398" lat="34.48014" lon="133.32848">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5340,7 +4776,7 @@
 		<tag k="name:ja" v="高浦"/>
 		<tag k="name:ja-Hrkt" v="タカウラ"/>
 	</node>
-	<node id="-446" lat="34.44231" lon="133.2341">
+	<node id="-399" lat="34.44231" lon="133.2341">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5352,7 +4788,7 @@
 		<tag k="name:ja" v="高須口"/>
 		<tag k="name:ja-Hrkt" v="タカスグチ"/>
 	</node>
-	<node id="-447" lat="34.442474" lon="133.2342">
+	<node id="-400" lat="34.442474" lon="133.2342">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5364,7 +4800,7 @@
 		<tag k="name:ja" v="高須口"/>
 		<tag k="name:ja-Hrkt" v="タカスグチ"/>
 	</node>
-	<node id="-448" lat="34.434868" lon="133.23026">
+	<node id="-401" lat="34.434868" lon="133.23026">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5376,7 +4812,7 @@
 		<tag k="name:ja" v="高須農協前"/>
 		<tag k="name:ja-Hrkt" v="タカスノウキョウマエ"/>
 	</node>
-	<node id="-449" lat="34.43589" lon="133.23045">
+	<node id="-402" lat="34.43589" lon="133.23045">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5388,7 +4824,7 @@
 		<tag k="name:ja" v="高須農協前"/>
 		<tag k="name:ja-Hrkt" v="タカスノウキョウマエ"/>
 	</node>
-	<node id="-450" lat="34.4477" lon="133.24432">
+	<node id="-403" lat="34.4477" lon="133.24432">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5400,7 +4836,7 @@
 		<tag k="name:ja" v="高諸神社"/>
 		<tag k="name:ja-Hrkt" v="タカモロジンジャ"/>
 	</node>
-	<node id="-451" lat="34.44849" lon="133.2456">
+	<node id="-404" lat="34.44849" lon="133.2456">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5412,7 +4848,7 @@
 		<tag k="name:ja" v="高諸神社"/>
 		<tag k="name:ja-Hrkt" v="タカモロジンジャ"/>
 	</node>
-	<node id="-452" lat="34.447563" lon="133.24554">
+	<node id="-405" lat="34.447563" lon="133.24554">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5424,7 +4860,7 @@
 		<tag k="name:ja" v="高諸神社"/>
 		<tag k="name:ja-Hrkt" v="タカモロジンジャ"/>
 	</node>
-	<node id="-453" lat="34.377632" lon="133.3457">
+	<node id="-406" lat="34.377632" lon="133.3457">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5436,7 +4872,7 @@
 		<tag k="name:ja" v="能登原公民館前"/>
 		<tag k="name:ja-Hrkt" v="ノトハラコウミンカンマエ"/>
 	</node>
-	<node id="-454" lat="34.37761" lon="133.34581">
+	<node id="-407" lat="34.37761" lon="133.34581">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5448,7 +4884,7 @@
 		<tag k="name:ja" v="能登原公民館前"/>
 		<tag k="name:ja-Hrkt" v="ノトハラコウミンカンマエ"/>
 	</node>
-	<node id="-455" lat="34.438217" lon="133.3992">
+	<node id="-408" lat="34.438217" lon="133.3992">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5460,7 +4896,7 @@
 		<tag k="name:ja" v="竹ヶ端"/>
 		<tag k="name:ja-Hrkt" v="タケガハナ"/>
 	</node>
-	<node id="-456" lat="34.423504" lon="133.38524">
+	<node id="-409" lat="34.423504" lon="133.38524">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5472,7 +4908,7 @@
 		<tag k="name:ja" v="田尻資料館前"/>
 		<tag k="name:ja-Hrkt" v="タジリシリョウカンマエ"/>
 	</node>
-	<node id="-457" lat="34.42355" lon="133.38533">
+	<node id="-410" lat="34.42355" lon="133.38533">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5484,7 +4920,7 @@
 		<tag k="name:ja" v="田尻資料館前"/>
 		<tag k="name:ja-Hrkt" v="タジリシリョウカンマエ"/>
 	</node>
-	<node id="-458" lat="34.4293" lon="133.3859">
+	<node id="-411" lat="34.4293" lon="133.3859">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5496,7 +4932,7 @@
 		<tag k="name:ja" v="たじりこども園前"/>
 		<tag k="name:ja-Hrkt" v="タジリコドモエンマエ"/>
 	</node>
-	<node id="-459" lat="34.429607" lon="133.38597">
+	<node id="-412" lat="34.429607" lon="133.38597">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5508,7 +4944,7 @@
 		<tag k="name:ja" v="たじりこども園前"/>
 		<tag k="name:ja-Hrkt" v="タジリコドモエンマエ"/>
 	</node>
-	<node id="-460" lat="34.42649" lon="133.38475">
+	<node id="-413" lat="34.42649" lon="133.38475">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5520,7 +4956,7 @@
 		<tag k="name:ja" v="田尻本郷"/>
 		<tag k="name:ja-Hrkt" v="タジリホンゴウ"/>
 	</node>
-	<node id="-461" lat="34.427364" lon="133.38506">
+	<node id="-414" lat="34.427364" lon="133.38506">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5532,7 +4968,7 @@
 		<tag k="name:ja" v="田尻本郷"/>
 		<tag k="name:ja-Hrkt" v="タジリホンゴウ"/>
 	</node>
-	<node id="-462" lat="34.42045" lon="133.38493">
+	<node id="-415" lat="34.42045" lon="133.38493">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5544,7 +4980,7 @@
 		<tag k="name:ja" v="田尻郵便局前"/>
 		<tag k="name:ja-Hrkt" v="タジリユウビンキョクマエ"/>
 	</node>
-	<node id="-463" lat="34.420868" lon="133.38528">
+	<node id="-416" lat="34.420868" lon="133.38528">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5556,7 +4992,7 @@
 		<tag k="name:ja" v="田尻郵便局前"/>
 		<tag k="name:ja-Hrkt" v="タジリユウビンキョクマエ"/>
 	</node>
-	<node id="-464" lat="34.435596" lon="133.28616">
+	<node id="-417" lat="34.435596" lon="133.28616">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5568,7 +5004,7 @@
 		<tag k="name:ja" v="田中"/>
 		<tag k="name:ja-Hrkt" v="タナカ"/>
 	</node>
-	<node id="-465" lat="34.43581" lon="133.28656">
+	<node id="-418" lat="34.43581" lon="133.28656">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5580,7 +5016,7 @@
 		<tag k="name:ja" v="田中"/>
 		<tag k="name:ja-Hrkt" v="タナカ"/>
 	</node>
-	<node id="-466" lat="34.463802" lon="133.32652">
+	<node id="-419" lat="34.463802" lon="133.32652">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5592,7 +5028,7 @@
 		<tag k="name:ja" v="小立団地下"/>
 		<tag k="name:ja-Hrkt" v="コタチダンチシタ"/>
 	</node>
-	<node id="-467" lat="34.463776" lon="133.32643">
+	<node id="-420" lat="34.463776" lon="133.32643">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5604,7 +5040,7 @@
 		<tag k="name:ja" v="小立団地下"/>
 		<tag k="name:ja-Hrkt" v="コタチダンチシタ"/>
 	</node>
-	<node id="-468" lat="34.468388" lon="133.30725">
+	<node id="-421" lat="34.468388" lon="133.30725">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5616,7 +5052,7 @@
 		<tag k="name:ja" v="トーヨド団地入口"/>
 		<tag k="name:ja-Hrkt" v="トーヨドダンチイリグチ"/>
 	</node>
-	<node id="-469" lat="34.46848" lon="133.30725">
+	<node id="-422" lat="34.46848" lon="133.30725">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5628,7 +5064,7 @@
 		<tag k="name:ja" v="トーヨド団地入口"/>
 		<tag k="name:ja-Hrkt" v="トーヨドダンチイリグチ"/>
 	</node>
-	<node id="-470" lat="34.402004" lon="133.0827">
+	<node id="-423" lat="34.402004" lon="133.0827">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5640,7 +5076,7 @@
 		<tag k="name:ja" v="三原小前"/>
 		<tag k="name:ja-Hrkt" v="ミハラショウマエ"/>
 	</node>
-	<node id="-471" lat="34.402016" lon="133.08322">
+	<node id="-424" lat="34.402016" lon="133.08322">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5652,7 +5088,7 @@
 		<tag k="name:ja" v="三原小前"/>
 		<tag k="name:ja-Hrkt" v="ミハラショウマエ"/>
 	</node>
-	<node id="-472" lat="34.40179" lon="133.08551">
+	<node id="-425" lat="34.40179" lon="133.08551">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5664,7 +5100,7 @@
 		<tag k="name:ja" v="大橋"/>
 		<tag k="name:ja-Hrkt" v="オオハシ"/>
 	</node>
-	<node id="-473" lat="34.40186" lon="133.08528">
+	<node id="-426" lat="34.40186" lon="133.08528">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5676,7 +5112,7 @@
 		<tag k="name:ja" v="大橋"/>
 		<tag k="name:ja-Hrkt" v="オオハシ"/>
 	</node>
-	<node id="-474" lat="34.40679" lon="133.08998">
+	<node id="-427" lat="34.40679" lon="133.08998">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5688,7 +5124,7 @@
 		<tag k="name:ja" v="瀧宮神社前"/>
 		<tag k="name:ja-Hrkt" v="タキノミヤジンジャマエ"/>
 	</node>
-	<node id="-475" lat="34.406868" lon="133.09003">
+	<node id="-428" lat="34.406868" lon="133.09003">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5700,7 +5136,7 @@
 		<tag k="name:ja" v="瀧宮神社前"/>
 		<tag k="name:ja-Hrkt" v="タキノミヤジンジャマエ"/>
 	</node>
-	<node id="-476" lat="34.40862" lon="133.0953">
+	<node id="-429" lat="34.40862" lon="133.0953">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5712,7 +5148,7 @@
 		<tag k="name:ja" v="三菱社宅前"/>
 		<tag k="name:ja-Hrkt" v="ミツビシシャタクマエ"/>
 	</node>
-	<node id="-477" lat="34.40847" lon="133.09477">
+	<node id="-430" lat="34.40847" lon="133.09477">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5724,7 +5160,7 @@
 		<tag k="name:ja" v="三菱社宅前"/>
 		<tag k="name:ja-Hrkt" v="ミツビシシャタクマエ"/>
 	</node>
-	<node id="-478" lat="34.384335" lon="133.3266">
+	<node id="-431" lat="34.384335" lon="133.3266">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5736,7 +5172,7 @@
 		<tag k="name:ja" v="千年橋"/>
 		<tag k="name:ja-Hrkt" v="チトセバシ"/>
 	</node>
-	<node id="-479" lat="34.384144" lon="133.32686">
+	<node id="-432" lat="34.384144" lon="133.32686">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5748,7 +5184,7 @@
 		<tag k="name:ja" v="千年橋"/>
 		<tag k="name:ja-Hrkt" v="チトセバシ"/>
 	</node>
-	<node id="-480" lat="34.40974" lon="133.09799">
+	<node id="-433" lat="34.40974" lon="133.09799">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5760,7 +5196,7 @@
 		<tag k="name:ja" v="東高校前"/>
 		<tag k="name:ja-Hrkt" v="ヒガシコウコウマエ"/>
 	</node>
-	<node id="-481" lat="34.40939" lon="133.09721">
+	<node id="-434" lat="34.40939" lon="133.09721">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5772,7 +5208,7 @@
 		<tag k="name:ja" v="東高校前"/>
 		<tag k="name:ja-Hrkt" v="ヒガシコウコウマエ"/>
 	</node>
-	<node id="-482" lat="34.411118" lon="133.09978">
+	<node id="-435" lat="34.411118" lon="133.09978">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5784,7 +5220,7 @@
 		<tag k="name:ja" v="倉之内"/>
 		<tag k="name:ja-Hrkt" v="クラノウチ"/>
 	</node>
-	<node id="-483" lat="34.411434" lon="133.10007">
+	<node id="-436" lat="34.411434" lon="133.10007">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5796,7 +5232,7 @@
 		<tag k="name:ja" v="倉之内"/>
 		<tag k="name:ja-Hrkt" v="クラノウチ"/>
 	</node>
-	<node id="-484" lat="34.41328" lon="133.10214">
+	<node id="-437" lat="34.41328" lon="133.10214">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5808,7 +5244,7 @@
 		<tag k="name:ja" v="十一面"/>
 		<tag k="name:ja-Hrkt" v="ジュウイチメン"/>
 	</node>
-	<node id="-485" lat="34.41385" lon="133.1026">
+	<node id="-438" lat="34.41385" lon="133.1026">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5820,7 +5256,7 @@
 		<tag k="name:ja" v="十一面"/>
 		<tag k="name:ja-Hrkt" v="ジュウイチメン"/>
 	</node>
-	<node id="-486" lat="34.415432" lon="133.104">
+	<node id="-439" lat="34.415432" lon="133.104">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5832,7 +5268,7 @@
 		<tag k="name:ja" v="干川神社前"/>
 		<tag k="name:ja-Hrkt" v="ヒカワジンジャマエ"/>
 	</node>
-	<node id="-487" lat="34.41578" lon="133.10417">
+	<node id="-440" lat="34.41578" lon="133.10417">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5844,7 +5280,7 @@
 		<tag k="name:ja" v="干川神社前"/>
 		<tag k="name:ja-Hrkt" v="ヒカワジンジャマエ"/>
 	</node>
-	<node id="-488" lat="34.418" lon="133.10765">
+	<node id="-441" lat="34.418" lon="133.10765">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5856,7 +5292,7 @@
 		<tag k="name:ja" v="中之町小前"/>
 		<tag k="name:ja-Hrkt" v="ナカノチョウショウマエ"/>
 	</node>
-	<node id="-489" lat="34.41778" lon="133.10672">
+	<node id="-442" lat="34.41778" lon="133.10672">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5868,7 +5304,7 @@
 		<tag k="name:ja" v="中之町小前"/>
 		<tag k="name:ja-Hrkt" v="ナカノチョウショウマエ"/>
 	</node>
-	<node id="-490" lat="34.418865" lon="133.11009">
+	<node id="-443" lat="34.418865" lon="133.11009">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5880,7 +5316,7 @@
 		<tag k="name:ja" v="才原"/>
 		<tag k="name:ja-Hrkt" v="サイハラ"/>
 	</node>
-	<node id="-491" lat="34.42055" lon="133.11198">
+	<node id="-444" lat="34.42055" lon="133.11198">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5892,7 +5328,7 @@
 		<tag k="name:ja" v="大谷橋"/>
 		<tag k="name:ja-Hrkt" v="オオタニバシ"/>
 	</node>
-	<node id="-492" lat="34.420624" lon="133.11198">
+	<node id="-445" lat="34.420624" lon="133.11198">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5904,7 +5340,7 @@
 		<tag k="name:ja" v="大谷橋"/>
 		<tag k="name:ja-Hrkt" v="オオタニバシ"/>
 	</node>
-	<node id="-493" lat="34.422062" lon="133.11382">
+	<node id="-446" lat="34.422062" lon="133.11382">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5916,7 +5352,7 @@
 		<tag k="name:ja" v="城鼻"/>
 		<tag k="name:ja-Hrkt" v="ジョウバナ"/>
 	</node>
-	<node id="-494" lat="34.42317" lon="133.11485">
+	<node id="-447" lat="34.42317" lon="133.11485">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5928,7 +5364,7 @@
 		<tag k="name:ja" v="別所"/>
 		<tag k="name:ja-Hrkt" v="ベッショ"/>
 	</node>
-	<node id="-495" lat="34.423286" lon="133.11485">
+	<node id="-448" lat="34.423286" lon="133.11485">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5940,7 +5376,7 @@
 		<tag k="name:ja" v="別所"/>
 		<tag k="name:ja-Hrkt" v="ベッショ"/>
 	</node>
-	<node id="-496" lat="34.424324" lon="133.11671">
+	<node id="-449" lat="34.424324" lon="133.11671">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5952,7 +5388,7 @@
 		<tag k="name:ja" v="太郎谷"/>
 		<tag k="name:ja-Hrkt" v="タロウダニ"/>
 	</node>
-	<node id="-497" lat="34.424557" lon="133.11708">
+	<node id="-450" lat="34.424557" lon="133.11708">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5964,7 +5400,7 @@
 		<tag k="name:ja" v="太郎谷"/>
 		<tag k="name:ja-Hrkt" v="タロウダニ"/>
 	</node>
-	<node id="-498" lat="34.482544" lon="133.36649">
+	<node id="-451" lat="34.482544" lon="133.36649">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5976,7 +5412,7 @@
 		<tag k="name:ja" v="中央図書館ローズコム"/>
 		<tag k="name:ja-Hrkt" v="チュウオウトショカンローズコム"/>
 	</node>
-	<node id="-499" lat="34.429474" lon="133.1232">
+	<node id="-452" lat="34.429474" lon="133.1232">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5988,7 +5424,7 @@
 		<tag k="name:ja" v="松尾峠"/>
 		<tag k="name:ja-Hrkt" v="マツオトウゲ"/>
 	</node>
-	<node id="-500" lat="34.430313" lon="133.12402">
+	<node id="-453" lat="34.430313" lon="133.12402">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6000,7 +5436,7 @@
 		<tag k="name:ja" v="松尾峠"/>
 		<tag k="name:ja-Hrkt" v="マツオトウゲ"/>
 	</node>
-	<node id="-501" lat="34.432674" lon="133.12816">
+	<node id="-454" lat="34.432674" lon="133.12816">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6012,7 +5448,7 @@
 		<tag k="name:ja" v="大池下"/>
 		<tag k="name:ja-Hrkt" v="オオイケシモ"/>
 	</node>
-	<node id="-502" lat="34.432728" lon="133.12813">
+	<node id="-455" lat="34.432728" lon="133.12813">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6024,7 +5460,7 @@
 		<tag k="name:ja" v="大池下"/>
 		<tag k="name:ja-Hrkt" v="オオイケシモ"/>
 	</node>
-	<node id="-503" lat="34.43054" lon="133.1326">
+	<node id="-456" lat="34.43054" lon="133.1326">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6036,7 +5472,7 @@
 		<tag k="name:ja" v="城山口"/>
 		<tag k="name:ja-Hrkt" v="ジョウヤマグチ"/>
 	</node>
-	<node id="-504" lat="34.43071" lon="133.13237">
+	<node id="-457" lat="34.43071" lon="133.13237">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6048,7 +5484,7 @@
 		<tag k="name:ja" v="城山口"/>
 		<tag k="name:ja-Hrkt" v="ジョウヤマグチ"/>
 	</node>
-	<node id="-505" lat="34.43126" lon="133.13763">
+	<node id="-458" lat="34.43126" lon="133.13763">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6060,7 +5496,7 @@
 		<tag k="name:ja" v="深小学校前"/>
 		<tag k="name:ja-Hrkt" v="フカショウガッコウマエ"/>
 	</node>
-	<node id="-506" lat="34.430862" lon="133.13644">
+	<node id="-459" lat="34.430862" lon="133.13644">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6072,7 +5508,7 @@
 		<tag k="name:ja" v="深小学校前"/>
 		<tag k="name:ja-Hrkt" v="フカショウガッコウマエ"/>
 	</node>
-	<node id="-507" lat="34.43371" lon="133.1411">
+	<node id="-460" lat="34.43371" lon="133.1411">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6084,7 +5520,7 @@
 		<tag k="name:ja" v="原垣内"/>
 		<tag k="name:ja-Hrkt" v="ハラガイチ"/>
 	</node>
-	<node id="-508" lat="34.435276" lon="133.143">
+	<node id="-461" lat="34.435276" lon="133.143">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6096,7 +5532,7 @@
 		<tag k="name:ja" v="高校入口"/>
 		<tag k="name:ja-Hrkt" v="コウコウイリグチ"/>
 	</node>
-	<node id="-509" lat="34.435173" lon="133.14284">
+	<node id="-462" lat="34.435173" lon="133.14284">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6108,7 +5544,7 @@
 		<tag k="name:ja" v="高校入口"/>
 		<tag k="name:ja-Hrkt" v="コウコウイリグチ"/>
 	</node>
-	<node id="-510" lat="34.441917" lon="133.14856">
+	<node id="-463" lat="34.441917" lon="133.14856">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6120,7 +5556,7 @@
 		<tag k="name:ja" v="深下組"/>
 		<tag k="name:ja-Hrkt" v="フカシモグミ"/>
 	</node>
-	<node id="-511" lat="34.43853" lon="133.14096">
+	<node id="-464" lat="34.43853" lon="133.14096">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6132,7 +5568,7 @@
 		<tag k="name:ja" v="如水館前"/>
 		<tag k="name:ja-Hrkt" v="ジョスイカンマエ"/>
 	</node>
-	<node id="-512" lat="34.438442" lon="133.14087">
+	<node id="-465" lat="34.438442" lon="133.14087">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6144,7 +5580,7 @@
 		<tag k="name:ja" v="如水館前"/>
 		<tag k="name:ja-Hrkt" v="ジョスイカンマエ"/>
 	</node>
-	<node id="-513" lat="34.42687" lon="133.32501">
+	<node id="-466" lat="34.42687" lon="133.32501">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6156,7 +5592,7 @@
 		<tag k="name:ja" v="至誠中学校入口"/>
 		<tag k="name:ja-Hrkt" v="シセイチュウガッコウイリグチ"/>
 	</node>
-	<node id="-514" lat="34.42673" lon="133.32538">
+	<node id="-467" lat="34.42673" lon="133.32538">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6168,7 +5604,7 @@
 		<tag k="name:ja" v="至誠中学校入口"/>
 		<tag k="name:ja-Hrkt" v="シセイチュウガッコウイリグチ"/>
 	</node>
-	<node id="-515" lat="34.368618" lon="133.3042">
+	<node id="-468" lat="34.368618" lon="133.3042">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6180,7 +5616,7 @@
 		<tag k="name:ja" v="宮脇山八幡神社前"/>
 		<tag k="name:ja-Hrkt" v="ミヤワキヤマハチマンジンジャマエ"/>
 	</node>
-	<node id="-516" lat="34.368736" lon="133.30452">
+	<node id="-469" lat="34.368736" lon="133.30452">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6192,7 +5628,7 @@
 		<tag k="name:ja" v="宮脇山八幡神社前"/>
 		<tag k="name:ja-Hrkt" v="ミヤワキヤマハチマンジンジャマエ"/>
 	</node>
-	<node id="-517" lat="34.448814" lon="133.38187">
+	<node id="-470" lat="34.448814" lon="133.38187">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6204,7 +5640,7 @@
 		<tag k="name:ja" v="水呑郵便局"/>
 		<tag k="name:ja-Hrkt" v="ミノミユウビンキョク"/>
 	</node>
-	<node id="-518" lat="34.4489" lon="133.38191">
+	<node id="-471" lat="34.4489" lon="133.38191">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6216,7 +5652,7 @@
 		<tag k="name:ja" v="水呑郵便局"/>
 		<tag k="name:ja-Hrkt" v="ミノミユウビンキョク"/>
 	</node>
-	<node id="-519" lat="34.446095" lon="133.38565">
+	<node id="-472" lat="34.446095" lon="133.38565">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6228,7 +5664,7 @@
 		<tag k="name:ja" v="三新田中央"/>
 		<tag k="name:ja-Hrkt" v="サンシンデンチュウオウ"/>
 	</node>
-	<node id="-520" lat="34.446037" lon="133.38583">
+	<node id="-473" lat="34.446037" lon="133.38583">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6240,7 +5676,7 @@
 		<tag k="name:ja" v="三新田中央"/>
 		<tag k="name:ja-Hrkt" v="サンシンデンチュウオウ"/>
 	</node>
-	<node id="-521" lat="34.485638" lon="133.35655">
+	<node id="-474" lat="34.485638" lon="133.35655">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6252,7 +5688,7 @@
 		<tag k="name:ja" v="通安寺前"/>
 		<tag k="name:ja-Hrkt" v="ツウアンジマエ"/>
 	</node>
-	<node id="-522" lat="34.485455" lon="133.35695">
+	<node id="-475" lat="34.485455" lon="133.35695">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6264,7 +5700,7 @@
 		<tag k="name:ja" v="通安寺前"/>
 		<tag k="name:ja-Hrkt" v="ツウアンジマエ"/>
 	</node>
-	<node id="-523" lat="34.452106" lon="133.32918">
+	<node id="-476" lat="34.452106" lon="133.32918">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6276,7 +5712,7 @@
 		<tag k="name:ja" v="筒井"/>
 		<tag k="name:ja-Hrkt" v="ツツイ"/>
 	</node>
-	<node id="-524" lat="34.452007" lon="133.32913">
+	<node id="-477" lat="34.452007" lon="133.32913">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6288,7 +5724,7 @@
 		<tag k="name:ja" v="筒井"/>
 		<tag k="name:ja-Hrkt" v="ツツイ"/>
 	</node>
-	<node id="-525" lat="34.386677" lon="133.2916">
+	<node id="-478" lat="34.386677" lon="133.2916">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6300,7 +5736,7 @@
 		<tag k="name:ja" v="常石"/>
 		<tag k="name:ja-Hrkt" v="ツネイシ"/>
 	</node>
-	<node id="-526" lat="34.38664" lon="133.29156">
+	<node id="-479" lat="34.38664" lon="133.29156">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6312,7 +5748,7 @@
 		<tag k="name:ja" v="常石"/>
 		<tag k="name:ja-Hrkt" v="ツネイシ"/>
 	</node>
-	<node id="-527" lat="34.38561" lon="133.29614">
+	<node id="-480" lat="34.38561" lon="133.29614">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6324,7 +5760,7 @@
 		<tag k="name:ja" v="常石港"/>
 		<tag k="name:ja-Hrkt" v="ツネイシコウ"/>
 	</node>
-	<node id="-528" lat="34.385677" lon="133.29622">
+	<node id="-481" lat="34.385677" lon="133.29622">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6336,7 +5772,7 @@
 		<tag k="name:ja" v="常石港"/>
 		<tag k="name:ja-Hrkt" v="ツネイシコウ"/>
 	</node>
-	<node id="-529" lat="34.387398" lon="133.3011">
+	<node id="-482" lat="34.387398" lon="133.3011">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6348,7 +5784,7 @@
 		<tag k="name:ja" v="常石造船前"/>
 		<tag k="name:ja-Hrkt" v="ツネイシゾウセンマエ"/>
 	</node>
-	<node id="-530" lat="34.38741" lon="133.30144">
+	<node id="-483" lat="34.38741" lon="133.30144">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6360,7 +5796,7 @@
 		<tag k="name:ja" v="常石造船前"/>
 		<tag k="name:ja-Hrkt" v="ツネイシゾウセンマエ"/>
 	</node>
-	<node id="-531" lat="34.400623" lon="133.37987">
+	<node id="-484" lat="34.400623" lon="133.37987">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6372,7 +5808,7 @@
 		<tag k="name:ja" v="鉄鋼団地前"/>
 		<tag k="name:ja-Hrkt" v="テッコウダンチマエ"/>
 	</node>
-	<node id="-532" lat="34.401295" lon="133.38007">
+	<node id="-485" lat="34.401295" lon="133.38007">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6384,7 +5820,7 @@
 		<tag k="name:ja" v="鉄鋼団地前"/>
 		<tag k="name:ja-Hrkt" v="テッコウダンチマエ"/>
 	</node>
-	<node id="-533" lat="34.45871" lon="133.30605">
+	<node id="-486" lat="34.45871" lon="133.30605">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6396,7 +5832,7 @@
 		<tag k="name:ja" v="寺前"/>
 		<tag k="name:ja-Hrkt" v="テラマエ"/>
 	</node>
-	<node id="-534" lat="34.45919" lon="133.30626">
+	<node id="-487" lat="34.45919" lon="133.30626">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6408,7 +5844,7 @@
 		<tag k="name:ja" v="寺前"/>
 		<tag k="name:ja-Hrkt" v="テラマエ"/>
 	</node>
-	<node id="-535" lat="34.488132" lon="133.366">
+	<node id="-488" lat="34.488132" lon="133.366">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6420,7 +5856,7 @@
 		<tag k="name:ja" v="天下橋"/>
 		<tag k="name:ja-Hrkt" v="テンカバシ"/>
 	</node>
-	<node id="-536" lat="34.41703" lon="133.32018">
+	<node id="-489" lat="34.41703" lon="133.32018">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6432,7 +5868,7 @@
 		<tag k="name:ja" v="天神山"/>
 		<tag k="name:ja-Hrkt" v="テンジンヤマ"/>
 	</node>
-	<node id="-537" lat="34.41763" lon="133.32057">
+	<node id="-490" lat="34.41763" lon="133.32057">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6444,7 +5880,7 @@
 		<tag k="name:ja" v="天神山"/>
 		<tag k="name:ja-Hrkt" v="テンジンヤマ"/>
 	</node>
-	<node id="-538" lat="34.370434" lon="133.30937">
+	<node id="-491" lat="34.370434" lon="133.30937">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6456,7 +5892,7 @@
 		<tag k="name:ja" v="天満"/>
 		<tag k="name:ja-Hrkt" v="テンマ"/>
 	</node>
-	<node id="-539" lat="34.370403" lon="133.30943">
+	<node id="-492" lat="34.370403" lon="133.30943">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6468,7 +5904,7 @@
 		<tag k="name:ja" v="天満"/>
 		<tag k="name:ja-Hrkt" v="テンマ"/>
 	</node>
-	<node id="-540" lat="34.452988" lon="133.26099">
+	<node id="-493" lat="34.452988" lon="133.26099">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6480,7 +5916,7 @@
 		<tag k="name:ja" v="天理教前"/>
 		<tag k="name:ja-Hrkt" v="テンリキョウマエ"/>
 	</node>
-	<node id="-541" lat="34.45297" lon="133.2611">
+	<node id="-494" lat="34.45297" lon="133.2611">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6492,7 +5928,7 @@
 		<tag k="name:ja" v="天理教前"/>
 		<tag k="name:ja-Hrkt" v="テンリキョウマエ"/>
 	</node>
-	<node id="-542" lat="34.426247" lon="133.27759">
+	<node id="-495" lat="34.426247" lon="133.27759">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6504,7 +5940,7 @@
 		<tag k="name:ja" v="出店"/>
 		<tag k="name:ja-Hrkt" v="デミセ"/>
 	</node>
-	<node id="-543" lat="34.425896" lon="133.27763">
+	<node id="-496" lat="34.425896" lon="133.27763">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6516,7 +5952,7 @@
 		<tag k="name:ja" v="出店"/>
 		<tag k="name:ja-Hrkt" v="デミセ"/>
 	</node>
-	<node id="-544" lat="34.442097" lon="133.25475">
+	<node id="-497" lat="34.442097" lon="133.25475">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6528,7 +5964,7 @@
 		<tag k="name:ja" v="徳島"/>
 		<tag k="name:ja-Hrkt" v="トクシマ"/>
 	</node>
-	<node id="-545" lat="34.441963" lon="133.25485">
+	<node id="-498" lat="34.441963" lon="133.25485">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6540,7 +5976,7 @@
 		<tag k="name:ja" v="徳島"/>
 		<tag k="name:ja-Hrkt" v="トクシマ"/>
 	</node>
-	<node id="-546" lat="34.382465" lon="133.38254">
+	<node id="-499" lat="34.382465" lon="133.38254">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6552,7 +5988,7 @@
 		<tag k="name:ja" v="鞆港"/>
 		<tag k="name:ja-Hrkt" v="トモコウ"/>
 	</node>
-	<node id="-547" lat="34.382534" lon="133.38257">
+	<node id="-500" lat="34.382534" lon="133.38257">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6564,7 +6000,7 @@
 		<tag k="name:ja" v="鞆港"/>
 		<tag k="name:ja-Hrkt" v="トモコウ"/>
 	</node>
-	<node id="-548" lat="34.39358" lon="133.37962">
+	<node id="-501" lat="34.39358" lon="133.37962">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6576,7 +6012,7 @@
 		<tag k="name:ja" v="鞆車庫前"/>
 		<tag k="name:ja-Hrkt" v="トモシャコマエ"/>
 	</node>
-	<node id="-549" lat="34.39327" lon="133.37975">
+	<node id="-502" lat="34.39327" lon="133.37975">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6588,7 +6024,7 @@
 		<tag k="name:ja" v="鞆車庫前"/>
 		<tag k="name:ja-Hrkt" v="トモシャコマエ"/>
 	</node>
-	<node id="-550" lat="34.39759" lon="133.37912">
+	<node id="-503" lat="34.39759" lon="133.37912">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6600,7 +6036,7 @@
 		<tag k="name:ja" v="スカイライン入口"/>
 		<tag k="name:ja-Hrkt" v="スカイラインイリグチ"/>
 	</node>
-	<node id="-551" lat="34.398354" lon="133.3792">
+	<node id="-504" lat="34.398354" lon="133.3792">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6612,7 +6048,7 @@
 		<tag k="name:ja" v="スカイライン入口"/>
 		<tag k="name:ja-Hrkt" v="スカイラインイリグチ"/>
 	</node>
-	<node id="-552" lat="34.385784" lon="133.38383">
+	<node id="-505" lat="34.385784" lon="133.38383">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6624,7 +6060,7 @@
 		<tag k="name:ja" v="鞆の浦"/>
 		<tag k="name:ja-Hrkt" v="トモノウラ"/>
 	</node>
-	<node id="-553" lat="34.385693" lon="133.38396">
+	<node id="-506" lat="34.385693" lon="133.38396">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6636,7 +6072,7 @@
 		<tag k="name:ja" v="鞆の浦"/>
 		<tag k="name:ja-Hrkt" v="トモノウラ"/>
 	</node>
-	<node id="-554" lat="34.455776" lon="133.30457">
+	<node id="-507" lat="34.455776" lon="133.30457">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6646,9 +6082,9 @@
 		<tag k="name" v="道上"/>
 		<tag k="name:en" v="Michinoue"/>
 		<tag k="name:ja" v="道上"/>
-		<tag k="name:ja-Hrkt" v="ドウジョウ"/>
+		<tag k="name:ja-Hrkt" v="ミチノウエ"/>
 	</node>
-	<node id="-555" lat="34.455715" lon="133.30461">
+	<node id="-508" lat="34.455715" lon="133.30461">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6658,9 +6094,9 @@
 		<tag k="name" v="道上"/>
 		<tag k="name:en" v="Michinoue"/>
 		<tag k="name:ja" v="道上"/>
-		<tag k="name:ja-Hrkt" v="ドウジョウ"/>
+		<tag k="name:ja-Hrkt" v="ミチノウエ"/>
 	</node>
-	<node id="-556" lat="34.420387" lon="133.322">
+	<node id="-509" lat="34.420387" lon="133.322">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6672,7 +6108,7 @@
 		<tag k="name:ja" v="土橋"/>
 		<tag k="name:ja-Hrkt" v="ドバシ"/>
 	</node>
-	<node id="-557" lat="34.419914" lon="133.32202">
+	<node id="-510" lat="34.419914" lon="133.32202">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6684,7 +6120,7 @@
 		<tag k="name:ja" v="土橋"/>
 		<tag k="name:ja-Hrkt" v="ドバシ"/>
 	</node>
-	<node id="-558" lat="34.46443" lon="133.30634">
+	<node id="-511" lat="34.46443" lon="133.30634">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6696,7 +6132,7 @@
 		<tag k="name:ja" v="市立福山中高入口"/>
 		<tag k="name:ja-Hrkt" v="シリツフクヤマチュウコウイリグチ"/>
 	</node>
-	<node id="-559" lat="34.464268" lon="133.30643">
+	<node id="-512" lat="34.464268" lon="133.30643">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6708,7 +6144,7 @@
 		<tag k="name:ja" v="市立福山中高入口"/>
 		<tag k="name:ja-Hrkt" v="シリツフクヤマチュウコウイリグチ"/>
 	</node>
-	<node id="-560" lat="34.464733" lon="133.3194">
+	<node id="-513" lat="34.464733" lon="133.3194">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6720,7 +6156,7 @@
 		<tag k="name:ja" v="中郷"/>
 		<tag k="name:ja-Hrkt" v="ナカゴウ"/>
 	</node>
-	<node id="-561" lat="34.465393" lon="133.31969">
+	<node id="-514" lat="34.465393" lon="133.31969">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6732,31 +6168,7 @@
 		<tag k="name:ja" v="中郷"/>
 		<tag k="name:ja-Hrkt" v="ナカゴウ"/>
 	</node>
-	<node id="-562" lat="34.473106" lon="133.24448">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="837 1715"/>
-		<tag k="name" v="中屋"/>
-		<tag k="name:en" v="Nakaya"/>
-		<tag k="name:ja" v="中屋"/>
-		<tag k="name:ja-Hrkt" v="ナカヤ"/>
-	</node>
-	<node id="-563" lat="34.473076" lon="133.24442">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="837 1716"/>
-		<tag k="name" v="中屋"/>
-		<tag k="name:en" v="Nakaya"/>
-		<tag k="name:ja" v="中屋"/>
-		<tag k="name:ja-Hrkt" v="ナカヤ"/>
-	</node>
-	<node id="-564" lat="34.41025" lon="133.20192">
+	<node id="-515" lat="34.41025" lon="133.20192">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6768,7 +6180,7 @@
 		<tag k="name:ja" v="長江口"/>
 		<tag k="name:ja-Hrkt" v="ナガエグチ"/>
 	</node>
-	<node id="-565" lat="34.411232" lon="133.20277">
+	<node id="-516" lat="34.411232" lon="133.20277">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6780,7 +6192,7 @@
 		<tag k="name:ja" v="長江口"/>
 		<tag k="name:ja-Hrkt" v="ナガエグチ"/>
 	</node>
-	<node id="-566" lat="34.40201" lon="133.28127">
+	<node id="-517" lat="34.40201" lon="133.28127">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6792,7 +6204,7 @@
 		<tag k="name:ja" v="灘"/>
 		<tag k="name:ja-Hrkt" v="ナダ"/>
 	</node>
-	<node id="-567" lat="34.40207" lon="133.2812">
+	<node id="-518" lat="34.40207" lon="133.2812">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6804,7 +6216,7 @@
 		<tag k="name:ja" v="灘"/>
 		<tag k="name:ja-Hrkt" v="ナダ"/>
 	</node>
-	<node id="-568" lat="34.401615" lon="133.28122">
+	<node id="-519" lat="34.401615" lon="133.28122">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6816,7 +6228,7 @@
 		<tag k="name:ja" v="灘"/>
 		<tag k="name:ja-Hrkt" v="ナダ"/>
 	</node>
-	<node id="-569" lat="34.43994" lon="133.29143">
+	<node id="-520" lat="34.43994" lon="133.29143">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6828,7 +6240,7 @@
 		<tag k="name:ja" v="奈良木"/>
 		<tag k="name:ja-Hrkt" v="ナラギ"/>
 	</node>
-	<node id="-570" lat="34.439274" lon="133.29144">
+	<node id="-521" lat="34.439274" lon="133.29144">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6840,7 +6252,7 @@
 		<tag k="name:ja" v="奈良木"/>
 		<tag k="name:ja-Hrkt" v="ナラギ"/>
 	</node>
-	<node id="-571" lat="34.399124" lon="133.28229">
+	<node id="-522" lat="34.399124" lon="133.28229">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6852,7 +6264,7 @@
 		<tag k="name:ja" v="西犬吠"/>
 		<tag k="name:ja-Hrkt" v="ニシイヌボウ"/>
 	</node>
-	<node id="-572" lat="34.399143" lon="133.28233">
+	<node id="-523" lat="34.399143" lon="133.28233">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6864,7 +6276,7 @@
 		<tag k="name:ja" v="西犬吠"/>
 		<tag k="name:ja-Hrkt" v="ニシイヌボウ"/>
 	</node>
-	<node id="-573" lat="34.44715" lon="133.23984">
+	<node id="-524" lat="34.44715" lon="133.23984">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6876,7 +6288,7 @@
 		<tag k="name:ja" v="西藤口"/>
 		<tag k="name:ja-Hrkt" v="ニシフジグチ"/>
 	</node>
-	<node id="-574" lat="34.44709" lon="133.23979">
+	<node id="-525" lat="34.44709" lon="133.23979">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6888,31 +6300,31 @@
 		<tag k="name:ja" v="西藤口"/>
 		<tag k="name:ja-Hrkt" v="ニシフジグチ"/>
 	</node>
-	<node id="-575" lat="34.45354" lon="133.22112">
+	<node id="-526" lat="34.45354" lon="133.22112">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="876 1799"/>
-		<tag k="name" v="西藤町農協前"/>
-		<tag k="name:en" v="Nishifuji-cho Nokyo-mae"/>
-		<tag k="name:ja" v="西藤町農協前"/>
-		<tag k="name:ja-Hrkt" v="ニシフジマチノウキョウマエ"/>
+		<tag k="name" v="西藤小学校入口"/>
+		<tag k="name:en" v="Nishifuji Shogakko Iriguchi"/>
+		<tag k="name:ja" v="西藤小学校入口"/>
+		<tag k="name:ja-Hrkt" v="ニシフジショウガッコウイリグチ"/>
 	</node>
-	<node id="-576" lat="34.453415" lon="133.22131">
+	<node id="-527" lat="34.453415" lon="133.22131">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="876 1800"/>
-		<tag k="name" v="西藤町農協前"/>
-		<tag k="name:en" v="Nishifuji-cho Nokyo-mae"/>
-		<tag k="name:ja" v="西藤町農協前"/>
-		<tag k="name:ja-Hrkt" v="ニシフジマチノウキョウマエ"/>
+		<tag k="name" v="西藤小学校入口"/>
+		<tag k="name:en" v="Nishifuji Shogakko Iriguchi"/>
+		<tag k="name:ja" v="西藤小学校入口"/>
+		<tag k="name:ja-Hrkt" v="ニシフジショウガッコウイリグチ"/>
 	</node>
-	<node id="-577" lat="34.439884" lon="133.26352">
+	<node id="-528" lat="34.439884" lon="133.26352">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6924,7 +6336,7 @@
 		<tag k="name:ja" v="ニチエー前"/>
 		<tag k="name:ja-Hrkt" v="ニチエーマエ"/>
 	</node>
-	<node id="-578" lat="34.4402" lon="133.26305">
+	<node id="-529" lat="34.4402" lon="133.26305">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6936,7 +6348,7 @@
 		<tag k="name:ja" v="ニチエー前"/>
 		<tag k="name:ja-Hrkt" v="ニチエーマエ"/>
 	</node>
-	<node id="-579" lat="34.390182" lon="133.31824">
+	<node id="-530" lat="34.390182" lon="133.31824">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6948,7 +6360,7 @@
 		<tag k="name:ja" v="沼隈支所"/>
 		<tag k="name:ja-Hrkt" v="ヌマクマシショ"/>
 	</node>
-	<node id="-580" lat="34.390175" lon="133.31827">
+	<node id="-531" lat="34.390175" lon="133.31827">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6960,7 +6372,7 @@
 		<tag k="name:ja" v="沼隈支所"/>
 		<tag k="name:ja-Hrkt" v="ヌマクマシショ"/>
 	</node>
-	<node id="-581" lat="34.39045" lon="133.31688">
+	<node id="-532" lat="34.39045" lon="133.31688">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6972,7 +6384,7 @@
 		<tag k="name:ja" v="枝広邸入口"/>
 		<tag k="name:ja-Hrkt" v="エダヒロテイイリグチ"/>
 	</node>
-	<node id="-582" lat="34.390465" lon="133.3171">
+	<node id="-533" lat="34.390465" lon="133.3171">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6984,7 +6396,7 @@
 		<tag k="name:ja" v="枝広邸入口"/>
 		<tag k="name:ja-Hrkt" v="エダヒロテイイリグチ"/>
 	</node>
-	<node id="-583" lat="34.399277" lon="133.30733">
+	<node id="-534" lat="34.399277" lon="133.30733">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6996,7 +6408,7 @@
 		<tag k="name:ja" v="沼隈体育館前"/>
 		<tag k="name:ja-Hrkt" v="ヌマクマタイイクカンマエ"/>
 	</node>
-	<node id="-584" lat="34.39877" lon="133.30754">
+	<node id="-535" lat="34.39877" lon="133.30754">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7008,7 +6420,7 @@
 		<tag k="name:ja" v="沼隈体育館前"/>
 		<tag k="name:ja-Hrkt" v="ヌマクマタイイクカンマエ"/>
 	</node>
-	<node id="-585" lat="34.39553" lon="133.31711">
+	<node id="-536" lat="34.39553" lon="133.31711">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7020,7 +6432,7 @@
 		<tag k="name:ja" v="ぬまくまハーブガーデン前"/>
 		<tag k="name:ja-Hrkt" v="ヌマクマハーブガーデンマエ"/>
 	</node>
-	<node id="-586" lat="34.395504" lon="133.31734">
+	<node id="-537" lat="34.395504" lon="133.31734">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7032,7 +6444,7 @@
 		<tag k="name:ja" v="ぬまくまハーブガーデン前"/>
 		<tag k="name:ja-Hrkt" v="ヌマクマハーブガーデンマエ"/>
 	</node>
-	<node id="-587" lat="34.419777" lon="133.32397">
+	<node id="-538" lat="34.419777" lon="133.32397">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7044,7 +6456,7 @@
 		<tag k="name:ja" v="沼隈病院前"/>
 		<tag k="name:ja-Hrkt" v="ヌマクマビョウインマエ"/>
 	</node>
-	<node id="-588" lat="34.419765" lon="133.32402">
+	<node id="-539" lat="34.419765" lon="133.32402">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7056,7 +6468,7 @@
 		<tag k="name:ja" v="沼隈病院前"/>
 		<tag k="name:ja-Hrkt" v="ヌマクマビョウインマエ"/>
 	</node>
-	<node id="-589" lat="34.479996" lon="133.37221">
+	<node id="-540" lat="34.479996" lon="133.37221">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7068,7 +6480,7 @@
 		<tag k="name:ja" v="農協会館前"/>
 		<tag k="name:ja-Hrkt" v="ノウキョウカイカンマエ"/>
 	</node>
-	<node id="-590" lat="34.479645" lon="133.3722">
+	<node id="-541" lat="34.479645" lon="133.3722">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7080,7 +6492,7 @@
 		<tag k="name:ja" v="農協会館前"/>
 		<tag k="name:ja-Hrkt" v="ノウキョウカイカンマエ"/>
 	</node>
-	<node id="-591" lat="34.477627" lon="133.36569">
+	<node id="-542" lat="34.477627" lon="133.36569">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7092,7 +6504,7 @@
 		<tag k="name:ja" v="野上町"/>
 		<tag k="name:ja-Hrkt" v="ノガミチョウ"/>
 	</node>
-	<node id="-592" lat="34.47778" lon="133.36572">
+	<node id="-543" lat="34.47778" lon="133.36572">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7104,7 +6516,7 @@
 		<tag k="name:ja" v="野上町"/>
 		<tag k="name:ja-Hrkt" v="ノガミチョウ"/>
 	</node>
-	<node id="-593" lat="34.429222" lon="133.2776">
+	<node id="-544" lat="34.429222" lon="133.2776">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7116,7 +6528,7 @@
 		<tag k="name:ja" v="野島"/>
 		<tag k="name:ja-Hrkt" v="ノジマ"/>
 	</node>
-	<node id="-594" lat="34.42869" lon="133.27768">
+	<node id="-545" lat="34.42869" lon="133.27768">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7128,7 +6540,7 @@
 		<tag k="name:ja" v="野島"/>
 		<tag k="name:ja-Hrkt" v="ノジマ"/>
 	</node>
-	<node id="-595" lat="34.45079" lon="133.26123">
+	<node id="-546" lat="34.45079" lon="133.26123">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7140,7 +6552,7 @@
 		<tag k="name:ja" v="はきもの資料館前"/>
 		<tag k="name:ja-Hrkt" v="ハキモノシリョウカンマエ"/>
 	</node>
-	<node id="-596" lat="34.451218" lon="133.26128">
+	<node id="-547" lat="34.451218" lon="133.26128">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7152,7 +6564,7 @@
 		<tag k="name:ja" v="はきもの資料館前"/>
 		<tag k="name:ja-Hrkt" v="ハキモノシリョウカンマエ"/>
 	</node>
-	<node id="-597" lat="34.48188" lon="133.3734">
+	<node id="-548" lat="34.48188" lon="133.3734">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7164,7 +6576,7 @@
 		<tag k="name:ja" v="花園町"/>
 		<tag k="name:ja-Hrkt" v="ハナゾノチョウ"/>
 	</node>
-	<node id="-598" lat="34.481766" lon="133.37355">
+	<node id="-549" lat="34.481766" lon="133.37355">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7176,7 +6588,7 @@
 		<tag k="name:ja" v="花園町"/>
 		<tag k="name:ja-Hrkt" v="ハナゾノチョウ"/>
 	</node>
-	<node id="-599" lat="34.388454" lon="133.32216">
+	<node id="-550" lat="34.388454" lon="133.32216">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7188,7 +6600,7 @@
 		<tag k="name:ja" v="浜組"/>
 		<tag k="name:ja-Hrkt" v="ハマグミ"/>
 	</node>
-	<node id="-600" lat="34.388275" lon="133.32225">
+	<node id="-551" lat="34.388275" lon="133.32225">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7200,7 +6612,7 @@
 		<tag k="name:ja" v="浜組"/>
 		<tag k="name:ja-Hrkt" v="ハマグミ"/>
 	</node>
-	<node id="-601" lat="34.431843" lon="133.22931">
+	<node id="-552" lat="34.431843" lon="133.22931">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7212,7 +6624,7 @@
 		<tag k="name:ja" v="バイパス東口"/>
 		<tag k="name:ja-Hrkt" v="バイパスヒガシグチ"/>
 	</node>
-	<node id="-602" lat="34.432064" lon="133.22948">
+	<node id="-553" lat="34.432064" lon="133.22948">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7224,7 +6636,7 @@
 		<tag k="name:ja" v="バイパス東口"/>
 		<tag k="name:ja-Hrkt" v="バイパスヒガシグチ"/>
 	</node>
-	<node id="-603" lat="34.48107" lon="133.37216">
+	<node id="-554" lat="34.48107" lon="133.37216">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7236,7 +6648,7 @@
 		<tag k="name:ja" v="ばら公園前"/>
 		<tag k="name:ja-Hrkt" v="バラコウエンマエ"/>
 	</node>
-	<node id="-604" lat="34.360332" lon="133.29271">
+	<node id="-555" lat="34.360332" lon="133.29271">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7248,7 +6660,7 @@
 		<tag k="name:ja" v="番川原"/>
 		<tag k="name:ja-Hrkt" v="バンガワラ"/>
 	</node>
-	<node id="-605" lat="34.360302" lon="133.29277">
+	<node id="-556" lat="34.360302" lon="133.29277">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7260,7 +6672,7 @@
 		<tag k="name:ja" v="番川原"/>
 		<tag k="name:ja-Hrkt" v="バンガワラ"/>
 	</node>
-	<node id="-606" lat="34.396168" lon="133.28282">
+	<node id="-557" lat="34.396168" lon="133.28282">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7272,7 +6684,7 @@
 		<tag k="name:ja" v="東犬吠"/>
 		<tag k="name:ja-Hrkt" v="ヒガシイヌボウ"/>
 	</node>
-	<node id="-607" lat="34.39611" lon="133.28282">
+	<node id="-558" lat="34.39611" lon="133.28282">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7284,7 +6696,7 @@
 		<tag k="name:ja" v="東犬吠"/>
 		<tag k="name:ja-Hrkt" v="ヒガシイヌボウ"/>
 	</node>
-	<node id="-608" lat="34.489475" lon="133.37538">
+	<node id="-559" lat="34.489475" lon="133.37538">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7296,7 +6708,7 @@
 		<tag k="name:ja" v="東警察署前"/>
 		<tag k="name:ja-Hrkt" v="ヒガシケイサツショマエ"/>
 	</node>
-	<node id="-609" lat="34.490623" lon="133.37723">
+	<node id="-560" lat="34.490623" lon="133.37723">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7308,7 +6720,7 @@
 		<tag k="name:ja" v="東中学校前"/>
 		<tag k="name:ja-Hrkt" v="ヒガシチュウガッコウマエ"/>
 	</node>
-	<node id="-610" lat="34.394463" lon="133.26323">
+	<node id="-561" lat="34.394463" lon="133.26323">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7320,7 +6732,7 @@
 		<tag k="name:ja" v="厳島神社前"/>
 		<tag k="name:ja-Hrkt" v="イツクシマジンジャマエ"/>
 	</node>
-	<node id="-611" lat="34.39441" lon="133.26318">
+	<node id="-562" lat="34.39441" lon="133.26318">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7332,7 +6744,7 @@
 		<tag k="name:ja" v="厳島神社前"/>
 		<tag k="name:ja-Hrkt" v="イツクシマジンジャマエ"/>
 	</node>
-	<node id="-612" lat="34.485832" lon="133.36559">
+	<node id="-563" lat="34.485832" lon="133.36559">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7344,7 +6756,7 @@
 		<tag k="name:ja" v="久松通り"/>
 		<tag k="name:ja-Hrkt" v="ヒサマツドオリ"/>
 	</node>
-	<node id="-613" lat="34.485645" lon="133.36588">
+	<node id="-564" lat="34.485645" lon="133.36588">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7356,7 +6768,7 @@
 		<tag k="name:ja" v="久松通り"/>
 		<tag k="name:ja-Hrkt" v="ヒサマツドオリ"/>
 	</node>
-	<node id="-614" lat="34.441868" lon="133.38988">
+	<node id="-565" lat="34.441868" lon="133.38988">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7368,7 +6780,7 @@
 		<tag k="name:ja" v="日の出ヶ丘"/>
 		<tag k="name:ja-Hrkt" v="ヒノデガオカ"/>
 	</node>
-	<node id="-615" lat="34.441895" lon="133.39006">
+	<node id="-566" lat="34.441895" lon="133.39006">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7380,31 +6792,7 @@
 		<tag k="name:ja" v="日の出ヶ丘"/>
 		<tag k="name:ja-Hrkt" v="ヒノデガオカ"/>
 	</node>
-	<node id="-616" lat="34.452095" lon="133.22578">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="963 1979"/>
-		<tag k="name" v="兵庫"/>
-		<tag k="name:en" v="Hyogo"/>
-		<tag k="name:ja" v="兵庫"/>
-		<tag k="name:ja-Hrkt" v="ヒョウゴ"/>
-	</node>
-	<node id="-617" lat="34.45204" lon="133.2258">
-		<tag k="operator" v="鞆鉄道"/>
-		<tag k="operator:en" v="Tomotetsu Bus"/>
-		<tag k="bus" v="yes"/>
-		<tag k="highway" v="bus_stop"/>
-		<tag k="public_transport" v="platform"/>
-		<tag k="gtfs:stop_id" v="963 1980"/>
-		<tag k="name" v="兵庫"/>
-		<tag k="name:en" v="Hyogo"/>
-		<tag k="name:ja" v="兵庫"/>
-		<tag k="name:ja-Hrkt" v="ヒョウゴ"/>
-	</node>
-	<node id="-618" lat="34.376724" lon="133.37453">
+	<node id="-567" lat="34.376724" lon="133.37453">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7416,7 +6804,7 @@
 		<tag k="name:ja" v="平"/>
 		<tag k="name:ja-Hrkt" v="ヒラ"/>
 	</node>
-	<node id="-619" lat="34.376743" lon="133.37448">
+	<node id="-568" lat="34.376743" lon="133.37448">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7428,7 +6816,7 @@
 		<tag k="name:ja" v="平"/>
 		<tag k="name:ja-Hrkt" v="ヒラ"/>
 	</node>
-	<node id="-620" lat="34.406475" lon="133.30664">
+	<node id="-569" lat="34.406475" lon="133.30664">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7440,7 +6828,7 @@
 		<tag k="name:ja" v="平迫"/>
 		<tag k="name:ja-Hrkt" v="ヒラサコ"/>
 	</node>
-	<node id="-621" lat="34.406693" lon="133.30682">
+	<node id="-570" lat="34.406693" lon="133.30682">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7452,7 +6840,7 @@
 		<tag k="name:ja" v="平迫"/>
 		<tag k="name:ja-Hrkt" v="ヒラサコ"/>
 	</node>
-	<node id="-622" lat="34.43353" lon="133.28027">
+	<node id="-571" lat="34.43353" lon="133.28027">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7464,7 +6852,7 @@
 		<tag k="name:ja" v="平田"/>
 		<tag k="name:ja-Hrkt" v="ヒラタ"/>
 	</node>
-	<node id="-623" lat="34.43385" lon="133.28107">
+	<node id="-572" lat="34.43385" lon="133.28107">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7476,7 +6864,7 @@
 		<tag k="name:ja" v="平田"/>
 		<tag k="name:ja-Hrkt" v="ヒラタ"/>
 	</node>
-	<node id="-624" lat="34.42326" lon="133.2774">
+	<node id="-573" lat="34.42326" lon="133.2774">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7488,7 +6876,7 @@
 		<tag k="name:ja" v="病院前"/>
 		<tag k="name:ja-Hrkt" v="ビョウインマエ"/>
 	</node>
-	<node id="-625" lat="34.42277" lon="133.27753">
+	<node id="-574" lat="34.42277" lon="133.27753">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7500,7 +6888,7 @@
 		<tag k="name:ja" v="病院前"/>
 		<tag k="name:ja-Hrkt" v="ビョウインマエ"/>
 	</node>
-	<node id="-626" lat="34.490147" lon="133.36292">
+	<node id="-575" lat="34.490147" lon="133.36292">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7512,7 +6900,7 @@
 		<tag k="name:ja" v="福山駅北口"/>
 		<tag k="name:ja-Hrkt" v="フクヤマエキキタグチ"/>
 	</node>
-	<node id="-627" lat="34.472263" lon="133.32846">
+	<node id="-576" lat="34.472263" lon="133.32846">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7524,7 +6912,7 @@
 		<tag k="name:ja" v="猪ノ子"/>
 		<tag k="name:ja-Hrkt" v="イノコ"/>
 	</node>
-	<node id="-628" lat="34.472374" lon="133.3286">
+	<node id="-577" lat="34.472374" lon="133.3286">
 		<tag k="operator" v="鞆鉄道"/>
 		<tag k="operator:en" v="Tomotetsu Bus"/>
 		<tag k="bus" v="yes"/>

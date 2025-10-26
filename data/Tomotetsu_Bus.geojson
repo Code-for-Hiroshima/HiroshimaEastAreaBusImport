@@ -113,28 +113,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.23178,
-                    34.459217
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1015 2089",
-                "highway": "bus_stop",
-                "name": "福山大学",
-                "name:en": "Fukuyama Daigaku(Fukuyama Univ.)",
-                "name:ja": "福山大学",
-                "name:ja-Hrkt": "フクヤマダイガク",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.36523,
                     34.48901
                 ],
@@ -210,10 +188,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "1021 2104",
                 "highway": "bus_stop",
-                "name": "藤江農協前",
-                "name:en": "Fujie Nokyo-mae",
-                "name:ja": "藤江農協前",
-                "name:ja-Hrkt": "フジエノウキョウマエ",
+                "name": "藤江交流館下",
+                "name:en": "Fujie Koryukan Shita",
+                "name:ja": "藤江交流館下",
+                "name:ja-Hrkt": "フジエコウリュウカンシタ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -232,10 +210,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "1021 2105",
                 "highway": "bus_stop",
-                "name": "藤江農協前",
-                "name:en": "Fujie Nokyo-mae",
-                "name:ja": "藤江農協前",
-                "name:ja-Hrkt": "フジエノウキョウマエ",
+                "name": "藤江交流館下",
+                "name:en": "Fujie Koryukan Shita",
+                "name:ja": "藤江交流館下",
+                "name:ja-Hrkt": "フジエコウリュウカンシタ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -368,94 +346,6 @@
                 "name:en": "Abuto Zuido",
                 "name:ja": "阿伏兎隧道",
                 "name:ja-Hrkt": "アブトズイドウ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24117,
-                    34.482357
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1049 2160",
-                "highway": "bus_stop",
-                "name": "本郷温泉口",
-                "name:en": "Hongo Onsenguchi",
-                "name:ja": "本郷温泉口",
-                "name:ja-Hrkt": "ホンゴウオンセングチ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.2411,
-                    34.482346
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1049 2161",
-                "highway": "bus_stop",
-                "name": "本郷温泉口",
-                "name:en": "Hongo Onsenguchi",
-                "name:ja": "本郷温泉口",
-                "name:ja-Hrkt": "ホンゴウオンセングチ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24586,
-                    34.471027
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1053 2168",
-                "highway": "bus_stop",
-                "name": "本郷小学校前",
-                "name:en": "Hongo Shogakko-mae",
-                "name:ja": "本郷小学校前",
-                "name:ja-Hrkt": "ホンゴウショウガッコウマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24599,
-                    34.470287
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1053 2169",
-                "highway": "bus_stop",
-                "name": "本郷小学校前",
-                "name:en": "Hongo Shogakko-mae",
-                "name:ja": "本郷小学校前",
-                "name:ja-Hrkt": "ホンゴウショウガッコウマエ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -729,28 +619,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.25862,
-                    34.451168
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1083 2227",
-                "highway": "bus_stop",
-                "name": "松永駅北口",
-                "name:en": "Matsunaga Eki-kitaguchi(Matsunaga Sta.)",
-                "name:ja": "松永駅北口",
-                "name:ja-Hrkt": "マツナガエキキタグチ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.25725,
                     34.452618
                 ],
@@ -759,50 +627,6 @@
             "properties": {
                 "bus": "yes",
                 "gtfs:stop_id": "1084 2229",
-                "highway": "bus_stop",
-                "name": "松永駅前",
-                "name:en": "Matsunaga Eki-mae",
-                "name:ja": "松永駅前",
-                "name:ja-Hrkt": "マツナガエキマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.25752,
-                    34.45302
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1084 2230",
-                "highway": "bus_stop",
-                "name": "松永駅前",
-                "name:en": "Matsunaga Eki-mae",
-                "name:ja": "松永駅前",
-                "name:ja-Hrkt": "マツナガエキマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.25739,
-                    34.452984
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1084 2231",
                 "highway": "bus_stop",
                 "name": "松永駅前",
                 "name:en": "Matsunaga Eki-mae",
@@ -1419,28 +1243,6 @@
             "properties": {
                 "bus": "yes",
                 "gtfs:stop_id": "1134 2339",
-                "highway": "bus_stop",
-                "name": "三成",
-                "name:en": "Minari",
-                "name:ja": "三成",
-                "name:ja-Hrkt": "ミナリ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.1952,
-                    34.45067
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1134 2340",
                 "highway": "bus_stop",
                 "name": "三成",
                 "name:en": "Minari",
@@ -2115,50 +1917,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.24132,
-                    34.48008
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1169 2416",
-                "highway": "bus_stop",
-                "name": "妙皇寺前",
-                "name:en": "Myokoji-mae",
-                "name:ja": "妙皇寺前",
-                "name:ja-Hrkt": "ミョウコウジマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24126,
-                    34.48008
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1169 2417",
-                "highway": "bus_stop",
-                "name": "妙皇寺前",
-                "name:en": "Myokoji-mae",
-                "name:ja": "妙皇寺前",
-                "name:ja-Hrkt": "ミョウコウジマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.29126,
                     34.417778
                 ],
@@ -2577,50 +2335,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.21736,
-                    34.45549
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1213 2508",
-                "highway": "bus_stop",
-                "name": "森実",
-                "name:en": "Morizane",
-                "name:ja": "森実",
-                "name:ja-Hrkt": "モリザネ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.21632,
-                    34.455154
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1213 2509",
-                "highway": "bus_stop",
-                "name": "森実",
-                "name:en": "Morizane",
-                "name:ja": "森実",
-                "name:ja-Hrkt": "モリザネ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.27776,
                     34.41915
                 ],
@@ -2709,50 +2423,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.25397,
-                    34.455803
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1229 2541",
-                "highway": "bus_stop",
-                "name": "矢捨",
-                "name:en": "Yasute",
-                "name:ja": "矢捨",
-                "name:ja-Hrkt": "ヤステ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.25392,
-                    34.45577
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1229 2542",
-                "highway": "bus_stop",
-                "name": "矢捨",
-                "name:en": "Yasute",
-                "name:ja": "矢捨",
-                "name:ja-Hrkt": "ヤステ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.21208,
                     34.453773
                 ],
@@ -2783,50 +2453,6 @@
             "properties": {
                 "bus": "yes",
                 "gtfs:stop_id": "1232 2548",
-                "highway": "bus_stop",
-                "name": "柳井",
-                "name:en": "Yanai",
-                "name:ja": "柳井",
-                "name:ja-Hrkt": "ヤナイ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.21304,
-                    34.454037
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1232 3",
-                "highway": "bus_stop",
-                "name": "柳井",
-                "name:en": "Yanai",
-                "name:ja": "柳井",
-                "name:ja-Hrkt": "ヤナイ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.21306,
-                    34.45398
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1232 4",
                 "highway": "bus_stop",
                 "name": "柳井",
                 "name:en": "Yanai",
@@ -2964,50 +2590,6 @@
                 "name:en": "Yamajoguchi",
                 "name:ja": "山庄口",
                 "name:ja-Hrkt": "ヤマショウグチ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24246,
-                    34.47691
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1245 2573",
-                "highway": "bus_stop",
-                "name": "山手橋",
-                "name:en": "Yamatebashi",
-                "name:ja": "山手橋",
-                "name:ja-Hrkt": "ヤマテバシ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.2425,
-                    34.476944
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1245 2574",
-                "highway": "bus_stop",
-                "name": "山手橋",
-                "name:en": "Yamatebashi",
-                "name:ja": "山手橋",
-                "name:ja-Hrkt": "ヤマテバシ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -3184,94 +2766,6 @@
                 "name:en": "Yokobiki",
                 "name:ja": "横引",
                 "name:ja-Hrkt": "ヨコビキ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.23813,
-                    34.48527
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1265 2620",
-                "highway": "bus_stop",
-                "name": "吉田下",
-                "name:en": "Yoshida-shimo",
-                "name:ja": "吉田下",
-                "name:ja-Hrkt": "ヨシダシモ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.2381,
-                    34.485207
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1265 2621",
-                "highway": "bus_stop",
-                "name": "吉田下",
-                "name:en": "Yoshida-shimo",
-                "name:ja": "吉田下",
-                "name:ja-Hrkt": "ヨシダシモ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.23317,
-                    34.48544
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1267 2624",
-                "highway": "bus_stop",
-                "name": "吉田橋",
-                "name:en": "Yoshidabashi",
-                "name:ja": "吉田橋",
-                "name:ja-Hrkt": "ヨシダバシ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.23322,
-                    34.48551
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1267 2625",
-                "highway": "bus_stop",
-                "name": "吉田橋",
-                "name:en": "Yoshidabashi",
-                "name:ja": "吉田橋",
-                "name:ja-Hrkt": "ヨシダバシ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -3730,10 +3224,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "131 269",
                 "highway": "bus_stop",
-                "name": "内海農協前",
-                "name:en": "Utsumi Nokyo-mae",
-                "name:ja": "内海農協前",
-                "name:ja-Hrkt": "ウツミノウキョウマエ",
+                "name": "内海・横田漁港前",
+                "name:en": "Utsumi Yokotagyoko mae",
+                "name:ja": "内海・横田漁港前",
+                "name:ja-Hrkt": "ウツミヨコタギョコウマエ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -4095,50 +3589,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.23338,
-                    34.507984
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1413 2917",
-                "highway": "bus_stop",
-                "name": "大西谷",
-                "name:en": "Onishidani",
-                "name:ja": "大西谷",
-                "name:ja-Hrkt": "オオニシダニ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.23329,
-                    34.50804
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1413 2918",
-                "highway": "bus_stop",
-                "name": "大西谷",
-                "name:en": "Onishidani",
-                "name:ja": "大西谷",
-                "name:ja-Hrkt": "オオニシダニ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.08607,
                     34.401165
                 ],
@@ -4196,160 +3646,6 @@
                 "name:en": "Onomichi Kogyo Danchi",
                 "name:ja": "尾道工業団地",
                 "name:ja-Hrkt": "オノミチコウギョウダンチ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.22534,
-                    34.499844
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1444 2978",
-                "highway": "bus_stop",
-                "name": "小原",
-                "name:en": "Obara",
-                "name:ja": "小原",
-                "name:ja-Hrkt": "オバラ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.2252,
-                    34.49975
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1444 2979",
-                "highway": "bus_stop",
-                "name": "小原",
-                "name:en": "Obara",
-                "name:ja": "小原",
-                "name:ja-Hrkt": "オバラ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.23236,
-                    34.507137
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1445 2981",
-                "highway": "bus_stop",
-                "name": "小原上",
-                "name:en": "Obara-kami",
-                "name:ja": "小原上",
-                "name:ja-Hrkt": "オバラカミ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.22797,
-                    34.4911
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1446 2982",
-                "highway": "bus_stop",
-                "name": "小原下組",
-                "name:en": "Obara-shimogumi",
-                "name:ja": "小原下組",
-                "name:ja-Hrkt": "オバラシモグミ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.2279,
-                    34.49108
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1446 2983",
-                "highway": "bus_stop",
-                "name": "小原下組",
-                "name:en": "Obara-shimogumi",
-                "name:ja": "小原下組",
-                "name:ja-Hrkt": "オバラシモグミ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.22957,
-                    34.487137
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1467 3023",
-                "highway": "bus_stop",
-                "name": "梶山田口",
-                "name:en": "Kajiyamadaguchi",
-                "name:ja": "梶山田口",
-                "name:ja-Hrkt": "カジヤマダグチ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.22966,
-                    34.487144
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1467 3024",
-                "highway": "bus_stop",
-                "name": "梶山田口",
-                "name:en": "Kajiyamadaguchi",
-                "name:ja": "梶山田口",
-                "name:ja-Hrkt": "カジヤマダグチ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -4821,72 +4117,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.23317,
-                    34.52093
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1751 3589",
-                "highway": "bus_stop",
-                "name": "柞磨",
-                "name:en": "Taruma",
-                "name:ja": "柞磨",
-                "name:ja-Hrkt": "タルマ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24042,
-                    34.51764
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1752 3590",
-                "highway": "bus_stop",
-                "name": "柞磨峠",
-                "name:en": "Taruma Toge",
-                "name:ja": "柞磨峠",
-                "name:ja-Hrkt": "タルマトウゲ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.2403,
-                    34.51757
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1752 3591",
-                "highway": "bus_stop",
-                "name": "柞磨峠",
-                "name:en": "Taruma Toge",
-                "name:ja": "柞磨峠",
-                "name:ja-Hrkt": "タルマトウゲ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.30154,
                     34.367825
                 ],
@@ -4922,50 +4152,6 @@
                 "name:en": "Oura",
                 "name:ja": "大浦",
                 "name:ja-Hrkt": "オオウラ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24025,
-                    34.51128
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1786 3657",
-                "highway": "bus_stop",
-                "name": "村田精工前",
-                "name:en": "Murata Seiko-mae",
-                "name:ja": "村田精工前",
-                "name:ja-Hrkt": "ムラタセイコウマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24002,
-                    34.511242
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "1786 3658",
-                "highway": "bus_stop",
-                "name": "村田精工前",
-                "name:en": "Murata Seiko-mae",
-                "name:ja": "村田精工前",
-                "name:ja-Hrkt": "ムラタセイコウマエ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -5679,50 +4865,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.22644,
-                    34.49282
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "2126 4340",
-                "highway": "bus_stop",
-                "name": "吉浦",
-                "name:en": "Yoshiura",
-                "name:ja": "吉浦",
-                "name:ja-Hrkt": "ヨシウラ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.22636,
-                    34.49281
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "2126 4341",
-                "highway": "bus_stop",
-                "name": "吉浦",
-                "name:en": "Yoshiura",
-                "name:ja": "吉浦",
-                "name:ja-Hrkt": "ヨシウラ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.2133,
                     34.411163
                 ],
@@ -5974,10 +5116,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "246 502",
                 "highway": "bus_stop",
-                "name": "霞町",
-                "name:en": "Kasumicho",
-                "name:ja": "霞町",
-                "name:ja-Hrkt": "カスミチョウ",
+                "name": "ジーベック前",
+                "name:en": "XEBEC mae",
+                "name:ja": "ジーベック前",
+                "name:ja-Hrkt": "ジーベックマエ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -5996,10 +5138,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "246 505",
                 "highway": "bus_stop",
-                "name": "霞町",
-                "name:en": "Kasumicho",
-                "name:ja": "霞町",
-                "name:ja-Hrkt": "カスミチョウ",
+                "name": "ジーベック前",
+                "name:en": "XEBEC mae",
+                "name:ja": "ジーベック前",
+                "name:ja-Hrkt": "ジーベックマエ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -7009,7 +6151,7 @@
                 "gtfs:stop_id": "399 818",
                 "highway": "bus_stop",
                 "name": "小林",
-                "name:en": "Obayashi",
+                "name:en": "Kobayashi",
                 "name:ja": "小林",
                 "name:ja-Hrkt": "オバヤシ",
                 "operator": "鞆鉄道",
@@ -7031,7 +6173,7 @@
                 "gtfs:stop_id": "399 819",
                 "highway": "bus_stop",
                 "name": "小林",
-                "name:en": "Obayashi",
+                "name:en": "Kobayashi",
                 "name:ja": "小林",
                 "name:ja-Hrkt": "オバヤシ",
                 "operator": "鞆鉄道",
@@ -7791,50 +6933,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.24638,
-                    34.46694
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "470 958",
-                "highway": "bus_stop",
-                "name": "松永北農協",
-                "name:en": "Matsunaga Kita Nokyo",
-                "name:ja": "松永北農協",
-                "name:ja-Hrkt": "マツナガキタノウキョウ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24654,
-                    34.466743
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "470 959",
-                "highway": "bus_stop",
-                "name": "松永北農協",
-                "name:en": "Matsunaga Kita Nokyo",
-                "name:ja": "松永北農協",
-                "name:ja-Hrkt": "マツナガキタノウキョウ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.32129,
                     34.37864
                 ],
@@ -8495,50 +7593,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.20941,
-                    34.443993
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "54 109",
-                "highway": "bus_stop",
-                "name": "アロン化成前",
-                "name:en": "Aron Kasei-mae",
-                "name:ja": "アロン化成前",
-                "name:ja-Hrkt": "アロンカセイマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.20932,
-                    34.443993
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "54 110",
-                "highway": "bus_stop",
-                "name": "アロン化成前",
-                "name:en": "Aron Kasei-mae",
-                "name:ja": "アロン化成前",
-                "name:ja-Hrkt": "アロンカセイマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.27657,
                     34.43512
                 ],
@@ -8979,50 +8033,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.25044,
-                    34.462
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "587 1199",
-                "highway": "bus_stop",
-                "name": "住宅前",
-                "name:en": "Jutaku-mae",
-                "name:ja": "住宅前",
-                "name:ja-Hrkt": "ジュウタクマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.25046,
-                    34.462074
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "587 1200",
-                "highway": "bus_stop",
-                "name": "住宅前",
-                "name:en": "Jutaku-mae",
-                "name:ja": "住宅前",
-                "name:ja-Hrkt": "ジュウタクマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     133.2101,
                     34.411385
                 ],
@@ -9208,9 +8218,9 @@
                 "bus": "yes",
                 "gtfs:stop_id": "608 1241",
                 "highway": "bus_stop",
-                "name": "のとテック前（末広大橋）",
-                "name:en": "NotoTEC-mae Suehiro Ohashi",
-                "name:ja": "のとテック前（末広大橋）",
+                "name": "末広大橋",
+                "name:en": "Suehiro Ohashi",
+                "name:ja": "末広大橋",
                 "name:ja-Hrkt": "スエヒロオオハシ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
@@ -9230,9 +8240,9 @@
                 "bus": "yes",
                 "gtfs:stop_id": "608 1242",
                 "highway": "bus_stop",
-                "name": "のとテック前（末広大橋）",
-                "name:en": "NotoTEC-mae Suehiro Ohashi",
-                "name:ja": "のとテック前（末広大橋）",
+                "name": "末広大橋",
+                "name:en": "Suehiro Ohashi",
+                "name:ja": "末広大橋",
                 "name:ja-Hrkt": "スエヒロオオハシ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
@@ -9309,8 +8319,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    133.32184,
-                    34.424274
+                    133.32188,
+                    34.423943
                 ],
                 "type": "Point"
             },
@@ -9344,50 +8354,6 @@
                 "name:en": "Sukoyakacenter-mae",
                 "name:ja": "すこやかセンター前",
                 "name:ja-Hrkt": "スコヤカセンターマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24576,
-                    34.468616
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "61 123",
-                "highway": "bus_stop",
-                "name": "石井医院前",
-                "name:en": "Ishiiiin-mae",
-                "name:ja": "石井医院前",
-                "name:ja-Hrkt": "イシイイインマエ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24573,
-                    34.468643
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "61 124",
-                "highway": "bus_stop",
-                "name": "石井医院前",
-                "name:en": "Ishiiiin-mae",
-                "name:ja": "石井医院前",
-                "name:ja-Hrkt": "イシイイインマエ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -12181,7 +11147,7 @@
                 "name": "道上",
                 "name:en": "Michinoue",
                 "name:ja": "道上",
-                "name:ja-Hrkt": "ドウジョウ",
+                "name:ja-Hrkt": "ミチノウエ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -12203,7 +11169,7 @@
                 "name": "道上",
                 "name:en": "Michinoue",
                 "name:ja": "道上",
-                "name:ja-Hrkt": "ドウジョウ",
+                "name:ja-Hrkt": "ミチノウエ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -12336,50 +11302,6 @@
                 "name:en": "Nakago",
                 "name:ja": "中郷",
                 "name:ja-Hrkt": "ナカゴウ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24448,
-                    34.473106
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "837 1715",
-                "highway": "bus_stop",
-                "name": "中屋",
-                "name:en": "Nakaya",
-                "name:ja": "中屋",
-                "name:ja-Hrkt": "ナカヤ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.24442,
-                    34.473076
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "837 1716",
-                "highway": "bus_stop",
-                "name": "中屋",
-                "name:en": "Nakaya",
-                "name:ja": "中屋",
-                "name:ja-Hrkt": "ナカヤ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -12640,10 +11562,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "876 1799",
                 "highway": "bus_stop",
-                "name": "西藤町農協前",
-                "name:en": "Nishifuji-cho Nokyo-mae",
-                "name:ja": "西藤町農協前",
-                "name:ja-Hrkt": "ニシフジマチノウキョウマエ",
+                "name": "西藤小学校入口",
+                "name:en": "Nishifuji Shogakko Iriguchi",
+                "name:ja": "西藤小学校入口",
+                "name:ja-Hrkt": "ニシフジショウガッコウイリグチ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -12662,10 +11584,10 @@
                 "bus": "yes",
                 "gtfs:stop_id": "876 1800",
                 "highway": "bus_stop",
-                "name": "西藤町農協前",
-                "name:en": "Nishifuji-cho Nokyo-mae",
-                "name:ja": "西藤町農協前",
-                "name:ja-Hrkt": "ニシフジマチノウキョウマエ",
+                "name": "西藤小学校入口",
+                "name:en": "Nishifuji Shogakko Iriguchi",
+                "name:ja": "西藤小学校入口",
+                "name:ja-Hrkt": "ニシフジショウガッコウイリグチ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"
@@ -13524,50 +12446,6 @@
                 "name:en": "Hinodegaoka",
                 "name:ja": "日の出ヶ丘",
                 "name:ja-Hrkt": "ヒノデガオカ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.22578,
-                    34.452095
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "963 1979",
-                "highway": "bus_stop",
-                "name": "兵庫",
-                "name:en": "Hyogo",
-                "name:ja": "兵庫",
-                "name:ja-Hrkt": "ヒョウゴ",
-                "operator": "鞆鉄道",
-                "operator:en": "Tomotetsu Bus",
-                "public_transport": "platform"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    133.2258,
-                    34.45204
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "bus": "yes",
-                "gtfs:stop_id": "963 1980",
-                "highway": "bus_stop",
-                "name": "兵庫",
-                "name:en": "Hyogo",
-                "name:ja": "兵庫",
-                "name:ja-Hrkt": "ヒョウゴ",
                 "operator": "鞆鉄道",
                 "operator:en": "Tomotetsu Bus",
                 "public_transport": "platform"

@@ -96,7 +96,7 @@
 		<tag k="name:ja" v="福山東インター入口"/>
 		<tag k="name:ja-Hrkt" v="フクヤマヒガシインターイリグチ"/>
 	</node>
-	<node id="-9" lat="34.50766" lon="133.39633">
+	<node id="-9" lat="34.50873" lon="133.39471">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -312,7 +312,7 @@
 		<tag k="name:ja" v="松原"/>
 		<tag k="name:ja-Hrkt" v="マツバラ"/>
 	</node>
-	<node id="-27" lat="34.513023" lon="133.42862">
+	<node id="-27" lat="34.51281" lon="133.42853">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -510,13 +510,25 @@
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
+		<tag k="gtfs:stop_id" v="1172 1967"/>
+		<tag k="name" v="三吉町"/>
+		<tag k="name:en" v="Miyoshicho"/>
+		<tag k="name:ja" v="三吉町"/>
+		<tag k="name:ja-Hrkt" v="ミヨシチョウ"/>
+	</node>
+	<node id="-44" lat="34.493706" lon="133.37456">
+		<tag k="operator" v="井笠バスカンパニー"/>
+		<tag k="operator:en" v="Ikasa Bus"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="1172 2422"/>
 		<tag k="name" v="三吉町"/>
 		<tag k="name:en" v="Miyoshicho"/>
 		<tag k="name:ja" v="三吉町"/>
 		<tag k="name:ja-Hrkt" v="ミヨシチョウ"/>
 	</node>
-	<node id="-44" lat="34.493717" lon="133.37466">
+	<node id="-45" lat="34.493664" lon="133.37468">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -528,7 +540,7 @@
 		<tag k="name:ja" v="三吉町"/>
 		<tag k="name:ja-Hrkt" v="ミヨシチョウ"/>
 	</node>
-	<node id="-45" lat="34.49718" lon="133.37393">
+	<node id="-46" lat="34.49718" lon="133.37393">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -540,7 +552,7 @@
 		<tag k="name:ja" v="三吉町北"/>
 		<tag k="name:ja-Hrkt" v="ミヨシチョウキタ"/>
 	</node>
-	<node id="-46" lat="34.496735" lon="133.37408">
+	<node id="-47" lat="34.496735" lon="133.37408">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -552,7 +564,7 @@
 		<tag k="name:ja" v="三吉町北"/>
 		<tag k="name:ja-Hrkt" v="ミヨシチョウキタ"/>
 	</node>
-	<node id="-47" lat="34.490814" lon="133.37898">
+	<node id="-48" lat="34.490814" lon="133.37898">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -564,7 +576,7 @@
 		<tag k="name:ja" v="三吉町南"/>
 		<tag k="name:ja-Hrkt" v="ミヨシチョウミナミ"/>
 	</node>
-	<node id="-48" lat="34.49076" lon="133.37901">
+	<node id="-49" lat="34.49076" lon="133.37901">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -576,7 +588,7 @@
 		<tag k="name:ja" v="三吉町南"/>
 		<tag k="name:ja-Hrkt" v="ミヨシチョウミナミ"/>
 	</node>
-	<node id="-49" lat="34.502373" lon="133.38345">
+	<node id="-50" lat="34.502373" lon="133.38345">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -588,7 +600,7 @@
 		<tag k="name:ja" v="巌山"/>
 		<tag k="name:ja-Hrkt" v="イワヤマ"/>
 	</node>
-	<node id="-50" lat="34.502308" lon="133.38342">
+	<node id="-51" lat="34.502308" lon="133.38342">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -600,7 +612,7 @@
 		<tag k="name:ja" v="巌山"/>
 		<tag k="name:ja-Hrkt" v="イワヤマ"/>
 	</node>
-	<node id="-51" lat="34.492653" lon="133.4614">
+	<node id="-52" lat="34.492653" lon="133.4614">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -612,7 +624,7 @@
 		<tag k="name:ja" v="茂平"/>
 		<tag k="name:ja-Hrkt" v="モビラ"/>
 	</node>
-	<node id="-52" lat="34.49236" lon="133.4616">
+	<node id="-53" lat="34.49236" lon="133.4616">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -624,7 +636,7 @@
 		<tag k="name:ja" v="茂平"/>
 		<tag k="name:ja-Hrkt" v="モビラ"/>
 	</node>
-	<node id="-53" lat="34.489193" lon="133.4618">
+	<node id="-54" lat="34.489193" lon="133.4618">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -636,7 +648,7 @@
 		<tag k="name:ja" v="茂平橋"/>
 		<tag k="name:ja-Hrkt" v="モビラバシ"/>
 	</node>
-	<node id="-54" lat="34.489185" lon="133.46196">
+	<node id="-55" lat="34.489185" lon="133.46196">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -648,7 +660,7 @@
 		<tag k="name:ja" v="茂平橋"/>
 		<tag k="name:ja-Hrkt" v="モビラバシ"/>
 	</node>
-	<node id="-55" lat="34.487747" lon="133.3685">
+	<node id="-56" lat="34.487747" lon="133.3685">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -660,7 +672,7 @@
 		<tag k="name:ja" v="木綿橋"/>
 		<tag k="name:ja-Hrkt" v="モメンバシ"/>
 	</node>
-	<node id="-56" lat="34.59535" lon="133.4607">
+	<node id="-57" lat="34.59535" lon="133.4607">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -672,7 +684,7 @@
 		<tag k="name:ja" v="薬師"/>
 		<tag k="name:ja-Hrkt" v="ヤクシ"/>
 	</node>
-	<node id="-57" lat="34.59567" lon="133.46114">
+	<node id="-58" lat="34.59567" lon="133.46114">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -684,7 +696,7 @@
 		<tag k="name:ja" v="薬師"/>
 		<tag k="name:ja-Hrkt" v="ヤクシ"/>
 	</node>
-	<node id="-58" lat="34.575043" lon="133.41713">
+	<node id="-59" lat="34.575043" lon="133.41713">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -696,7 +708,7 @@
 		<tag k="name:ja" v="八尋口"/>
 		<tag k="name:ja-Hrkt" v="ヤヒログチ"/>
 	</node>
-	<node id="-59" lat="34.57537" lon="133.41788">
+	<node id="-60" lat="34.57537" lon="133.41788">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -708,7 +720,7 @@
 		<tag k="name:ja" v="八尋口"/>
 		<tag k="name:ja-Hrkt" v="ヤヒログチ"/>
 	</node>
-	<node id="-60" lat="34.51139" lon="133.3664">
+	<node id="-61" lat="34.51139" lon="133.3664">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -720,7 +732,7 @@
 		<tag k="name:ja" v="藪路"/>
 		<tag k="name:ja-Hrkt" v="ヤブロ"/>
 	</node>
-	<node id="-61" lat="34.511406" lon="133.36646">
+	<node id="-62" lat="34.511406" lon="133.36646">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -732,7 +744,7 @@
 		<tag k="name:ja" v="藪路"/>
 		<tag k="name:ja-Hrkt" v="ヤブロ"/>
 	</node>
-	<node id="-62" lat="34.51442" lon="133.36543">
+	<node id="-63" lat="34.51442" lon="133.36543">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -744,7 +756,7 @@
 		<tag k="name:ja" v="藪路住宅前"/>
 		<tag k="name:ja-Hrkt" v="ヤブロジュウタクマエ"/>
 	</node>
-	<node id="-63" lat="34.51443" lon="133.36548">
+	<node id="-64" lat="34.51443" lon="133.36548">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -756,7 +768,7 @@
 		<tag k="name:ja" v="藪路住宅前"/>
 		<tag k="name:ja-Hrkt" v="ヤブロジュウタクマエ"/>
 	</node>
-	<node id="-64" lat="34.556988" lon="133.39267">
+	<node id="-65" lat="34.556988" lon="133.39267">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -768,7 +780,7 @@
 		<tag k="name:ja" v="湯野入口"/>
 		<tag k="name:ja-Hrkt" v="ユノイリグチ"/>
 	</node>
-	<node id="-65" lat="34.557896" lon="133.39272">
+	<node id="-66" lat="34.557896" lon="133.39272">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -780,7 +792,7 @@
 		<tag k="name:ja" v="湯野入口"/>
 		<tag k="name:ja-Hrkt" v="ユノイリグチ"/>
 	</node>
-	<node id="-66" lat="34.513916" lon="133.4901">
+	<node id="-67" lat="34.513916" lon="133.4901">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -792,7 +804,7 @@
 		<tag k="name:ja" v="西浜"/>
 		<tag k="name:ja-Hrkt" v="ヨウスナ"/>
 	</node>
-	<node id="-67" lat="34.513866" lon="133.49022">
+	<node id="-68" lat="34.513866" lon="133.49022">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -804,7 +816,7 @@
 		<tag k="name:ja" v="西浜"/>
 		<tag k="name:ja-Hrkt" v="ヨウスナ"/>
 	</node>
-	<node id="-68" lat="34.524105" lon="133.36438">
+	<node id="-69" lat="34.524105" lon="133.36438">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -816,7 +828,7 @@
 		<tag k="name:ja" v="横尾"/>
 		<tag k="name:ja-Hrkt" v="ヨコオ"/>
 	</node>
-	<node id="-69" lat="34.524162" lon="133.36447">
+	<node id="-70" lat="34.524162" lon="133.36447">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -828,7 +840,7 @@
 		<tag k="name:ja" v="横尾"/>
 		<tag k="name:ja-Hrkt" v="ヨコオ"/>
 	</node>
-	<node id="-70" lat="34.522507" lon="133.36461">
+	<node id="-71" lat="34.522507" lon="133.36461">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -840,7 +852,7 @@
 		<tag k="name:ja" v="横尾駅前"/>
 		<tag k="name:ja-Hrkt" v="ヨコオエキマエ"/>
 	</node>
-	<node id="-71" lat="34.52249" lon="133.36467">
+	<node id="-72" lat="34.52249" lon="133.36467">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -852,7 +864,7 @@
 		<tag k="name:ja" v="横尾駅前"/>
 		<tag k="name:ja-Hrkt" v="ヨコオエキマエ"/>
 	</node>
-	<node id="-72" lat="34.508987" lon="133.40654">
+	<node id="-73" lat="34.508987" lon="133.40654">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -864,7 +876,7 @@
 		<tag k="name:ja" v="吉田"/>
 		<tag k="name:ja-Hrkt" v="ヨシダ"/>
 	</node>
-	<node id="-73" lat="34.50897" lon="133.40666">
+	<node id="-74" lat="34.50897" lon="133.40666">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -876,7 +888,7 @@
 		<tag k="name:ja" v="吉田"/>
 		<tag k="name:ja-Hrkt" v="ヨシダ"/>
 	</node>
-	<node id="-74" lat="34.50528" lon="133.40312">
+	<node id="-75" lat="34.50528" lon="133.40312">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -888,7 +900,7 @@
 		<tag k="name:ja" v="吉田西"/>
 		<tag k="name:ja-Hrkt" v="ヨシダニシ"/>
 	</node>
-	<node id="-75" lat="34.50522" lon="133.40326">
+	<node id="-76" lat="34.50522" lon="133.40326">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -900,7 +912,7 @@
 		<tag k="name:ja" v="吉田西"/>
 		<tag k="name:ja-Hrkt" v="ヨシダニシ"/>
 	</node>
-	<node id="-76" lat="34.507355" lon="133.40916">
+	<node id="-77" lat="34.507355" lon="133.40916">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -912,7 +924,7 @@
 		<tag k="name:ja" v="吉田東"/>
 		<tag k="name:ja-Hrkt" v="ヨシダヒガシ"/>
 	</node>
-	<node id="-77" lat="34.50726" lon="133.40883">
+	<node id="-78" lat="34.50726" lon="133.40883">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -924,7 +936,7 @@
 		<tag k="name:ja" v="吉田東"/>
 		<tag k="name:ja-Hrkt" v="ヨシダヒガシ"/>
 	</node>
-	<node id="-78" lat="34.579067" lon="133.42607">
+	<node id="-79" lat="34.579067" lon="133.42607">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -936,7 +948,7 @@
 		<tag k="name:ja" v="吉野"/>
 		<tag k="name:ja-Hrkt" v="ヨシノ"/>
 	</node>
-	<node id="-79" lat="34.579224" lon="133.42628">
+	<node id="-80" lat="34.579224" lon="133.42628">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -948,7 +960,7 @@
 		<tag k="name:ja" v="吉野"/>
 		<tag k="name:ja-Hrkt" v="ヨシノ"/>
 	</node>
-	<node id="-80" lat="34.51519" lon="133.47937">
+	<node id="-81" lat="34.51519" lon="133.47937">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -960,7 +972,7 @@
 		<tag k="name:ja" v="吉浜"/>
 		<tag k="name:ja-Hrkt" v="ヨシハマ"/>
 	</node>
-	<node id="-81" lat="34.508835" lon="133.3668">
+	<node id="-82" lat="34.508835" lon="133.3668">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -972,7 +984,7 @@
 		<tag k="name:ja" v="緑陽団地口"/>
 		<tag k="name:ja-Hrkt" v="リョクヨウダンチグチ"/>
 	</node>
-	<node id="-82" lat="34.508835" lon="133.3669">
+	<node id="-83" lat="34.508835" lon="133.3669">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -984,7 +996,7 @@
 		<tag k="name:ja" v="緑陽団地口"/>
 		<tag k="name:ja-Hrkt" v="リョクヨウダンチグチ"/>
 	</node>
-	<node id="-83" lat="34.49804" lon="133.42603">
+	<node id="-84" lat="34.49804" lon="133.42603">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -996,7 +1008,19 @@
 		<tag k="name:ja" v="ローズタウン入口"/>
 		<tag k="name:ja-Hrkt" v="ローズタウンイリグチ"/>
 	</node>
-	<node id="-84" lat="34.495758" lon="133.42921">
+	<node id="-85" lat="34.49805" lon="133.42592">
+		<tag k="operator" v="井笠バスカンパニー"/>
+		<tag k="operator:en" v="Ikasa Bus"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="gtfs:stop_id" v="1287 2667"/>
+		<tag k="name" v="ローズタウン入口"/>
+		<tag k="name:en" v="Rosetown-iriguchi"/>
+		<tag k="name:ja" v="ローズタウン入口"/>
+		<tag k="name:ja-Hrkt" v="ローズタウンイリグチ"/>
+	</node>
+	<node id="-86" lat="34.495758" lon="133.42921">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1008,7 +1032,19 @@
 		<tag k="name:ja" v="ローズタウン上"/>
 		<tag k="name:ja-Hrkt" v="ローズタウンカミ"/>
 	</node>
-	<node id="-85" lat="34.49628" lon="133.4271">
+	<node id="-87" lat="34.495636" lon="133.42903">
+		<tag k="operator" v="井笠バスカンパニー"/>
+		<tag k="operator:en" v="Ikasa Bus"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="gtfs:stop_id" v="1288 2669"/>
+		<tag k="name" v="ローズタウン上"/>
+		<tag k="name:en" v="Rosetown-kami"/>
+		<tag k="name:ja" v="ローズタウン上"/>
+		<tag k="name:ja-Hrkt" v="ローズタウンカミ"/>
+	</node>
+	<node id="-88" lat="34.49628" lon="133.4271">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1020,7 +1056,19 @@
 		<tag k="name:ja" v="ローズタウン中"/>
 		<tag k="name:ja-Hrkt" v="ローズタウンナカ"/>
 	</node>
-	<node id="-86" lat="34.487938" lon="133.35854">
+	<node id="-89" lat="34.496758" lon="133.42671">
+		<tag k="operator" v="井笠バスカンパニー"/>
+		<tag k="operator:en" v="Ikasa Bus"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="gtfs:stop_id" v="1289 2671"/>
+		<tag k="name" v="ローズタウン中"/>
+		<tag k="name:en" v="Rosetown-naka"/>
+		<tag k="name:ja" v="ローズタウン中"/>
+		<tag k="name:ja-Hrkt" v="ローズタウンナカ"/>
+	</node>
+	<node id="-90" lat="34.487938" lon="133.35854">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1032,7 +1080,7 @@
 		<tag k="name:ja" v="リム・ふくやま前"/>
 		<tag k="name:ja-Hrkt" v="リムフクヤママエ"/>
 	</node>
-	<node id="-87" lat="34.516182" lon="133.48233">
+	<node id="-91" lat="34.516182" lon="133.48233">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1044,7 +1092,7 @@
 		<tag k="name:ja" v="湾頭"/>
 		<tag k="name:ja-Hrkt" v="ワンド"/>
 	</node>
-	<node id="-88" lat="34.502533" lon="133.53366">
+	<node id="-92" lat="34.502533" lon="133.53366">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1056,7 +1104,7 @@
 		<tag k="name:ja" v="一丁目"/>
 		<tag k="name:ja-Hrkt" v="1チョウメ"/>
 	</node>
-	<node id="-89" lat="34.499523" lon="133.47942">
+	<node id="-93" lat="34.499523" lon="133.47942">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1068,7 +1116,7 @@
 		<tag k="name:ja" v="ＪＡ営農センター前"/>
 		<tag k="name:ja-Hrkt" v="ＪＡエイノウセンターマエ"/>
 	</node>
-	<node id="-90" lat="34.52041" lon="133.65271">
+	<node id="-94" lat="34.52041" lon="133.65271">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1080,7 +1128,7 @@
 		<tag k="name:ja" v="外浜"/>
 		<tag k="name:ja-Hrkt" v="アダハマ"/>
 	</node>
-	<node id="-91" lat="34.52025" lon="133.65236">
+	<node id="-95" lat="34.52025" lon="133.65236">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1092,7 +1140,7 @@
 		<tag k="name:ja" v="外浜"/>
 		<tag k="name:ja-Hrkt" v="アダハマ"/>
 	</node>
-	<node id="-92" lat="34.53727" lon="133.66771">
+	<node id="-96" lat="34.53727" lon="133.66771">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1104,7 +1152,7 @@
 		<tag k="name:ja" v="稲荷町"/>
 		<tag k="name:ja-Hrkt" v="イナリマチ"/>
 	</node>
-	<node id="-93" lat="34.537083" lon="133.66768">
+	<node id="-97" lat="34.537083" lon="133.66768">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1116,7 +1164,7 @@
 		<tag k="name:ja" v="稲荷町"/>
 		<tag k="name:ja-Hrkt" v="イナリマチ"/>
 	</node>
-	<node id="-94" lat="34.52229" lon="133.42181">
+	<node id="-98" lat="34.52229" lon="133.42181">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1128,7 +1176,7 @@
 		<tag k="name:ja" v="浦上"/>
 		<tag k="name:ja-Hrkt" v="ウラカミ"/>
 	</node>
-	<node id="-95" lat="34.593494" lon="133.4692">
+	<node id="-99" lat="34.593494" lon="133.4692">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1140,7 +1188,7 @@
 		<tag k="name:ja" v="井原駅"/>
 		<tag k="name:ja-Hrkt" v="イバラエキ"/>
 	</node>
-	<node id="-96" lat="34.629154" lon="133.5902">
+	<node id="-100" lat="34.629154" lon="133.5902">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1152,7 +1200,7 @@
 		<tag k="name:ja" v="井原線矢掛駅"/>
 		<tag k="name:ja-Hrkt" v="イバラセンヤカゲエキ"/>
 	</node>
-	<node id="-97" lat="34.505444" lon="133.53658">
+	<node id="-101" lat="34.505444" lon="133.53658">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1164,7 +1212,7 @@
 		<tag k="name:ja" v="今井入口"/>
 		<tag k="name:ja-Hrkt" v="イマイイリグチ"/>
 	</node>
-	<node id="-98" lat="34.52669" lon="133.52895">
+	<node id="-102" lat="34.52669" lon="133.52895">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1176,7 +1224,7 @@
 		<tag k="name:ja" v="今井小学校前"/>
 		<tag k="name:ja-Hrkt" v="イマイショウガッコウマエ"/>
 	</node>
-	<node id="-99" lat="34.52661" lon="133.52893">
+	<node id="-103" lat="34.52661" lon="133.52893">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1188,7 +1236,7 @@
 		<tag k="name:ja" v="今井小学校前"/>
 		<tag k="name:ja-Hrkt" v="イマイショウガッコウマエ"/>
 	</node>
-	<node id="-100" lat="34.521656" lon="133.53178">
+	<node id="-104" lat="34.521656" lon="133.53178">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1200,7 +1248,7 @@
 		<tag k="name:ja" v="今井農協前"/>
 		<tag k="name:ja-Hrkt" v="イマイノウキョウマエ"/>
 	</node>
-	<node id="-101" lat="34.514473" lon="133.42671">
+	<node id="-105" lat="34.514473" lon="133.42671">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1212,7 +1260,7 @@
 		<tag k="name:ja" v="浦上団地口"/>
 		<tag k="name:ja-Hrkt" v="ウラカミダンチグチ"/>
 	</node>
-	<node id="-102" lat="34.514545" lon="133.42671">
+	<node id="-106" lat="34.514545" lon="133.42671">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1224,7 +1272,7 @@
 		<tag k="name:ja" v="浦上団地口"/>
 		<tag k="name:ja-Hrkt" v="ウラカミダンチグチ"/>
 	</node>
-	<node id="-103" lat="34.563255" lon="133.47765">
+	<node id="-107" lat="34.563255" lon="133.47765">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1236,7 +1284,7 @@
 		<tag k="name:ja" v="岩倉上"/>
 		<tag k="name:ja-Hrkt" v="イワクラカミ"/>
 	</node>
-	<node id="-104" lat="34.562965" lon="133.47769">
+	<node id="-108" lat="34.562965" lon="133.47769">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1248,7 +1296,7 @@
 		<tag k="name:ja" v="岩倉上"/>
 		<tag k="name:ja-Hrkt" v="イワクラカミ"/>
 	</node>
-	<node id="-105" lat="34.494896" lon="133.62198">
+	<node id="-109" lat="34.494896" lon="133.62198">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1260,7 +1308,7 @@
 		<tag k="name:ja" v="岩谷"/>
 		<tag k="name:ja-Hrkt" v="イワヤ"/>
 	</node>
-	<node id="-106" lat="34.49518" lon="133.62222">
+	<node id="-110" lat="34.49518" lon="133.62222">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1272,7 +1320,7 @@
 		<tag k="name:ja" v="岩谷"/>
 		<tag k="name:ja-Hrkt" v="イワヤ"/>
 	</node>
-	<node id="-107" lat="34.519306" lon="133.41711">
+	<node id="-111" lat="34.519306" lon="133.41711">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1284,7 +1332,7 @@
 		<tag k="name:ja" v="浦上西"/>
 		<tag k="name:ja-Hrkt" v="ウラカミニシ"/>
 	</node>
-	<node id="-108" lat="34.52334" lon="133.4266">
+	<node id="-112" lat="34.52334" lon="133.4266">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1296,7 +1344,7 @@
 		<tag k="name:ja" v="浦上東"/>
 		<tag k="name:ja-Hrkt" v="ウラカミヒガシ"/>
 	</node>
-	<node id="-109" lat="34.529587" lon="133.51126">
+	<node id="-113" lat="34.529587" lon="133.51126">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1308,7 +1356,7 @@
 		<tag k="name:ja" v="追分"/>
 		<tag k="name:ja-Hrkt" v="オイワケ"/>
 	</node>
-	<node id="-110" lat="34.52968" lon="133.5114">
+	<node id="-114" lat="34.52968" lon="133.5114">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1320,7 +1368,7 @@
 		<tag k="name:ja" v="追分"/>
 		<tag k="name:ja-Hrkt" v="オイワケ"/>
 	</node>
-	<node id="-111" lat="34.530956" lon="133.49443">
+	<node id="-115" lat="34.530956" lon="133.49443">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1332,7 +1380,7 @@
 		<tag k="name:ja" v="大河"/>
 		<tag k="name:ja-Hrkt" v="オウコウ"/>
 	</node>
-	<node id="-112" lat="34.53852" lon="133.50214">
+	<node id="-116" lat="34.53852" lon="133.50214">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1344,7 +1392,7 @@
 		<tag k="name:ja" v="大井小学校前"/>
 		<tag k="name:ja-Hrkt" v="オオイショウガッコウマエ"/>
 	</node>
-	<node id="-113" lat="34.537903" lon="133.5026">
+	<node id="-117" lat="34.537903" lon="133.5026">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1356,7 +1404,7 @@
 		<tag k="name:ja" v="大井小学校前"/>
 		<tag k="name:ja-Hrkt" v="オオイショウガッコウマエ"/>
 	</node>
-	<node id="-114" lat="34.533604" lon="133.49739">
+	<node id="-118" lat="34.533604" lon="133.49739">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1368,7 +1416,7 @@
 		<tag k="name:ja" v="大井ハイランド西口"/>
 		<tag k="name:ja-Hrkt" v="オオイハイランドニシグチ"/>
 	</node>
-	<node id="-115" lat="34.53007" lon="133.50671">
+	<node id="-119" lat="34.53007" lon="133.50671">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1380,7 +1428,7 @@
 		<tag k="name:ja" v="大井南一丁目"/>
 		<tag k="name:ja-Hrkt" v="オオイミナミ1チョウメ"/>
 	</node>
-	<node id="-116" lat="34.53024" lon="133.50745">
+	<node id="-120" lat="34.53024" lon="133.50745">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1392,7 +1440,7 @@
 		<tag k="name:ja" v="大井南一丁目"/>
 		<tag k="name:ja-Hrkt" v="オオイミナミ1チョウメ"/>
 	</node>
-	<node id="-117" lat="34.530098" lon="133.50377">
+	<node id="-121" lat="34.530098" lon="133.50377">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1404,7 +1452,7 @@
 		<tag k="name:ja" v="大井南二丁目"/>
 		<tag k="name:ja-Hrkt" v="オオイミナミ2チョウメ"/>
 	</node>
-	<node id="-118" lat="34.530132" lon="133.5046">
+	<node id="-122" lat="34.530132" lon="133.5046">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1416,7 +1464,7 @@
 		<tag k="name:ja" v="大井南二丁目"/>
 		<tag k="name:ja-Hrkt" v="オオイミナミ2チョウメ"/>
 	</node>
-	<node id="-119" lat="34.530186" lon="133.50035">
+	<node id="-123" lat="34.530186" lon="133.50035">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1428,7 +1476,7 @@
 		<tag k="name:ja" v="大井南三丁目"/>
 		<tag k="name:ja-Hrkt" v="オオイミナミ3チョウメ"/>
 	</node>
-	<node id="-120" lat="34.516285" lon="133.51056">
+	<node id="-124" lat="34.516285" lon="133.51056">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1440,7 +1488,7 @@
 		<tag k="name:ja" v="大久保"/>
 		<tag k="name:ja-Hrkt" v="オオクボ"/>
 	</node>
-	<node id="-121" lat="34.515648" lon="133.51035">
+	<node id="-125" lat="34.515648" lon="133.51035">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1452,7 +1500,7 @@
 		<tag k="name:ja" v="大久保"/>
 		<tag k="name:ja-Hrkt" v="オオクボ"/>
 	</node>
-	<node id="-122" lat="34.48316" lon="133.53401">
+	<node id="-126" lat="34.48316" lon="133.53401">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1464,7 +1512,7 @@
 		<tag k="name:ja" v="大島小学校前"/>
 		<tag k="name:ja-Hrkt" v="オオシマショウガッコウマエ"/>
 	</node>
-	<node id="-123" lat="34.583492" lon="133.47296">
+	<node id="-127" lat="34.583492" lon="133.47296">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1476,7 +1524,7 @@
 		<tag k="name:ja" v="大谷"/>
 		<tag k="name:ja-Hrkt" v="オオタニ"/>
 	</node>
-	<node id="-124" lat="34.583633" lon="133.47278">
+	<node id="-128" lat="34.583633" lon="133.47278">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1488,7 +1536,7 @@
 		<tag k="name:ja" v="大谷"/>
 		<tag k="name:ja-Hrkt" v="オオタニ"/>
 	</node>
-	<node id="-125" lat="34.5463" lon="133.50064">
+	<node id="-129" lat="34.5463" lon="133.50064">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1500,7 +1548,7 @@
 		<tag k="name:ja" v="大戸上"/>
 		<tag k="name:ja-Hrkt" v="オオドカミ"/>
 	</node>
-	<node id="-126" lat="34.54607" lon="133.50075">
+	<node id="-130" lat="34.54607" lon="133.50075">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1512,7 +1560,7 @@
 		<tag k="name:ja" v="大戸上"/>
 		<tag k="name:ja-Hrkt" v="オオドカミ"/>
 	</node>
-	<node id="-127" lat="34.54042" lon="133.50131">
+	<node id="-131" lat="34.54042" lon="133.50131">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1524,7 +1572,7 @@
 		<tag k="name:ja" v="大戸口"/>
 		<tag k="name:ja-Hrkt" v="オオドグチ"/>
 	</node>
-	<node id="-128" lat="34.54036" lon="133.50117">
+	<node id="-132" lat="34.54036" lon="133.50117">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1536,7 +1584,7 @@
 		<tag k="name:ja" v="大戸口"/>
 		<tag k="name:ja-Hrkt" v="オオドグチ"/>
 	</node>
-	<node id="-129" lat="34.544525" lon="133.50003">
+	<node id="-133" lat="34.544525" lon="133.50003">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1548,7 +1596,7 @@
 		<tag k="name:ja" v="大戸中"/>
 		<tag k="name:ja-Hrkt" v="オオドナカ"/>
 	</node>
-	<node id="-130" lat="34.54351" lon="133.50038">
+	<node id="-134" lat="34.54351" lon="133.50038">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1560,7 +1608,7 @@
 		<tag k="name:ja" v="大戸中"/>
 		<tag k="name:ja-Hrkt" v="オオドナカ"/>
 	</node>
-	<node id="-131" lat="34.55888" lon="133.5494">
+	<node id="-135" lat="34.55888" lon="133.5494">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1572,7 +1620,7 @@
 		<tag k="name:ja" v="尾坂"/>
 		<tag k="name:ja-Hrkt" v="オサカ"/>
 	</node>
-	<node id="-132" lat="34.554554" lon="133.55298">
+	<node id="-136" lat="34.554554" lon="133.55298">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1584,7 +1632,7 @@
 		<tag k="name:ja" v="尾坂上"/>
 		<tag k="name:ja-Hrkt" v="オサカカミ"/>
 	</node>
-	<node id="-133" lat="34.602955" lon="133.53874">
+	<node id="-137" lat="34.602955" lon="133.53874">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1596,7 +1644,7 @@
 		<tag k="name:ja" v="小田中"/>
 		<tag k="name:ja-Hrkt" v="オダナカ"/>
 	</node>
-	<node id="-134" lat="34.60335" lon="133.53899">
+	<node id="-138" lat="34.60335" lon="133.53899">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1608,7 +1656,7 @@
 		<tag k="name:ja" v="小田中"/>
 		<tag k="name:ja-Hrkt" v="オダナカ"/>
 	</node>
-	<node id="-135" lat="34.60484" lon="133.5417">
+	<node id="-139" lat="34.60484" lon="133.5417">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1620,7 +1668,7 @@
 		<tag k="name:ja" v="小田東"/>
 		<tag k="name:ja-Hrkt" v="オダヒガシ"/>
 	</node>
-	<node id="-136" lat="34.605446" lon="133.54282">
+	<node id="-140" lat="34.605446" lon="133.54282">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1632,7 +1680,7 @@
 		<tag k="name:ja" v="小田東"/>
 		<tag k="name:ja-Hrkt" v="オダヒガシ"/>
 	</node>
-	<node id="-137" lat="34.54233" lon="133.5181">
+	<node id="-141" lat="34.54233" lon="133.5181">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1644,7 +1692,7 @@
 		<tag k="name:ja" v="小平井"/>
 		<tag k="name:ja-Hrkt" v="オビライ"/>
 	</node>
-	<node id="-138" lat="34.54094" lon="133.51749">
+	<node id="-142" lat="34.54094" lon="133.51749">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1656,7 +1704,7 @@
 		<tag k="name:ja" v="小平井"/>
 		<tag k="name:ja-Hrkt" v="オビライ"/>
 	</node>
-	<node id="-139" lat="34.598324" lon="133.46661">
+	<node id="-143" lat="34.598324" lon="133.46661">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1668,7 +1716,7 @@
 		<tag k="name:ja" v="駅前通り"/>
 		<tag k="name:ja-Hrkt" v="エキマエドオリ"/>
 	</node>
-	<node id="-140" lat="34.598007" lon="133.4669">
+	<node id="-144" lat="34.598007" lon="133.4669">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1680,7 +1728,7 @@
 		<tag k="name:ja" v="駅前通り"/>
 		<tag k="name:ja-Hrkt" v="エキマエドオリ"/>
 	</node>
-	<node id="-141" lat="34.505188" lon="133.50487">
+	<node id="-145" lat="34.505188" lon="133.50487">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1692,7 +1740,7 @@
 		<tag k="name:ja" v="笠岡駅前"/>
 		<tag k="name:ja-Hrkt" v="カサオカエキマエ"/>
 	</node>
-	<node id="-142" lat="34.505283" lon="133.50496">
+	<node id="-146" lat="34.505283" lon="133.50496">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1704,7 +1752,7 @@
 		<tag k="name:ja" v="笠岡駅前"/>
 		<tag k="name:ja-Hrkt" v="カサオカエキマエ"/>
 	</node>
-	<node id="-143" lat="34.50514" lon="133.50522">
+	<node id="-147" lat="34.50514" lon="133.50522">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1716,7 +1764,7 @@
 		<tag k="name:ja" v="笠岡駅前"/>
 		<tag k="name:ja-Hrkt" v="カサオカエキマエ"/>
 	</node>
-	<node id="-144" lat="34.50502" lon="133.50516">
+	<node id="-148" lat="34.50502" lon="133.50516">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1728,7 +1776,7 @@
 		<tag k="name:ja" v="笠岡駅前"/>
 		<tag k="name:ja-Hrkt" v="カサオカエキマエ"/>
 	</node>
-	<node id="-145" lat="34.48526" lon="133.53024">
+	<node id="-149" lat="34.48526" lon="133.53024">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1740,7 +1788,7 @@
 		<tag k="name:ja" v="笠岡温泉前"/>
 		<tag k="name:ja-Hrkt" v="カサオカオンセンマエ"/>
 	</node>
-	<node id="-146" lat="34.50401" lon="133.48637">
+	<node id="-150" lat="34.50401" lon="133.48637">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1752,7 +1800,7 @@
 		<tag k="name:ja" v="笠岡総合スポーツ公園前"/>
 		<tag k="name:ja-Hrkt" v="カサオカソウゴウスポーツコウエンマエ"/>
 	</node>
-	<node id="-147" lat="34.498207" lon="133.5141">
+	<node id="-151" lat="34.498207" lon="133.5141">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1764,7 +1812,7 @@
 		<tag k="name:ja" v="笠岡郵便局前"/>
 		<tag k="name:ja-Hrkt" v="カサオカユウビンキョクマエ"/>
 	</node>
-	<node id="-148" lat="34.498093" lon="133.51418">
+	<node id="-152" lat="34.498093" lon="133.51418">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1776,7 +1824,7 @@
 		<tag k="name:ja" v="笠岡郵便局前"/>
 		<tag k="name:ja-Hrkt" v="カサオカユウビンキョクマエ"/>
 	</node>
-	<node id="-149" lat="34.514187" lon="133.50949">
+	<node id="-153" lat="34.514187" lon="133.50949">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1788,7 +1836,7 @@
 		<tag k="name:ja" v="笠高入口"/>
 		<tag k="name:ja-Hrkt" v="カサコウイリグチ"/>
 	</node>
-	<node id="-150" lat="34.51424" lon="133.50963">
+	<node id="-154" lat="34.51424" lon="133.50963">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1800,7 +1848,7 @@
 		<tag k="name:ja" v="笠高入口"/>
 		<tag k="name:ja-Hrkt" v="カサコウイリグチ"/>
 	</node>
-	<node id="-151" lat="34.528393" lon="133.51315">
+	<node id="-155" lat="34.528393" lon="133.51315">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1812,7 +1860,7 @@
 		<tag k="name:ja" v="春日台団地口"/>
 		<tag k="name:ja-Hrkt" v="カスガダイダンチグチ"/>
 	</node>
-	<node id="-152" lat="34.527737" lon="133.51396">
+	<node id="-156" lat="34.527737" lon="133.51396">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1824,7 +1872,7 @@
 		<tag k="name:ja" v="春日台団地口"/>
 		<tag k="name:ja-Hrkt" v="カスガダイダンチグチ"/>
 	</node>
-	<node id="-153" lat="34.478188" lon="133.51729">
+	<node id="-157" lat="34.478188" lon="133.51729">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1836,7 +1884,7 @@
 		<tag k="name:ja" v="片島口"/>
 		<tag k="name:ja-Hrkt" v="カタシマグチ"/>
 	</node>
-	<node id="-154" lat="34.477184" lon="133.51678">
+	<node id="-158" lat="34.477184" lon="133.51678">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1848,7 +1896,7 @@
 		<tag k="name:ja" v="片島口"/>
 		<tag k="name:ja-Hrkt" v="カタシマグチ"/>
 	</node>
-	<node id="-155" lat="34.47879" lon="133.52283">
+	<node id="-159" lat="34.47879" lon="133.52283">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1860,7 +1908,7 @@
 		<tag k="name:ja" v="カブトガニ博物館前"/>
 		<tag k="name:ja-Hrkt" v="カブトガニハクブツカンマエ"/>
 	</node>
-	<node id="-156" lat="34.53441" lon="133.46724">
+	<node id="-160" lat="34.53441" lon="133.46724">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1872,7 +1920,7 @@
 		<tag k="name:ja" v="上篠坂"/>
 		<tag k="name:ja-Hrkt" v="カミシノサカ"/>
 	</node>
-	<node id="-157" lat="34.48309" lon="133.54878">
+	<node id="-161" lat="34.48309" lon="133.54878">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1884,7 +1932,7 @@
 		<tag k="name:ja" v="唐井"/>
 		<tag k="name:ja-Hrkt" v="カライ"/>
 	</node>
-	<node id="-158" lat="34.48288" lon="133.54128">
+	<node id="-162" lat="34.48288" lon="133.54128">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1896,7 +1944,7 @@
 		<tag k="name:ja" v="川手"/>
 		<tag k="name:ja-Hrkt" v="カワテ"/>
 	</node>
-	<node id="-159" lat="34.482826" lon="133.54109">
+	<node id="-163" lat="34.482826" lon="133.54109">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1908,7 +1956,7 @@
 		<tag k="name:ja" v="川手"/>
 		<tag k="name:ja-Hrkt" v="カワテ"/>
 	</node>
-	<node id="-160" lat="34.52425" lon="133.49265">
+	<node id="-164" lat="34.52425" lon="133.49265">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1920,7 +1968,7 @@
 		<tag k="name:ja" v="川中"/>
 		<tag k="name:ja-Hrkt" v="カワナカ"/>
 	</node>
-	<node id="-161" lat="34.615982" lon="133.57195">
+	<node id="-165" lat="34.615982" lon="133.57195">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1932,7 +1980,7 @@
 		<tag k="name:ja" v="川面"/>
 		<tag k="name:ja-Hrkt" v="カワモ"/>
 	</node>
-	<node id="-162" lat="34.61594" lon="133.57202">
+	<node id="-166" lat="34.61594" lon="133.57202">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1944,7 +1992,7 @@
 		<tag k="name:ja" v="川面"/>
 		<tag k="name:ja-Hrkt" v="カワモ"/>
 	</node>
-	<node id="-163" lat="34.593494" lon="133.54082">
+	<node id="-167" lat="34.593494" lon="133.54082">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1956,7 +2004,7 @@
 		<tag k="name:ja" v="北川"/>
 		<tag k="name:ja-Hrkt" v="キタガワ"/>
 	</node>
-	<node id="-164" lat="34.499752" lon="133.52307">
+	<node id="-168" lat="34.499752" lon="133.52307">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1968,7 +2016,7 @@
 		<tag k="name:ja" v="旧道富岡"/>
 		<tag k="name:ja-Hrkt" v="キュウドウトミオカ"/>
 	</node>
-	<node id="-165" lat="34.51199" lon="133.50804">
+	<node id="-169" lat="34.51199" lon="133.50804">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1980,7 +2028,7 @@
 		<tag k="name:ja" v="くじば"/>
 		<tag k="name:ja-Hrkt" v="クジバ"/>
 	</node>
-	<node id="-166" lat="34.511684" lon="133.50777">
+	<node id="-170" lat="34.511684" lon="133.50777">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -1992,7 +2040,7 @@
 		<tag k="name:ja" v="くじば"/>
 		<tag k="name:ja-Hrkt" v="クジバ"/>
 	</node>
-	<node id="-167" lat="34.58431" lon="133.53891">
+	<node id="-171" lat="34.58431" lon="133.53891">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2004,7 +2052,7 @@
 		<tag k="name:ja" v="楠"/>
 		<tag k="name:ja-Hrkt" v="クス"/>
 	</node>
-	<node id="-168" lat="34.48579" lon="133.58995">
+	<node id="-172" lat="34.48579" lon="133.58995">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2016,7 +2064,7 @@
 		<tag k="name:ja" v="国頭"/>
 		<tag k="name:ja-Hrkt" v="クニトウ"/>
 	</node>
-	<node id="-169" lat="34.518612" lon="133.64645">
+	<node id="-173" lat="34.518612" lon="133.64645">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2028,7 +2076,7 @@
 		<tag k="name:ja" v="黒崎"/>
 		<tag k="name:ja-Hrkt" v="クロサキ"/>
 	</node>
-	<node id="-170" lat="34.518387" lon="133.64622">
+	<node id="-174" lat="34.518387" lon="133.64622">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2040,7 +2088,7 @@
 		<tag k="name:ja" v="黒崎"/>
 		<tag k="name:ja-Hrkt" v="クロサキ"/>
 	</node>
-	<node id="-171" lat="34.515827" lon="133.64557">
+	<node id="-175" lat="34.515827" lon="133.64557">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2052,7 +2100,7 @@
 		<tag k="name:ja" v="黒崎西"/>
 		<tag k="name:ja-Hrkt" v="クロサキニシ"/>
 	</node>
-	<node id="-172" lat="34.515785" lon="133.64569">
+	<node id="-176" lat="34.515785" lon="133.64569">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2064,7 +2112,7 @@
 		<tag k="name:ja" v="黒崎西"/>
 		<tag k="name:ja-Hrkt" v="クロサキニシ"/>
 	</node>
-	<node id="-173" lat="34.50833" lon="133.64641">
+	<node id="-177" lat="34.50833" lon="133.64641">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2076,7 +2124,7 @@
 		<tag k="name:ja" v="敬愛学園口"/>
 		<tag k="name:ja-Hrkt" v="ケイアイガクエングチ"/>
 	</node>
-	<node id="-174" lat="34.508022" lon="133.64575">
+	<node id="-178" lat="34.508022" lon="133.64575">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2088,7 +2136,7 @@
 		<tag k="name:ja" v="敬愛学園口"/>
 		<tag k="name:ja-Hrkt" v="ケイアイガクエングチ"/>
 	</node>
-	<node id="-175" lat="34.496307" lon="133.51387">
+	<node id="-179" lat="34.496307" lon="133.51387">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2100,7 +2148,7 @@
 		<tag k="name:ja" v="県井笠支局前"/>
 		<tag k="name:ja-Hrkt" v="ケンイカサシキョクマエ"/>
 	</node>
-	<node id="-176" lat="34.49631" lon="133.51378">
+	<node id="-180" lat="34.49631" lon="133.51378">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2112,7 +2160,7 @@
 		<tag k="name:ja" v="県井笠支局前"/>
 		<tag k="name:ja-Hrkt" v="ケンイカサシキョクマエ"/>
 	</node>
-	<node id="-177" lat="34.46405" lon="133.49692">
+	<node id="-181" lat="34.46405" lon="133.49692">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2124,7 +2172,7 @@
 		<tag k="name:ja" v="高"/>
 		<tag k="name:ja-Hrkt" v="コウ"/>
 	</node>
-	<node id="-178" lat="34.490276" lon="133.59297">
+	<node id="-182" lat="34.490276" lon="133.59297">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2136,7 +2184,7 @@
 		<tag k="name:ja" v="公会堂前"/>
 		<tag k="name:ja-Hrkt" v="コウカイドウマエ"/>
 	</node>
-	<node id="-179" lat="34.487995" lon="133.52708">
+	<node id="-183" lat="34.487995" lon="133.52708">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2148,7 +2196,7 @@
 		<tag k="name:ja" v="工業高校前"/>
 		<tag k="name:ja-Hrkt" v="コウギョウコウコウマエ"/>
 	</node>
-	<node id="-180" lat="34.4881" lon="133.52704">
+	<node id="-184" lat="34.4881" lon="133.52704">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2160,7 +2208,7 @@
 		<tag k="name:ja" v="工業高校前"/>
 		<tag k="name:ja-Hrkt" v="コウギョウコウコウマエ"/>
 	</node>
-	<node id="-181" lat="34.452927" lon="133.50537">
+	<node id="-185" lat="34.452927" lon="133.50537">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2172,7 +2220,7 @@
 		<tag k="name:ja" v="コウノシマ化成前"/>
 		<tag k="name:ja-Hrkt" v="コウノシマカセイマエ"/>
 	</node>
-	<node id="-182" lat="34.472893" lon="133.51132">
+	<node id="-186" lat="34.472893" lon="133.51132">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2184,7 +2232,7 @@
 		<tag k="name:ja" v="神島荘前"/>
 		<tag k="name:ja-Hrkt" v="コウノシマソウマエ"/>
 	</node>
-	<node id="-183" lat="34.453133" lon="133.49837">
+	<node id="-187" lat="34.453133" lon="133.49837">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2196,7 +2244,7 @@
 		<tag k="name:ja" v="神島変電所前"/>
 		<tag k="name:ja-Hrkt" v="コウノシマヘンデンショマエ"/>
 	</node>
-	<node id="-184" lat="34.59049" lon="133.54216">
+	<node id="-188" lat="34.59049" lon="133.54216">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2208,7 +2256,7 @@
 		<tag k="name:ja" v="甲弩"/>
 		<tag k="name:ja-Hrkt" v="コオノ"/>
 	</node>
-	<node id="-185" lat="34.491516" lon="133.53018">
+	<node id="-189" lat="34.491516" lon="133.53018">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2220,7 +2268,7 @@
 		<tag k="name:ja" v="小黒崎"/>
 		<tag k="name:ja-Hrkt" v="コグロサキ"/>
 	</node>
-	<node id="-186" lat="34.492153" lon="133.5304">
+	<node id="-190" lat="34.492153" lon="133.5304">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2232,7 +2280,7 @@
 		<tag k="name:ja" v="小黒崎"/>
 		<tag k="name:ja-Hrkt" v="コグロサキ"/>
 	</node>
-	<node id="-187" lat="34.51001" lon="133.64801">
+	<node id="-191" lat="34.51001" lon="133.64801">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2244,7 +2292,7 @@
 		<tag k="name:ja" v="小原(倉敷市)"/>
 		<tag k="name:ja-Hrkt" v="コバラ"/>
 	</node>
-	<node id="-188" lat="34.51001" lon="133.64812">
+	<node id="-192" lat="34.51001" lon="133.64812">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2256,7 +2304,7 @@
 		<tag k="name:ja" v="小原(倉敷市)"/>
 		<tag k="name:ja-Hrkt" v="コバラ"/>
 	</node>
-	<node id="-189" lat="34.511833" lon="133.64798">
+	<node id="-193" lat="34.511833" lon="133.64798">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2268,7 +2316,7 @@
 		<tag k="name:ja" v="小原水門"/>
 		<tag k="name:ja-Hrkt" v="コバラスイモン"/>
 	</node>
-	<node id="-190" lat="34.511585" lon="133.64807">
+	<node id="-194" lat="34.511585" lon="133.64807">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2280,7 +2328,7 @@
 		<tag k="name:ja" v="小原水門"/>
 		<tag k="name:ja-Hrkt" v="コバラスイモン"/>
 	</node>
-	<node id="-191" lat="34.54997" lon="133.49385">
+	<node id="-195" lat="34.54997" lon="133.49385">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2292,7 +2340,7 @@
 		<tag k="name:ja" v="才の神"/>
 		<tag k="name:ja-Hrkt" v="サイノカミ"/>
 	</node>
-	<node id="-192" lat="34.549805" lon="133.49402">
+	<node id="-196" lat="34.549805" lon="133.49402">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2304,7 +2352,7 @@
 		<tag k="name:ja" v="才の神"/>
 		<tag k="name:ja-Hrkt" v="サイノカミ"/>
 	</node>
-	<node id="-193" lat="34.560604" lon="133.52827">
+	<node id="-197" lat="34.560604" lon="133.52827">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2316,7 +2364,7 @@
 		<tag k="name:ja" v="境橋"/>
 		<tag k="name:ja-Hrkt" v="サカイバシ"/>
 	</node>
-	<node id="-194" lat="34.560772" lon="133.5282">
+	<node id="-198" lat="34.560772" lon="133.5282">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2328,7 +2376,7 @@
 		<tag k="name:ja" v="境橋"/>
 		<tag k="name:ja-Hrkt" v="サカイバシ"/>
 	</node>
-	<node id="-195" lat="34.503418" lon="133.63179">
+	<node id="-199" lat="34.503418" lon="133.63179">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2340,7 +2388,7 @@
 		<tag k="name:ja" v="沙美"/>
 		<tag k="name:ja-Hrkt" v="サミ"/>
 	</node>
-	<node id="-196" lat="34.503384" lon="133.63179">
+	<node id="-200" lat="34.503384" lon="133.63179">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2352,7 +2400,7 @@
 		<tag k="name:ja" v="沙美"/>
 		<tag k="name:ja-Hrkt" v="サミ"/>
 	</node>
-	<node id="-197" lat="34.503258" lon="133.62898">
+	<node id="-201" lat="34.503258" lon="133.62898">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2364,7 +2412,7 @@
 		<tag k="name:ja" v="沙美白浜"/>
 		<tag k="name:ja-Hrkt" v="サミシラハマ"/>
 	</node>
-	<node id="-198" lat="34.503643" lon="133.63666">
+	<node id="-202" lat="34.503643" lon="133.63666">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2376,7 +2424,7 @@
 		<tag k="name:ja" v="沙美中"/>
 		<tag k="name:ja-Hrkt" v="サミナカ"/>
 	</node>
-	<node id="-199" lat="34.503864" lon="133.63693">
+	<node id="-203" lat="34.503864" lon="133.63693">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2388,7 +2436,7 @@
 		<tag k="name:ja" v="沙美中"/>
 		<tag k="name:ja-Hrkt" v="サミナカ"/>
 	</node>
-	<node id="-200" lat="34.50539" lon="133.6397">
+	<node id="-204" lat="34.50539" lon="133.6397">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2400,7 +2448,7 @@
 		<tag k="name:ja" v="沙美野路"/>
 		<tag k="name:ja-Hrkt" v="サミノロ"/>
 	</node>
-	<node id="-201" lat="34.589973" lon="133.46599">
+	<node id="-205" lat="34.589973" lon="133.46599">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2412,7 +2460,7 @@
 		<tag k="name:ja" v="山王口"/>
 		<tag k="name:ja-Hrkt" v="サンノウグチ"/>
 	</node>
-	<node id="-202" lat="34.590115" lon="133.46648">
+	<node id="-206" lat="34.590115" lon="133.46648">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2424,7 +2472,7 @@
 		<tag k="name:ja" v="山王口"/>
 		<tag k="name:ja-Hrkt" v="サンノウグチ"/>
 	</node>
-	<node id="-203" lat="34.450146" lon="133.51273">
+	<node id="-207" lat="34.450146" lon="133.51273">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2436,7 +2484,7 @@
 		<tag k="name:ja" v="支所前"/>
 		<tag k="name:ja-Hrkt" v="シショマエ"/>
 	</node>
-	<node id="-204" lat="34.470257" lon="133.5257">
+	<node id="-208" lat="34.470257" lon="133.5257">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2448,7 +2496,7 @@
 		<tag k="name:ja" v="島の天神"/>
 		<tag k="name:ja-Hrkt" v="シマノテンジン"/>
 	</node>
-	<node id="-205" lat="34.524563" lon="133.51375">
+	<node id="-209" lat="34.524563" lon="133.51375">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2460,7 +2508,7 @@
 		<tag k="name:ja" v="下追分"/>
 		<tag k="name:ja-Hrkt" v="シモオイワケ"/>
 	</node>
-	<node id="-206" lat="34.52485" lon="133.51395">
+	<node id="-210" lat="34.52485" lon="133.51395">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2472,7 +2520,7 @@
 		<tag k="name:ja" v="下追分"/>
 		<tag k="name:ja-Hrkt" v="シモオイワケ"/>
 	</node>
-	<node id="-207" lat="34.501476" lon="133.45819">
+	<node id="-211" lat="34.501476" lon="133.45819">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2484,7 +2532,7 @@
 		<tag k="name:ja" v="集会所前"/>
 		<tag k="name:ja-Hrkt" v="シュウカイショマエ"/>
 	</node>
-	<node id="-208" lat="34.501484" lon="133.45811">
+	<node id="-212" lat="34.501484" lon="133.45811">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2496,7 +2544,7 @@
 		<tag k="name:ja" v="集会所前"/>
 		<tag k="name:ja-Hrkt" v="シュウカイショマエ"/>
 	</node>
-	<node id="-209" lat="34.449226" lon="133.51485">
+	<node id="-213" lat="34.449226" lon="133.51485">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2508,7 +2556,7 @@
 		<tag k="name:ja" v="正砂"/>
 		<tag k="name:ja-Hrkt" v="ショウザコ"/>
 	</node>
-	<node id="-210" lat="34.540375" lon="133.66882">
+	<node id="-214" lat="34.540375" lon="133.66882">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2520,7 +2568,7 @@
 		<tag k="name:ja" v="昭和橋"/>
 		<tag k="name:ja-Hrkt" v="ショウワバシ"/>
 	</node>
-	<node id="-211" lat="34.540016" lon="133.6688">
+	<node id="-215" lat="34.540016" lon="133.6688">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2532,7 +2580,7 @@
 		<tag k="name:ja" v="昭和橋"/>
 		<tag k="name:ja-Hrkt" v="ショウワバシ"/>
 	</node>
-	<node id="-212" lat="34.538948" lon="133.36784">
+	<node id="-216" lat="34.538948" lon="133.36784">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2544,7 +2592,7 @@
 		<tag k="name:ja" v="王子"/>
 		<tag k="name:ja-Hrkt" v="オウジ"/>
 	</node>
-	<node id="-213" lat="34.53865" lon="133.36829">
+	<node id="-217" lat="34.53865" lon="133.36829">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2556,7 +2604,7 @@
 		<tag k="name:ja" v="王子"/>
 		<tag k="name:ja-Hrkt" v="オウジ"/>
 	</node>
-	<node id="-214" lat="34.471413" lon="133.50987">
+	<node id="-218" lat="34.471413" lon="133.50987">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2568,7 +2616,7 @@
 		<tag k="name:ja" v="汁方"/>
 		<tag k="name:ja-Hrkt" v="シルカタ"/>
 	</node>
-	<node id="-215" lat="34.497242" lon="133.4565">
+	<node id="-219" lat="34.497242" lon="133.4565">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2580,7 +2628,7 @@
 		<tag k="name:ja" v="城見台団地"/>
 		<tag k="name:ja-Hrkt" v="シロミダイダンチ"/>
 	</node>
-	<node id="-216" lat="34.519142" lon="133.4909">
+	<node id="-220" lat="34.519142" lon="133.4909">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2592,7 +2640,7 @@
 		<tag k="name:ja" v="新川(笠岡市)"/>
 		<tag k="name:ja-Hrkt" v="シンカワ"/>
 	</node>
-	<node id="-217" lat="34.563763" lon="133.52805">
+	<node id="-221" lat="34.563763" lon="133.52805">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2604,7 +2652,7 @@
 		<tag k="name:ja" v="新賀郵便局前"/>
 		<tag k="name:ja-Hrkt" v="シンガユウビンキョクマエ"/>
 	</node>
-	<node id="-218" lat="34.563892" lon="133.52802">
+	<node id="-222" lat="34.563892" lon="133.52802">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2616,7 +2664,7 @@
 		<tag k="name:ja" v="新賀郵便局前"/>
 		<tag k="name:ja-Hrkt" v="シンガユウビンキョクマエ"/>
 	</node>
-	<node id="-219" lat="34.564938" lon="133.67969">
+	<node id="-223" lat="34.564938" lon="133.67969">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2628,7 +2676,7 @@
 		<tag k="name:ja" v="新倉敷駅"/>
 		<tag k="name:ja-Hrkt" v="シンクラシキエキ"/>
 	</node>
-	<node id="-220" lat="34.47827" lon="133.5607">
+	<node id="-224" lat="34.47827" lon="133.5607">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2640,7 +2688,7 @@
 		<tag k="name:ja" v="十字"/>
 		<tag k="name:ja-Hrkt" v="ジュウジ"/>
 	</node>
-	<node id="-221" lat="34.520115" lon="133.51938">
+	<node id="-225" lat="34.520115" lon="133.51938">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2652,7 +2700,7 @@
 		<tag k="name:ja" v="住宅上"/>
 		<tag k="name:ja-Hrkt" v="ジュウタクカミ"/>
 	</node>
-	<node id="-222" lat="34.509018" lon="133.48723">
+	<node id="-226" lat="34.509018" lon="133.48723">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2664,7 +2712,7 @@
 		<tag k="name:ja" v="生江浜"/>
 		<tag k="name:ja-Hrkt" v="オエハマ"/>
 	</node>
-	<node id="-223" lat="34.508957" lon="133.48741">
+	<node id="-227" lat="34.508957" lon="133.48741">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2676,7 +2724,7 @@
 		<tag k="name:ja" v="生江浜"/>
 		<tag k="name:ja-Hrkt" v="オエハマ"/>
 	</node>
-	<node id="-224" lat="34.508728" lon="133.48073">
+	<node id="-228" lat="34.508728" lon="133.48073">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2688,7 +2736,7 @@
 		<tag k="name:ja" v="生江浜西"/>
 		<tag k="name:ja-Hrkt" v="オエハマニシ"/>
 	</node>
-	<node id="-225" lat="34.50905" lon="133.48302">
+	<node id="-229" lat="34.50905" lon="133.48302">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2700,7 +2748,7 @@
 		<tag k="name:ja" v="生江浜西"/>
 		<tag k="name:ja-Hrkt" v="オエハマニシ"/>
 	</node>
-	<node id="-226" lat="34.556976" lon="133.52911">
+	<node id="-230" lat="34.556976" lon="133.52911">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2712,7 +2760,7 @@
 		<tag k="name:ja" v="関戸"/>
 		<tag k="name:ja-Hrkt" v="セキド"/>
 	</node>
-	<node id="-227" lat="34.554043" lon="133.52893">
+	<node id="-231" lat="34.554043" lon="133.52893">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2724,7 +2772,7 @@
 		<tag k="name:ja" v="関戸口"/>
 		<tag k="name:ja-Hrkt" v="セキドグチ"/>
 	</node>
-	<node id="-228" lat="34.560238" lon="133.53247">
+	<node id="-232" lat="34.560238" lon="133.53247">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2736,7 +2784,7 @@
 		<tag k="name:ja" v="関戸橋"/>
 		<tag k="name:ja-Hrkt" v="セキドバシ"/>
 	</node>
-	<node id="-229" lat="34.59743" lon="133.53888">
+	<node id="-233" lat="34.59743" lon="133.53888">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2748,7 +2796,7 @@
 		<tag k="name:ja" v="千田(笠岡市)"/>
 		<tag k="name:ja-Hrkt" v="センダ"/>
 	</node>
-	<node id="-230" lat="34.596992" lon="133.53915">
+	<node id="-234" lat="34.596992" lon="133.53915">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2760,7 +2808,7 @@
 		<tag k="name:ja" v="千田(笠岡市)"/>
 		<tag k="name:ja-Hrkt" v="センダ"/>
 	</node>
-	<node id="-231" lat="34.452198" lon="133.509">
+	<node id="-235" lat="34.452198" lon="133.509">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2772,7 +2820,7 @@
 		<tag k="name:ja" v="外浦"/>
 		<tag k="name:ja-Hrkt" v="ソトウラ"/>
 	</node>
-	<node id="-232" lat="34.53736" lon="133.51787">
+	<node id="-236" lat="34.53736" lon="133.51787">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2784,7 +2832,7 @@
 		<tag k="name:ja" v="園井"/>
 		<tag k="name:ja-Hrkt" v="ソノイ"/>
 	</node>
-	<node id="-233" lat="34.53703" lon="133.5179">
+	<node id="-237" lat="34.53703" lon="133.5179">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2796,7 +2844,7 @@
 		<tag k="name:ja" v="園井"/>
 		<tag k="name:ja-Hrkt" v="ソノイ"/>
 	</node>
-	<node id="-234" lat="34.52171" lon="133.52173">
+	<node id="-238" lat="34.52171" lon="133.52173">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2808,7 +2856,7 @@
 		<tag k="name:ja" v="園井住宅前"/>
 		<tag k="name:ja-Hrkt" v="ソノイジュウタクマエ"/>
 	</node>
-	<node id="-235" lat="34.495144" lon="133.51991">
+	<node id="-239" lat="34.495144" lon="133.51991">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2820,7 +2868,7 @@
 		<tag k="name:ja" v="市民体育センター前"/>
 		<tag k="name:ja-Hrkt" v="シミンタイイクセンターマエ"/>
 	</node>
-	<node id="-236" lat="34.495174" lon="133.51917">
+	<node id="-240" lat="34.495174" lon="133.51917">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2832,7 +2880,7 @@
 		<tag k="name:ja" v="市民体育センター前"/>
 		<tag k="name:ja-Hrkt" v="シミンタイイクセンターマエ"/>
 	</node>
-	<node id="-237" lat="34.519768" lon="133.51268">
+	<node id="-241" lat="34.519768" lon="133.51268">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2844,7 +2892,7 @@
 		<tag k="name:ja" v="田頭"/>
 		<tag k="name:ja-Hrkt" v="タガシラ"/>
 	</node>
-	<node id="-238" lat="34.518257" lon="133.51152">
+	<node id="-242" lat="34.518257" lon="133.51152">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2856,7 +2904,7 @@
 		<tag k="name:ja" v="田頭"/>
 		<tag k="name:ja-Hrkt" v="タガシラ"/>
 	</node>
-	<node id="-239" lat="34.5204" lon="133.51263">
+	<node id="-243" lat="34.5204" lon="133.51263">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2868,7 +2916,7 @@
 		<tag k="name:ja" v="田頭"/>
 		<tag k="name:ja-Hrkt" v="タガシラ"/>
 	</node>
-	<node id="-240" lat="34.482506" lon="133.55258">
+	<node id="-244" lat="34.482506" lon="133.55258">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2880,7 +2928,7 @@
 		<tag k="name:ja" v="竹田"/>
 		<tag k="name:ja-Hrkt" v="タケダ"/>
 	</node>
-	<node id="-241" lat="34.482468" lon="133.55257">
+	<node id="-245" lat="34.482468" lon="133.55257">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2892,7 +2940,7 @@
 		<tag k="name:ja" v="竹田"/>
 		<tag k="name:ja-Hrkt" v="タケダ"/>
 	</node>
-	<node id="-242" lat="34.55246" lon="133.48318">
+	<node id="-246" lat="34.55246" lon="133.48318">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2904,7 +2952,7 @@
 		<tag k="name:ja" v="蛸村峠"/>
 		<tag k="name:ja-Hrkt" v="タコムラトウゲ"/>
 	</node>
-	<node id="-243" lat="34.55238" lon="133.48311">
+	<node id="-247" lat="34.55238" lon="133.48311">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2916,7 +2964,7 @@
 		<tag k="name:ja" v="蛸村峠"/>
 		<tag k="name:ja-Hrkt" v="タコムラトウゲ"/>
 	</node>
-	<node id="-244" lat="34.499195" lon="133.5152">
+	<node id="-248" lat="34.499195" lon="133.5152">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2928,7 +2976,7 @@
 		<tag k="name:ja" v="大磯"/>
 		<tag k="name:ja-Hrkt" v="オオイソ"/>
 	</node>
-	<node id="-245" lat="34.49916" lon="133.51614">
+	<node id="-249" lat="34.49916" lon="133.51614">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2940,7 +2988,7 @@
 		<tag k="name:ja" v="大磯"/>
 		<tag k="name:ja-Hrkt" v="オオイソ"/>
 	</node>
-	<node id="-246" lat="34.547707" lon="133.67307">
+	<node id="-250" lat="34.547707" lon="133.67307">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2952,7 +3000,7 @@
 		<tag k="name:ja" v="玉島支所入口"/>
 		<tag k="name:ja-Hrkt" v="タマシマシショイリグチ"/>
 	</node>
-	<node id="-247" lat="34.54753" lon="133.67308">
+	<node id="-251" lat="34.54753" lon="133.67308">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2964,7 +3012,7 @@
 		<tag k="name:ja" v="玉島支所入口"/>
 		<tag k="name:ja-Hrkt" v="タマシマシショイリグチ"/>
 	</node>
-	<node id="-248" lat="34.532326" lon="133.66377">
+	<node id="-252" lat="34.532326" lon="133.66377">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2976,7 +3024,7 @@
 		<tag k="name:ja" v="玉島西中入口"/>
 		<tag k="name:ja-Hrkt" v="タマシマニシチュウイリグチ"/>
 	</node>
-	<node id="-249" lat="34.53239" lon="133.66393">
+	<node id="-253" lat="34.53239" lon="133.66393">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -2988,7 +3036,7 @@
 		<tag k="name:ja" v="玉島西中入口"/>
 		<tag k="name:ja-Hrkt" v="タマシマニシチュウイリグチ"/>
 	</node>
-	<node id="-250" lat="34.542778" lon="133.66882">
+	<node id="-254" lat="34.542778" lon="133.66882">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3000,7 +3048,7 @@
 		<tag k="name:ja" v="玉商グランド前"/>
 		<tag k="name:ja-Hrkt" v="タマショウグランドマエ"/>
 	</node>
-	<node id="-251" lat="34.542545" lon="133.66853">
+	<node id="-255" lat="34.542545" lon="133.66853">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3012,7 +3060,7 @@
 		<tag k="name:ja" v="玉商グランド前"/>
 		<tag k="name:ja-Hrkt" v="タマショウグランドマエ"/>
 	</node>
-	<node id="-252" lat="34.49493" lon="133.52155">
+	<node id="-256" lat="34.49493" lon="133.52155">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3024,7 +3072,7 @@
 		<tag k="name:ja" v="中央小学校前"/>
 		<tag k="name:ja-Hrkt" v="チュウオウショウガッコウマエ"/>
 	</node>
-	<node id="-253" lat="34.49514" lon="133.52254">
+	<node id="-257" lat="34.49514" lon="133.52254">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3036,7 +3084,7 @@
 		<tag k="name:ja" v="中央小学校前"/>
 		<tag k="name:ja-Hrkt" v="チュウオウショウガッコウマエ"/>
 	</node>
-	<node id="-254" lat="34.593586" lon="133.46518">
+	<node id="-258" lat="34.593586" lon="133.46518">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3048,7 +3096,7 @@
 		<tag k="name:ja" v="中国新聞井原支局前"/>
 		<tag k="name:ja-Hrkt" v="チュウゴクシンブンイバラシキョクマエ"/>
 	</node>
-	<node id="-255" lat="34.593525" lon="133.46527">
+	<node id="-259" lat="34.593525" lon="133.46527">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3060,7 +3108,7 @@
 		<tag k="name:ja" v="中国新聞井原支局前"/>
 		<tag k="name:ja-Hrkt" v="チュウゴクシンブンイバラシキョクマエ"/>
 	</node>
-	<node id="-256" lat="34.534782" lon="133.4952">
+	<node id="-260" lat="34.534782" lon="133.4952">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3072,7 +3120,7 @@
 		<tag k="name:ja" v="辻橋"/>
 		<tag k="name:ja-Hrkt" v="ツジバシ"/>
 	</node>
-	<node id="-257" lat="34.562042" lon="133.68022">
+	<node id="-261" lat="34.562042" lon="133.68022">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3084,7 +3132,7 @@
 		<tag k="name:ja" v="爪崎南"/>
 		<tag k="name:ja-Hrkt" v="ツマサキミナミ"/>
 	</node>
-	<node id="-258" lat="34.561962" lon="133.68022">
+	<node id="-262" lat="34.561962" lon="133.68022">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3096,7 +3144,7 @@
 		<tag k="name:ja" v="爪崎南"/>
 		<tag k="name:ja-Hrkt" v="ツマサキミナミ"/>
 	</node>
-	<node id="-259" lat="34.45259" lon="133.52534">
+	<node id="-263" lat="34.45259" lon="133.52534">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3108,7 +3156,7 @@
 		<tag k="name:ja" v="鶴林寺"/>
 		<tag k="name:ja-Hrkt" v="ツルリンジ"/>
 	</node>
-	<node id="-260" lat="34.459274" lon="133.49045">
+	<node id="-264" lat="34.459274" lon="133.49045">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3120,7 +3168,7 @@
 		<tag k="name:ja" v="寺間"/>
 		<tag k="name:ja-Hrkt" v="テラマ"/>
 	</node>
-	<node id="-261" lat="34.46072" lon="133.49219">
+	<node id="-265" lat="34.46072" lon="133.49219">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3132,7 +3180,7 @@
 		<tag k="name:ja" v="寺間排水機場"/>
 		<tag k="name:ja-Hrkt" v="テラマハイスイキジョウ"/>
 	</node>
-	<node id="-262" lat="34.470932" lon="133.5242">
+	<node id="-266" lat="34.470932" lon="133.5242">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3144,7 +3192,7 @@
 		<tag k="name:ja" v="天神団地前"/>
 		<tag k="name:ja-Hrkt" v="テンジンダンチマエ"/>
 	</node>
-	<node id="-263" lat="34.53458" lon="133.66644">
+	<node id="-267" lat="34.53458" lon="133.66644">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3156,7 +3204,7 @@
 		<tag k="name:ja" v="天満町"/>
 		<tag k="name:ja-Hrkt" v="テンマチョウ"/>
 	</node>
-	<node id="-264" lat="34.534603" lon="133.66653">
+	<node id="-268" lat="34.534603" lon="133.66653">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3168,7 +3216,7 @@
 		<tag k="name:ja" v="天満町"/>
 		<tag k="name:ja-Hrkt" v="テンマチョウ"/>
 	</node>
-	<node id="-265" lat="34.508514" lon="133.46925">
+	<node id="-269" lat="34.508514" lon="133.46925">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3180,7 +3228,7 @@
 		<tag k="name:ja" v="大冝西"/>
 		<tag k="name:ja-Hrkt" v="オオゲニシ"/>
 	</node>
-	<node id="-266" lat="34.50816" lon="133.47012">
+	<node id="-270" lat="34.50816" lon="133.47012">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3192,7 +3240,7 @@
 		<tag k="name:ja" v="大冝西"/>
 		<tag k="name:ja-Hrkt" v="オオゲニシ"/>
 	</node>
-	<node id="-267" lat="34.53592" lon="133.46872">
+	<node id="-271" lat="34.53592" lon="133.46872">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3204,7 +3252,7 @@
 		<tag k="name:ja" v="東林坊"/>
 		<tag k="name:ja-Hrkt" v="トウリンボウ"/>
 	</node>
-	<node id="-268" lat="34.500767" lon="133.52582">
+	<node id="-272" lat="34.500767" lon="133.52582">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3216,7 +3264,7 @@
 		<tag k="name:ja" v="富岡保育園前"/>
 		<tag k="name:ja-Hrkt" v="トミオカホイクエンマエ"/>
 	</node>
-	<node id="-269" lat="34.482815" lon="133.52496">
+	<node id="-273" lat="34.482815" lon="133.52496">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3228,7 +3276,7 @@
 		<tag k="name:ja" v="道通下"/>
 		<tag k="name:ja-Hrkt" v="ドウツウシタ"/>
 	</node>
-	<node id="-270" lat="34.48254" lon="133.52478">
+	<node id="-274" lat="34.48254" lon="133.52478">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3240,7 +3288,7 @@
 		<tag k="name:ja" v="道通下"/>
 		<tag k="name:ja-Hrkt" v="ドウツウシタ"/>
 	</node>
-	<node id="-271" lat="34.559654" lon="133.54538">
+	<node id="-275" lat="34.559654" lon="133.54538">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3252,7 +3300,7 @@
 		<tag k="name:ja" v="道満口"/>
 		<tag k="name:ja-Hrkt" v="ドウマングチ"/>
 	</node>
-	<node id="-272" lat="34.559635" lon="133.54526">
+	<node id="-276" lat="34.559635" lon="133.54526">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3264,7 +3312,7 @@
 		<tag k="name:ja" v="道満口"/>
 		<tag k="name:ja-Hrkt" v="ドウマングチ"/>
 	</node>
-	<node id="-273" lat="34.49149" lon="133.59477">
+	<node id="-277" lat="34.49149" lon="133.59477">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3276,7 +3324,7 @@
 		<tag k="name:ja" v="中安倉"/>
 		<tag k="name:ja-Hrkt" v="ナカアクラ"/>
 	</node>
-	<node id="-274" lat="34.576405" lon="133.53342">
+	<node id="-278" lat="34.576405" lon="133.53342">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3288,7 +3336,7 @@
 		<tag k="name:ja" v="中の才"/>
 		<tag k="name:ja-Hrkt" v="ナカノサイ"/>
 	</node>
-	<node id="-275" lat="34.576508" lon="133.53363">
+	<node id="-279" lat="34.576508" lon="133.53363">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3300,7 +3348,7 @@
 		<tag k="name:ja" v="中の才"/>
 		<tag k="name:ja-Hrkt" v="ナカノサイ"/>
 	</node>
-	<node id="-276" lat="34.518856" lon="133.38739">
+	<node id="-280" lat="34.518856" lon="133.38739">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3312,7 +3360,7 @@
 		<tag k="name:ja" v="大迫"/>
 		<tag k="name:ja-Hrkt" v="オオサコ"/>
 	</node>
-	<node id="-277" lat="34.519306" lon="133.38666">
+	<node id="-281" lat="34.519306" lon="133.38666">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3324,7 +3372,7 @@
 		<tag k="name:ja" v="大迫"/>
 		<tag k="name:ja-Hrkt" v="オオサコ"/>
 	</node>
-	<node id="-278" lat="34.472813" lon="133.51306">
+	<node id="-282" lat="34.472813" lon="133.51306">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3336,7 +3384,7 @@
 		<tag k="name:ja" v="中村"/>
 		<tag k="name:ja-Hrkt" v="ナカムラ"/>
 	</node>
-	<node id="-279" lat="34.47416" lon="133.51735">
+	<node id="-283" lat="34.47416" lon="133.51735">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3348,7 +3396,7 @@
 		<tag k="name:ja" v="中村口"/>
 		<tag k="name:ja-Hrkt" v="ナカムラグチ"/>
 	</node>
-	<node id="-280" lat="34.473824" lon="133.5162">
+	<node id="-284" lat="34.473824" lon="133.5162">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3360,7 +3408,7 @@
 		<tag k="name:ja" v="中村口"/>
 		<tag k="name:ja-Hrkt" v="ナカムラグチ"/>
 	</node>
-	<node id="-281" lat="34.47461" lon="133.51671">
+	<node id="-285" lat="34.47461" lon="133.51671">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3372,7 +3420,7 @@
 		<tag k="name:ja" v="中村口"/>
 		<tag k="name:ja-Hrkt" v="ナカムラグチ"/>
 	</node>
-	<node id="-282" lat="34.487514" lon="133.38193">
+	<node id="-286" lat="34.487514" lon="133.38193">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3384,7 +3432,7 @@
 		<tag k="name:ja" v="王子町"/>
 		<tag k="name:ja-Hrkt" v="オウジチョウ"/>
 	</node>
-	<node id="-283" lat="34.4876" lon="133.38339">
+	<node id="-287" lat="34.4876" lon="133.38339">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3396,7 +3444,7 @@
 		<tag k="name:ja" v="王子町"/>
 		<tag k="name:ja-Hrkt" v="オウジチョウ"/>
 	</node>
-	<node id="-284" lat="34.486248" lon="133.52936">
+	<node id="-288" lat="34.486248" lon="133.52936">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3408,7 +3456,7 @@
 		<tag k="name:ja" v="名切口"/>
 		<tag k="name:ja-Hrkt" v="ナキリグチ"/>
 	</node>
-	<node id="-285" lat="34.486767" lon="133.52951">
+	<node id="-289" lat="34.486767" lon="133.52951">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3420,7 +3468,7 @@
 		<tag k="name:ja" v="名切口"/>
 		<tag k="name:ja-Hrkt" v="ナキリグチ"/>
 	</node>
-	<node id="-286" lat="34.499146" lon="133.45842">
+	<node id="-290" lat="34.499146" lon="133.45842">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3432,7 +3480,7 @@
 		<tag k="name:ja" v="七号地公園前"/>
 		<tag k="name:ja-Hrkt" v="ナナゴウチコウエンマエ"/>
 	</node>
-	<node id="-287" lat="34.552025" lon="133.67487">
+	<node id="-291" lat="34.552025" lon="133.67487">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3444,7 +3492,7 @@
 		<tag k="name:ja" v="七島"/>
 		<tag k="name:ja-Hrkt" v="ナナシマ"/>
 	</node>
-	<node id="-288" lat="34.552002" lon="133.67493">
+	<node id="-292" lat="34.552002" lon="133.67493">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3456,7 +3504,7 @@
 		<tag k="name:ja" v="七島"/>
 		<tag k="name:ja-Hrkt" v="ナナシマ"/>
 	</node>
-	<node id="-289" lat="34.535416" lon="133.49171">
+	<node id="-293" lat="34.535416" lon="133.49171">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3468,7 +3516,7 @@
 		<tag k="name:ja" v="鳴淵"/>
 		<tag k="name:ja-Hrkt" v="ナルブチ"/>
 	</node>
-	<node id="-290" lat="34.503254" lon="133.36946">
+	<node id="-294" lat="34.503254" lon="133.36946">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3480,7 +3528,7 @@
 		<tag k="name:ja" v="大峠"/>
 		<tag k="name:ja-Hrkt" v="オオタオ"/>
 	</node>
-	<node id="-291" lat="34.503315" lon="133.36949">
+	<node id="-295" lat="34.503315" lon="133.36949">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3492,7 +3540,7 @@
 		<tag k="name:ja" v="大峠"/>
 		<tag k="name:ja-Hrkt" v="オオタオ"/>
 	</node>
-	<node id="-292" lat="34.4965" lon="133.61276">
+	<node id="-296" lat="34.4965" lon="133.61276">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3504,7 +3552,7 @@
 		<tag k="name:ja" v="南浦(倉敷市)"/>
 		<tag k="name:ja-Hrkt" v="ナンポ"/>
 	</node>
-	<node id="-293" lat="34.569084" lon="133.52913">
+	<node id="-297" lat="34.569084" lon="133.52913">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3516,7 +3564,7 @@
 		<tag k="name:ja" v="新山"/>
 		<tag k="name:ja-Hrkt" v="ニイヤマ"/>
 	</node>
-	<node id="-294" lat="34.56931" lon="133.52933">
+	<node id="-298" lat="34.56931" lon="133.52933">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3528,7 +3576,7 @@
 		<tag k="name:ja" v="新山"/>
 		<tag k="name:ja-Hrkt" v="ニイヤマ"/>
 	</node>
-	<node id="-295" lat="34.488567" lon="133.59122">
+	<node id="-299" lat="34.488567" lon="133.59122">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3540,7 +3588,7 @@
 		<tag k="name:ja" v="西安倉"/>
 		<tag k="name:ja-Hrkt" v="ニシアクラ"/>
 	</node>
-	<node id="-296" lat="34.537575" lon="133.48534">
+	<node id="-300" lat="34.537575" lon="133.48534">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3552,7 +3600,7 @@
 		<tag k="name:ja" v="西大戸"/>
 		<tag k="name:ja-Hrkt" v="ニシオオド"/>
 	</node>
-	<node id="-297" lat="34.538624" lon="133.48357">
+	<node id="-301" lat="34.538624" lon="133.48357">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3564,7 +3612,7 @@
 		<tag k="name:ja" v="西大戸上"/>
 		<tag k="name:ja-Hrkt" v="ニシオオドカミ"/>
 	</node>
-	<node id="-298" lat="34.6141" lon="133.56691">
+	<node id="-302" lat="34.6141" lon="133.56691">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3576,7 +3624,7 @@
 		<tag k="name:ja" v="西川面"/>
 		<tag k="name:ja-Hrkt" v="ニシカワモ"/>
 	</node>
-	<node id="-299" lat="34.614075" lon="133.56667">
+	<node id="-303" lat="34.614075" lon="133.56667">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3588,7 +3636,7 @@
 		<tag k="name:ja" v="西川面"/>
 		<tag k="name:ja-Hrkt" v="ニシカワモ"/>
 	</node>
-	<node id="-300" lat="34.520054" lon="133.51495">
+	<node id="-304" lat="34.520054" lon="133.51495">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3600,7 +3648,7 @@
 		<tag k="name:ja" v="西中前"/>
 		<tag k="name:ja-Hrkt" v="ニシチュウマエ"/>
 	</node>
-	<node id="-301" lat="34.55823" lon="133.67688">
+	<node id="-305" lat="34.55823" lon="133.67688">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3612,7 +3660,7 @@
 		<tag k="name:ja" v="爪崎西"/>
 		<tag k="name:ja-Hrkt" v="ツマサキニシ"/>
 	</node>
-	<node id="-302" lat="34.55796" lon="133.67686">
+	<node id="-306" lat="34.55796" lon="133.67686">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3624,7 +3672,7 @@
 		<tag k="name:ja" v="爪崎西"/>
 		<tag k="name:ja-Hrkt" v="ツマサキニシ"/>
 	</node>
-	<node id="-303" lat="34.539593" lon="133.48085">
+	<node id="-307" lat="34.539593" lon="133.48085">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3636,7 +3684,7 @@
 		<tag k="name:ja" v="入田入口"/>
 		<tag k="name:ja-Hrkt" v="ニュウタイリグチ"/>
 	</node>
-	<node id="-304" lat="34.539165" lon="133.47455">
+	<node id="-308" lat="34.539165" lon="133.47455">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3648,7 +3696,7 @@
 		<tag k="name:ja" v="入田農協"/>
 		<tag k="name:ja-Hrkt" v="ニュウタノウキョウ"/>
 	</node>
-	<node id="-305" lat="34.477528" lon="133.56328">
+	<node id="-309" lat="34.477528" lon="133.56328">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3660,7 +3708,7 @@
 		<tag k="name:ja" v="乗時"/>
 		<tag k="name:ja-Hrkt" v="ノリトキ"/>
 	</node>
-	<node id="-306" lat="34.521706" lon="133.65729">
+	<node id="-310" lat="34.521706" lon="133.65729">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3672,7 +3720,7 @@
 		<tag k="name:ja" v="羽口"/>
 		<tag k="name:ja-Hrkt" v="ハグチ"/>
 	</node>
-	<node id="-307" lat="34.52171" lon="133.65746">
+	<node id="-311" lat="34.52171" lon="133.65746">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3684,7 +3732,7 @@
 		<tag k="name:ja" v="羽口"/>
 		<tag k="name:ja-Hrkt" v="ハグチ"/>
 	</node>
-	<node id="-308" lat="34.520885" lon="133.6545">
+	<node id="-312" lat="34.520885" lon="133.6545">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3696,7 +3744,7 @@
 		<tag k="name:ja" v="羽口幼稚園前"/>
 		<tag k="name:ja-Hrkt" v="ハグチヨウチエンマエ"/>
 	</node>
-	<node id="-309" lat="34.52083" lon="133.65451">
+	<node id="-313" lat="34.52083" lon="133.65451">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3708,7 +3756,7 @@
 		<tag k="name:ja" v="羽口幼稚園前"/>
 		<tag k="name:ja-Hrkt" v="ハグチヨウチエンマエ"/>
 	</node>
-	<node id="-310" lat="34.52232" lon="133.66118">
+	<node id="-314" lat="34.52232" lon="133.66118">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3720,7 +3768,7 @@
 		<tag k="name:ja" v="八幡燈台前"/>
 		<tag k="name:ja-Hrkt" v="ハチマントウダイマエ"/>
 	</node>
-	<node id="-311" lat="34.52219" lon="133.66118">
+	<node id="-315" lat="34.52219" lon="133.66118">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3732,7 +3780,7 @@
 		<tag k="name:ja" v="八幡燈台前"/>
 		<tag k="name:ja-Hrkt" v="ハチマントウダイマエ"/>
 	</node>
-	<node id="-312" lat="34.48001" lon="133.55608">
+	<node id="-316" lat="34.48001" lon="133.55608">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3744,7 +3792,7 @@
 		<tag k="name:ja" v="土生"/>
 		<tag k="name:ja-Hrkt" v="ハブ"/>
 	</node>
-	<node id="-313" lat="34.493233" lon="133.59753">
+	<node id="-317" lat="34.493233" lon="133.59753">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3756,7 +3804,7 @@
 		<tag k="name:ja" v="東安倉"/>
 		<tag k="name:ja-Hrkt" v="ヒガシアクラ"/>
 	</node>
-	<node id="-314" lat="34.494946" lon="133.59996">
+	<node id="-318" lat="34.494946" lon="133.59996">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3768,7 +3816,7 @@
 		<tag k="name:ja" v="東安倉大谷"/>
 		<tag k="name:ja-Hrkt" v="ヒガシアクラオオタニ"/>
 	</node>
-	<node id="-315" lat="34.50648" lon="133.6424">
+	<node id="-319" lat="34.50648" lon="133.6424">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3780,7 +3828,7 @@
 		<tag k="name:ja" v="東沙美"/>
 		<tag k="name:ja-Hrkt" v="ヒガシサミ"/>
 	</node>
-	<node id="-316" lat="34.506447" lon="133.64241">
+	<node id="-320" lat="34.506447" lon="133.64241">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3792,7 +3840,7 @@
 		<tag k="name:ja" v="東沙美"/>
 		<tag k="name:ja-Hrkt" v="ヒガシサミ"/>
 	</node>
-	<node id="-317" lat="34.494106" lon="133.52765">
+	<node id="-321" lat="34.494106" lon="133.52765">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3804,7 +3852,7 @@
 		<tag k="name:ja" v="東中前"/>
 		<tag k="name:ja-Hrkt" v="ヒガシチュウマエ"/>
 	</node>
-	<node id="-318" lat="34.494423" lon="133.52684">
+	<node id="-322" lat="34.494423" lon="133.52684">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3816,7 +3864,7 @@
 		<tag k="name:ja" v="東中前"/>
 		<tag k="name:ja-Hrkt" v="ヒガシチュウマエ"/>
 	</node>
-	<node id="-319" lat="34.495396" lon="133.61597">
+	<node id="-323" lat="34.495396" lon="133.61597">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3828,7 +3876,7 @@
 		<tag k="name:ja" v="東南浦"/>
 		<tag k="name:ja-Hrkt" v="ヒガシナンポ"/>
 	</node>
-	<node id="-320" lat="34.47321" lon="133.5188">
+	<node id="-324" lat="34.47321" lon="133.5188">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3840,7 +3888,7 @@
 		<tag k="name:ja" v="日限入口"/>
 		<tag k="name:ja-Hrkt" v="ヒギリイリグチ"/>
 	</node>
-	<node id="-321" lat="34.49498" lon="133.525">
+	<node id="-325" lat="34.49498" lon="133.525">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3852,7 +3900,7 @@
 		<tag k="name:ja" v="樋守"/>
 		<tag k="name:ja-Hrkt" v="ヒモリ"/>
 	</node>
-	<node id="-322" lat="34.494843" lon="133.52565">
+	<node id="-326" lat="34.494843" lon="133.52565">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3864,7 +3912,7 @@
 		<tag k="name:ja" v="樋守"/>
 		<tag k="name:ja-Hrkt" v="ヒモリ"/>
 	</node>
-	<node id="-323" lat="34.538094" lon="133.47166">
+	<node id="-327" lat="34.538094" lon="133.47166">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3876,7 +3924,7 @@
 		<tag k="name:ja" v="平ヶ市"/>
 		<tag k="name:ja-Hrkt" v="ヒラガイチ"/>
 	</node>
-	<node id="-324" lat="34.53457" lon="133.46385">
+	<node id="-328" lat="34.53457" lon="133.46385">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3888,7 +3936,7 @@
 		<tag k="name:ja" v="広東"/>
 		<tag k="name:ja-Hrkt" v="ヒロトウ"/>
 	</node>
-	<node id="-325" lat="34.52281" lon="133.53111">
+	<node id="-329" lat="34.52281" lon="133.53111">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3900,7 +3948,7 @@
 		<tag k="name:ja" v="病院前"/>
 		<tag k="name:ja-Hrkt" v="ビョウインマエ"/>
 	</node>
-	<node id="-326" lat="34.5272" lon="133.66243">
+	<node id="-330" lat="34.5272" lon="133.66243">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3912,7 +3960,7 @@
 		<tag k="name:ja" v="福井"/>
 		<tag k="name:ja-Hrkt" v="フクイ"/>
 	</node>
-	<node id="-327" lat="34.526833" lon="133.66254">
+	<node id="-331" lat="34.526833" lon="133.66254">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3924,7 +3972,7 @@
 		<tag k="name:ja" v="福井"/>
 		<tag k="name:ja-Hrkt" v="フクイ"/>
 	</node>
-	<node id="-328" lat="34.46842" lon="133.50154">
+	<node id="-332" lat="34.46842" lon="133.50154">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3936,7 +3984,7 @@
 		<tag k="name:ja" v="福浦"/>
 		<tag k="name:ja-Hrkt" v="フクウラ"/>
 	</node>
-	<node id="-329" lat="34.482796" lon="133.54573">
+	<node id="-333" lat="34.482796" lon="133.54573">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3948,7 +3996,7 @@
 		<tag k="name:ja" v="藤曲り"/>
 		<tag k="name:ja-Hrkt" v="フジマガリ"/>
 	</node>
-	<node id="-330" lat="34.48285" lon="133.5458">
+	<node id="-334" lat="34.48285" lon="133.5458">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3960,7 +4008,7 @@
 		<tag k="name:ja" v="藤曲り"/>
 		<tag k="name:ja-Hrkt" v="フジマガリ"/>
 	</node>
-	<node id="-331" lat="34.49732" lon="133.61034">
+	<node id="-335" lat="34.49732" lon="133.61034">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3972,7 +4020,7 @@
 		<tag k="name:ja" v="不動寺前"/>
 		<tag k="name:ja-Hrkt" v="フドウジマエ"/>
 	</node>
-	<node id="-332" lat="34.497284" lon="133.61021">
+	<node id="-336" lat="34.497284" lon="133.61021">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3984,7 +4032,7 @@
 		<tag k="name:ja" v="不動寺前"/>
 		<tag k="name:ja-Hrkt" v="フドウジマエ"/>
 	</node>
-	<node id="-333" lat="34.52978" lon="133.66267">
+	<node id="-337" lat="34.52978" lon="133.66267">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -3996,7 +4044,7 @@
 		<tag k="name:ja" v="船宮"/>
 		<tag k="name:ja-Hrkt" v="フナミヤ"/>
 	</node>
-	<node id="-334" lat="34.529762" lon="133.66275">
+	<node id="-338" lat="34.529762" lon="133.66275">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4008,7 +4056,7 @@
 		<tag k="name:ja" v="船宮"/>
 		<tag k="name:ja-Hrkt" v="フナミヤ"/>
 	</node>
-	<node id="-335" lat="34.4632" lon="133.52602">
+	<node id="-339" lat="34.4632" lon="133.52602">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4020,7 +4068,7 @@
 		<tag k="name:ja" v="古江"/>
 		<tag k="name:ja-Hrkt" v="フルエ"/>
 	</node>
-	<node id="-336" lat="34.550987" lon="133.67451">
+	<node id="-340" lat="34.550987" lon="133.67451">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4032,7 +4080,7 @@
 		<tag k="name:ja" v="文化センター入口"/>
 		<tag k="name:ja-Hrkt" v="ブンカセンターイリグチ"/>
 	</node>
-	<node id="-337" lat="34.550602" lon="133.67444">
+	<node id="-341" lat="34.550602" lon="133.67444">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4044,7 +4092,7 @@
 		<tag k="name:ja" v="文化センター入口"/>
 		<tag k="name:ja-Hrkt" v="ブンカセンターイリグチ"/>
 	</node>
-	<node id="-338" lat="34.608337" lon="133.54996">
+	<node id="-342" lat="34.608337" lon="133.54996">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4056,7 +4104,7 @@
 		<tag k="name:ja" v="毎戸"/>
 		<tag k="name:ja-Hrkt" v="マイド"/>
 	</node>
-	<node id="-339" lat="34.608406" lon="133.54997">
+	<node id="-343" lat="34.608406" lon="133.54997">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4068,7 +4116,7 @@
 		<tag k="name:ja" v="毎戸"/>
 		<tag k="name:ja-Hrkt" v="マイド"/>
 	</node>
-	<node id="-340" lat="34.51239" lon="133.53528">
+	<node id="-344" lat="34.51239" lon="133.53528">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4080,7 +4128,7 @@
 		<tag k="name:ja" v="馬飼"/>
 		<tag k="name:ja-Hrkt" v="マカイ"/>
 	</node>
-	<node id="-341" lat="34.513023" lon="133.5354">
+	<node id="-345" lat="34.513023" lon="133.5354">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4092,7 +4140,7 @@
 		<tag k="name:ja" v="馬飼"/>
 		<tag k="name:ja-Hrkt" v="マカイ"/>
 	</node>
-	<node id="-342" lat="34.491142" lon="133.52734">
+	<node id="-346" lat="34.491142" lon="133.52734">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4104,7 +4152,7 @@
 		<tag k="name:ja" v="孫治端"/>
 		<tag k="name:ja-Hrkt" v="マゴジバナ"/>
 	</node>
-	<node id="-343" lat="34.49108" lon="133.52722">
+	<node id="-347" lat="34.49108" lon="133.52722">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4116,7 +4164,7 @@
 		<tag k="name:ja" v="孫治端"/>
 		<tag k="name:ja-Hrkt" v="マゴジバナ"/>
 	</node>
-	<node id="-344" lat="34.53607" lon="133.5072">
+	<node id="-348" lat="34.53607" lon="133.5072">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4128,7 +4176,7 @@
 		<tag k="name:ja" v="馬橋"/>
 		<tag k="name:ja-Hrkt" v="マバシ"/>
 	</node>
-	<node id="-345" lat="34.536255" lon="133.50702">
+	<node id="-349" lat="34.536255" lon="133.50702">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4140,7 +4188,7 @@
 		<tag k="name:ja" v="馬橋"/>
 		<tag k="name:ja-Hrkt" v="マバシ"/>
 	</node>
-	<node id="-346" lat="34.453697" lon="133.48146">
+	<node id="-350" lat="34.453697" lon="133.48146">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4152,7 +4200,7 @@
 		<tag k="name:ja" v="見崎"/>
 		<tag k="name:ja-Hrkt" v="ミサキ"/>
 	</node>
-	<node id="-347" lat="34.45682" lon="133.48842">
+	<node id="-351" lat="34.45682" lon="133.48842">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4164,7 +4212,7 @@
 		<tag k="name:ja" v="見崎口"/>
 		<tag k="name:ja-Hrkt" v="ミサキグチ"/>
 	</node>
-	<node id="-348" lat="34.455612" lon="133.4829">
+	<node id="-352" lat="34.455612" lon="133.4829">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4176,7 +4224,7 @@
 		<tag k="name:ja" v="見崎東"/>
 		<tag k="name:ja-Hrkt" v="ミサキヒガシ"/>
 	</node>
-	<node id="-349" lat="34.49428" lon="133.47453">
+	<node id="-353" lat="34.49428" lon="133.47453">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4188,7 +4236,7 @@
 		<tag k="name:ja" v="水と緑のふれあい広場前"/>
 		<tag k="name:ja-Hrkt" v="ミズトミドリノフレアイヒロバマエ"/>
 	</node>
-	<node id="-350" lat="34.458794" lon="133.52463">
+	<node id="-354" lat="34.458794" lon="133.52463">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4200,7 +4248,7 @@
 		<tag k="name:ja" v="水落"/>
 		<tag k="name:ja-Hrkt" v="ミゾオチ"/>
 	</node>
-	<node id="-351" lat="34.45346" lon="133.47841">
+	<node id="-355" lat="34.45346" lon="133.47841">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4212,7 +4260,7 @@
 		<tag k="name:ja" v="御手洗池"/>
 		<tag k="name:ja-Hrkt" v="ミタライイケ"/>
 	</node>
-	<node id="-352" lat="34.587887" lon="133.4432">
+	<node id="-356" lat="34.587887" lon="133.4432">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4224,7 +4272,7 @@
 		<tag k="name:ja" v="大曲"/>
 		<tag k="name:ja-Hrkt" v="オオマガリ"/>
 	</node>
-	<node id="-353" lat="34.587894" lon="133.44334">
+	<node id="-357" lat="34.587894" lon="133.44334">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4236,7 +4284,7 @@
 		<tag k="name:ja" v="大曲"/>
 		<tag k="name:ja-Hrkt" v="オオマガリ"/>
 	</node>
-	<node id="-354" lat="34.525063" lon="133.66255">
+	<node id="-358" lat="34.525063" lon="133.66255">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4248,7 +4296,7 @@
 		<tag k="name:ja" v="南船宮"/>
 		<tag k="name:ja-Hrkt" v="ミナミフナミヤ"/>
 	</node>
-	<node id="-355" lat="34.525043" lon="133.66261">
+	<node id="-359" lat="34.525043" lon="133.66261">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4260,7 +4308,7 @@
 		<tag k="name:ja" v="南船宮"/>
 		<tag k="name:ja-Hrkt" v="ミナミフナミヤ"/>
 	</node>
-	<node id="-356" lat="34.576874" lon="133.47423">
+	<node id="-360" lat="34.576874" lon="133.47423">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4272,7 +4320,7 @@
 		<tag k="name:ja" v="宮の端"/>
 		<tag k="name:ja-Hrkt" v="ミヤノハナ"/>
 	</node>
-	<node id="-357" lat="34.57685" lon="133.47415">
+	<node id="-361" lat="34.57685" lon="133.47415">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4284,7 +4332,7 @@
 		<tag k="name:ja" v="宮の端"/>
 		<tag k="name:ja-Hrkt" v="ミヤノハナ"/>
 	</node>
-	<node id="-358" lat="34.569798" lon="133.4771">
+	<node id="-362" lat="34.569798" lon="133.4771">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4296,7 +4344,7 @@
 		<tag k="name:ja" v="夫婦池"/>
 		<tag k="name:ja-Hrkt" v="ミヨウトイケ"/>
 	</node>
-	<node id="-359" lat="34.569557" lon="133.47734">
+	<node id="-363" lat="34.569557" lon="133.47734">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4308,7 +4356,7 @@
 		<tag k="name:ja" v="夫婦池"/>
 		<tag k="name:ja-Hrkt" v="ミヨウトイケ"/>
 	</node>
-	<node id="-360" lat="34.507526" lon="133.53635">
+	<node id="-364" lat="34.507526" lon="133.53635">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4320,7 +4368,7 @@
 		<tag k="name:ja" v="明治乳業前"/>
 		<tag k="name:ja-Hrkt" v="メイジニュウギョウマエ"/>
 	</node>
-	<node id="-361" lat="34.48649" lon="133.46837">
+	<node id="-365" lat="34.48649" lon="133.46837">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4332,7 +4380,7 @@
 		<tag k="name:ja" v="茂平東"/>
 		<tag k="name:ja-Hrkt" v="モビラヒガシ"/>
 	</node>
-	<node id="-362" lat="34.573277" lon="133.53249">
+	<node id="-366" lat="34.573277" lon="133.53249">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4344,7 +4392,7 @@
 		<tag k="name:ja" v="森ヶ市"/>
 		<tag k="name:ja-Hrkt" v="モリガイチ"/>
 	</node>
-	<node id="-363" lat="34.627506" lon="133.59291">
+	<node id="-367" lat="34.627506" lon="133.59291">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4356,7 +4404,7 @@
 		<tag k="name:ja" v="矢掛高前"/>
 		<tag k="name:ja-Hrkt" v="ヤカゲコウマエ"/>
 	</node>
-	<node id="-364" lat="34.623352" lon="133.59035">
+	<node id="-368" lat="34.623352" lon="133.59035">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4368,7 +4416,7 @@
 		<tag k="name:ja" v="矢掛中町"/>
 		<tag k="name:ja-Hrkt" v="ヤカゲナカマチ"/>
 	</node>
-	<node id="-365" lat="34.623432" lon="133.59076">
+	<node id="-369" lat="34.623432" lon="133.59076">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4380,7 +4428,7 @@
 		<tag k="name:ja" v="矢掛中町"/>
 		<tag k="name:ja-Hrkt" v="ヤカゲナカマチ"/>
 	</node>
-	<node id="-366" lat="34.622917" lon="133.58713">
+	<node id="-370" lat="34.622917" lon="133.58713">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4392,7 +4440,7 @@
 		<tag k="name:ja" v="矢掛西町"/>
 		<tag k="name:ja-Hrkt" v="ヤカゲニシマチ"/>
 	</node>
-	<node id="-367" lat="34.622868" lon="133.58688">
+	<node id="-371" lat="34.622868" lon="133.58688">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4404,7 +4452,7 @@
 		<tag k="name:ja" v="矢掛西町"/>
 		<tag k="name:ja-Hrkt" v="ヤカゲニシマチ"/>
 	</node>
-	<node id="-368" lat="34.62821" lon="133.58798">
+	<node id="-372" lat="34.62821" lon="133.58798">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4416,7 +4464,7 @@
 		<tag k="name:ja" v="矢掛病院前"/>
 		<tag k="name:ja-Hrkt" v="ヤカゲビョウインマエ"/>
 	</node>
-	<node id="-369" lat="34.55395" lon="133.67549">
+	<node id="-373" lat="34.55395" lon="133.67549">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4428,7 +4476,7 @@
 		<tag k="name:ja" v="八島"/>
 		<tag k="name:ja-Hrkt" v="ヤシマ"/>
 	</node>
-	<node id="-370" lat="34.5546" lon="133.6758">
+	<node id="-374" lat="34.5546" lon="133.6758">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4440,7 +4488,7 @@
 		<tag k="name:ja" v="八島"/>
 		<tag k="name:ja-Hrkt" v="ヤシマ"/>
 	</node>
-	<node id="-371" lat="34.571335" lon="133.53072">
+	<node id="-375" lat="34.571335" lon="133.53072">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4452,7 +4500,7 @@
 		<tag k="name:ja" v="山口"/>
 		<tag k="name:ja-Hrkt" v="ヤマグチ"/>
 	</node>
-	<node id="-372" lat="34.517467" lon="133.53342">
+	<node id="-376" lat="34.517467" lon="133.53342">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4464,7 +4512,7 @@
 		<tag k="name:ja" v="山中"/>
 		<tag k="name:ja-Hrkt" v="ヤマナカ"/>
 	</node>
-	<node id="-373" lat="34.517418" lon="133.53336">
+	<node id="-377" lat="34.517418" lon="133.53336">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4476,7 +4524,7 @@
 		<tag k="name:ja" v="山中"/>
 		<tag k="name:ja-Hrkt" v="ヤマナカ"/>
 	</node>
-	<node id="-374" lat="34.54975" lon="133.48538">
+	<node id="-378" lat="34.54975" lon="133.48538">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4488,7 +4536,7 @@
 		<tag k="name:ja" v="西備支援学校前"/>
 		<tag k="name:ja-Hrkt" v="セイビシエンガッコウマエ"/>
 	</node>
-	<node id="-375" lat="34.54952" lon="133.48602">
+	<node id="-379" lat="34.54952" lon="133.48602">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4500,7 +4548,7 @@
 		<tag k="name:ja" v="西備支援学校前"/>
 		<tag k="name:ja-Hrkt" v="セイビシエンガッコウマエ"/>
 	</node>
-	<node id="-376" lat="34.547024" lon="133.52444">
+	<node id="-380" lat="34.547024" lon="133.52444">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4512,7 +4560,7 @@
 		<tag k="name:ja" v="吉田"/>
 		<tag k="name:ja-Hrkt" v="ヨシダ"/>
 	</node>
-	<node id="-377" lat="34.544292" lon="133.52031">
+	<node id="-381" lat="34.544292" lon="133.52031">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4524,7 +4572,7 @@
 		<tag k="name:ja" v="吉田口"/>
 		<tag k="name:ja-Hrkt" v="ヨシダグチ"/>
 	</node>
-	<node id="-378" lat="34.550533" lon="133.52759">
+	<node id="-382" lat="34.550533" lon="133.52759">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4536,7 +4584,7 @@
 		<tag k="name:ja" v="吉田小学校前"/>
 		<tag k="name:ja-Hrkt" v="ヨシダショウガッコウマエ"/>
 	</node>
-	<node id="-379" lat="34.546303" lon="133.52292">
+	<node id="-383" lat="34.546303" lon="133.52292">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4548,7 +4596,7 @@
 		<tag k="name:ja" v="吉田中"/>
 		<tag k="name:ja-Hrkt" v="ヨシダナカ"/>
 	</node>
-	<node id="-380" lat="34.611862" lon="133.56056">
+	<node id="-384" lat="34.611862" lon="133.56056">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4560,7 +4608,7 @@
 		<tag k="name:ja" v="六反"/>
 		<tag k="name:ja-Hrkt" v="ロクタン"/>
 	</node>
-	<node id="-381" lat="34.611984" lon="133.56071">
+	<node id="-385" lat="34.611984" lon="133.56071">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4572,7 +4620,7 @@
 		<tag k="name:ja" v="六反"/>
 		<tag k="name:ja-Hrkt" v="ロクタン"/>
 	</node>
-	<node id="-382" lat="34.622707" lon="133.58241">
+	<node id="-386" lat="34.622707" lon="133.58241">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4584,7 +4632,7 @@
 		<tag k="name:ja" v="東川面"/>
 		<tag k="name:ja-Hrkt" v="ヒガシカワモ"/>
 	</node>
-	<node id="-383" lat="34.62432" lon="133.59311">
+	<node id="-387" lat="34.62432" lon="133.59311">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4596,7 +4644,7 @@
 		<tag k="name:ja" v="矢掛商店街東"/>
 		<tag k="name:ja-Hrkt" v="ヤカゲショウテンガイヒガシ"/>
 	</node>
-	<node id="-384" lat="34.627857" lon="133.59038">
+	<node id="-388" lat="34.627857" lon="133.59038">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4608,7 +4656,7 @@
 		<tag k="name:ja" v="ネバーランド前"/>
 		<tag k="name:ja-Hrkt" v="ネバーランドマエ"/>
 	</node>
-	<node id="-385" lat="34.601063" lon="133.46136">
+	<node id="-389" lat="34.601063" lon="133.46136">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4620,7 +4668,7 @@
 		<tag k="name:ja" v="井原小学校前"/>
 		<tag k="name:ja-Hrkt" v="イバラショウガッコウマエ"/>
 	</node>
-	<node id="-386" lat="34.60197" lon="133.46109">
+	<node id="-390" lat="34.60197" lon="133.46109">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4632,7 +4680,7 @@
 		<tag k="name:ja" v="井原小学校前"/>
 		<tag k="name:ja-Hrkt" v="イバラショウガッコウマエ"/>
 	</node>
-	<node id="-387" lat="34.60361" lon="133.45872">
+	<node id="-391" lat="34.60361" lon="133.45872">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4644,7 +4692,7 @@
 		<tag k="name:ja" v="井原市民病院"/>
 		<tag k="name:ja-Hrkt" v="イバラシミンビョウイン"/>
 	</node>
-	<node id="-388" lat="34.530205" lon="133.45476">
+	<node id="-392" lat="34.530205" lon="133.45476">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4656,7 +4704,7 @@
 		<tag k="name:ja" v="押撫上"/>
 		<tag k="name:ja-Hrkt" v="オシナデカミ"/>
 	</node>
-	<node id="-389" lat="34.53023" lon="133.45485">
+	<node id="-393" lat="34.53023" lon="133.45485">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4668,7 +4716,7 @@
 		<tag k="name:ja" v="押撫上"/>
 		<tag k="name:ja-Hrkt" v="オシナデカミ"/>
 	</node>
-	<node id="-390" lat="34.49574" lon="133.51558">
+	<node id="-394" lat="34.49574" lon="133.51558">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4680,7 +4728,7 @@
 		<tag k="name:ja" v="市民会館・竹喬美術館前"/>
 		<tag k="name:ja-Hrkt" v="シミンカイカンチッキョウビジュツカンマエ"/>
 	</node>
-	<node id="-391" lat="34.495575" lon="133.5155">
+	<node id="-395" lat="34.495575" lon="133.5155">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4692,7 +4740,7 @@
 		<tag k="name:ja" v="市民会館・竹喬美術館前"/>
 		<tag k="name:ja-Hrkt" v="シミンカイカンチッキョウビジュツカンマエ"/>
 	</node>
-	<node id="-392" lat="34.507225" lon="133.50702">
+	<node id="-396" lat="34.507225" lon="133.50702">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4704,7 +4752,7 @@
 		<tag k="name:ja" v="笠岡市役所前"/>
 		<tag k="name:ja-Hrkt" v="カサオカシヤクショマエ"/>
 	</node>
-	<node id="-393" lat="34.50719" lon="133.50713">
+	<node id="-397" lat="34.50719" lon="133.50713">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4716,7 +4764,7 @@
 		<tag k="name:ja" v="笠岡市役所前"/>
 		<tag k="name:ja-Hrkt" v="カサオカシヤクショマエ"/>
 	</node>
-	<node id="-394" lat="34.50568" lon="133.50659">
+	<node id="-398" lat="34.50568" lon="133.50659">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4728,7 +4776,7 @@
 		<tag k="name:ja" v="妙乗寺前"/>
 		<tag k="name:ja-Hrkt" v="ミョウジョウジマエ"/>
 	</node>
-	<node id="-395" lat="34.505585" lon="133.5068">
+	<node id="-399" lat="34.505585" lon="133.5068">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4740,7 +4788,7 @@
 		<tag k="name:ja" v="妙乗寺前"/>
 		<tag k="name:ja-Hrkt" v="ミョウジョウジマエ"/>
 	</node>
-	<node id="-396" lat="34.49845" lon="133.51123">
+	<node id="-400" lat="34.49845" lon="133.51123">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4752,7 +4800,7 @@
 		<tag k="name:ja" v="笠岡税務署前"/>
 		<tag k="name:ja-Hrkt" v="カサオカゼイムショマエ"/>
 	</node>
-	<node id="-397" lat="34.49851" lon="133.5113">
+	<node id="-401" lat="34.49851" lon="133.5113">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4764,7 +4812,7 @@
 		<tag k="name:ja" v="笠岡税務署前"/>
 		<tag k="name:ja-Hrkt" v="カサオカゼイムショマエ"/>
 	</node>
-	<node id="-398" lat="34.49722" lon="133.51242">
+	<node id="-402" lat="34.49722" lon="133.51242">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4776,7 +4824,7 @@
 		<tag k="name:ja" v="笠岡消防署前"/>
 		<tag k="name:ja-Hrkt" v="カサオカショウボウショマエ"/>
 	</node>
-	<node id="-399" lat="34.49724" lon="133.5125">
+	<node id="-403" lat="34.49724" lon="133.5125">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4788,7 +4836,7 @@
 		<tag k="name:ja" v="笠岡消防署前"/>
 		<tag k="name:ja-Hrkt" v="カサオカショウボウショマエ"/>
 	</node>
-	<node id="-400" lat="34.495117" lon="133.51424">
+	<node id="-404" lat="34.495117" lon="133.51424">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4800,7 +4848,7 @@
 		<tag k="name:ja" v="総合卸売市場前"/>
 		<tag k="name:ja-Hrkt" v="ソウゴウオロシウリシジョウマエ"/>
 	</node>
-	<node id="-401" lat="34.495167" lon="133.5143">
+	<node id="-405" lat="34.495167" lon="133.5143">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4812,7 +4860,7 @@
 		<tag k="name:ja" v="総合卸売市場前"/>
 		<tag k="name:ja-Hrkt" v="ソウゴウオロシウリシジョウマエ"/>
 	</node>
-	<node id="-402" lat="34.49519" lon="133.51683">
+	<node id="-406" lat="34.49519" lon="133.51683">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4824,7 +4872,7 @@
 		<tag k="name:ja" v="笠岡運動公園前"/>
 		<tag k="name:ja-Hrkt" v="カサオカウンドウコウエンマエ"/>
 	</node>
-	<node id="-403" lat="34.495174" lon="133.51671">
+	<node id="-407" lat="34.495174" lon="133.51671">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4836,7 +4884,19 @@
 		<tag k="name:ja" v="笠岡運動公園前"/>
 		<tag k="name:ja-Hrkt" v="カサオカウンドウコウエンマエ"/>
 	</node>
-	<node id="-404" lat="34.491833" lon="133.5171">
+	<node id="-408" lat="34.495197" lon="133.51675">
+		<tag k="operator" v="井笠バスカンパニー"/>
+		<tag k="operator:en" v="Ikasa Bus"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="gtfs:stop_id" v="2213 4455"/>
+		<tag k="name" v="笠岡運動公園前"/>
+		<tag k="name:en" v="Kasaokaundokoen-mae"/>
+		<tag k="name:ja" v="笠岡運動公園前"/>
+		<tag k="name:ja-Hrkt" v="カサオカウンドウコウエンマエ"/>
+	</node>
+	<node id="-409" lat="34.491833" lon="133.5171">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4848,7 +4908,7 @@
 		<tag k="name:ja" v="笠岡市営球場前"/>
 		<tag k="name:ja-Hrkt" v="カサオカシエイキュウジョウマエ"/>
 	</node>
-	<node id="-405" lat="34.491806" lon="133.51723">
+	<node id="-410" lat="34.491806" lon="133.51723">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4860,7 +4920,7 @@
 		<tag k="name:ja" v="笠岡市営球場前"/>
 		<tag k="name:ja-Hrkt" v="カサオカシエイキュウジョウマエ"/>
 	</node>
-	<node id="-406" lat="34.490078" lon="133.51756">
+	<node id="-411" lat="34.490078" lon="133.51756">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4872,7 +4932,7 @@
 		<tag k="name:ja" v="美の浜北"/>
 		<tag k="name:ja-Hrkt" v="ミノハマキタ"/>
 	</node>
-	<node id="-407" lat="34.490154" lon="133.51753">
+	<node id="-412" lat="34.490154" lon="133.51753">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4884,7 +4944,7 @@
 		<tag k="name:ja" v="美の浜北"/>
 		<tag k="name:ja-Hrkt" v="ミノハマキタ"/>
 	</node>
-	<node id="-408" lat="34.48806" lon="133.51807">
+	<node id="-413" lat="34.48806" lon="133.51807">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4896,7 +4956,7 @@
 		<tag k="name:ja" v="美の浜バスターミナル"/>
 		<tag k="name:ja-Hrkt" v="ミノハマバスターミナル"/>
 	</node>
-	<node id="-409" lat="34.503536" lon="133.50432">
+	<node id="-414" lat="34.503536" lon="133.50432">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4908,7 +4968,7 @@
 		<tag k="name:ja" v="笠岡港"/>
 		<tag k="name:ja-Hrkt" v="カサオカコウ"/>
 	</node>
-	<node id="-410" lat="34.503914" lon="133.5043">
+	<node id="-415" lat="34.503914" lon="133.5043">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4920,7 +4980,7 @@
 		<tag k="name:ja" v="笠岡港"/>
 		<tag k="name:ja-Hrkt" v="カサオカコウ"/>
 	</node>
-	<node id="-411" lat="34.505997" lon="133.4977">
+	<node id="-416" lat="34.505997" lon="133.4977">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4932,7 +4992,7 @@
 		<tag k="name:ja" v="笠岡市民病院前"/>
 		<tag k="name:ja-Hrkt" v="カサオカシミンビョウインマエ"/>
 	</node>
-	<node id="-412" lat="34.506237" lon="133.49692">
+	<node id="-417" lat="34.506237" lon="133.49692">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4944,7 +5004,7 @@
 		<tag k="name:ja" v="笠岡市民病院前"/>
 		<tag k="name:ja-Hrkt" v="カサオカシミンビョウインマエ"/>
 	</node>
-	<node id="-413" lat="34.50617" lon="133.49731">
+	<node id="-418" lat="34.50617" lon="133.49731">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4956,7 +5016,7 @@
 		<tag k="name:ja" v="笠岡市民病院前"/>
 		<tag k="name:ja-Hrkt" v="カサオカシミンビョウインマエ"/>
 	</node>
-	<node id="-414" lat="34.491528" lon="133.40445">
+	<node id="-419" lat="34.491528" lon="133.40445">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4968,7 +5028,7 @@
 		<tag k="name:ja" v="梶島山"/>
 		<tag k="name:ja-Hrkt" v="カジシマヤマ"/>
 	</node>
-	<node id="-415" lat="34.492035" lon="133.40524">
+	<node id="-420" lat="34.492035" lon="133.40524">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4980,7 +5040,7 @@
 		<tag k="name:ja" v="梶島山"/>
 		<tag k="name:ja-Hrkt" v="カジシマヤマ"/>
 	</node>
-	<node id="-416" lat="34.51472" lon="133.4136">
+	<node id="-421" lat="34.51472" lon="133.4136">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -4992,7 +5052,7 @@
 		<tag k="name:ja" v="春日"/>
 		<tag k="name:ja-Hrkt" v="カスガ"/>
 	</node>
-	<node id="-417" lat="34.512905" lon="133.42119">
+	<node id="-422" lat="34.512905" lon="133.42119">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5004,7 +5064,7 @@
 		<tag k="name:ja" v="春日池"/>
 		<tag k="name:ja-Hrkt" v="カスガイケ"/>
 	</node>
-	<node id="-418" lat="34.512955" lon="133.42136">
+	<node id="-423" lat="34.512955" lon="133.42136">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5016,7 +5076,7 @@
 		<tag k="name:ja" v="春日池"/>
 		<tag k="name:ja-Hrkt" v="カスガイケ"/>
 	</node>
-	<node id="-419" lat="34.511044" lon="133.41492">
+	<node id="-424" lat="34.511044" lon="133.41492">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5028,7 +5088,7 @@
 		<tag k="name:ja" v="春日池下"/>
 		<tag k="name:ja-Hrkt" v="カスガイケシモ"/>
 	</node>
-	<node id="-420" lat="34.51118" lon="133.41498">
+	<node id="-425" lat="34.51118" lon="133.41498">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5040,7 +5100,7 @@
 		<tag k="name:ja" v="春日池下"/>
 		<tag k="name:ja-Hrkt" v="カスガイケシモ"/>
 	</node>
-	<node id="-421" lat="34.514816" lon="133.42319">
+	<node id="-426" lat="34.514816" lon="133.42319">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5052,7 +5112,7 @@
 		<tag k="name:ja" v="春日池ニュータウン"/>
 		<tag k="name:ja-Hrkt" v="カスガイケニュータウン"/>
 	</node>
-	<node id="-422" lat="34.51558" lon="133.42346">
+	<node id="-427" lat="34.51558" lon="133.42346">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5064,7 +5124,7 @@
 		<tag k="name:ja" v="春日池ニュータウン"/>
 		<tag k="name:ja-Hrkt" v="カスガイケニュータウン"/>
 	</node>
-	<node id="-423" lat="34.51699" lon="133.41414">
+	<node id="-428" lat="34.51699" lon="133.41414">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5076,19 +5136,19 @@
 		<tag k="name:ja" v="春日小学校前"/>
 		<tag k="name:ja-Hrkt" v="カスガショウガッコウマエ"/>
 	</node>
-	<node id="-424" lat="34.484505" lon="133.36415">
+	<node id="-429" lat="34.484505" lon="133.36415">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
 		<tag k="highway" v="bus_stop"/>
 		<tag k="public_transport" v="platform"/>
 		<tag k="gtfs:stop_id" v="246 502"/>
-		<tag k="name" v="霞町"/>
-		<tag k="name:en" v="Kasumicho"/>
-		<tag k="name:ja" v="霞町"/>
-		<tag k="name:ja-Hrkt" v="カスミチョウ"/>
+		<tag k="name" v="ジーベック前"/>
+		<tag k="name:en" v="XEBEC mae"/>
+		<tag k="name:ja" v="ジーベック前"/>
+		<tag k="name:ja-Hrkt" v="ジーベックマエ"/>
 	</node>
-	<node id="-425" lat="34.534298" lon="133.36958">
+	<node id="-430" lat="34.534298" lon="133.36958">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5100,7 +5160,7 @@
 		<tag k="name:ja" v="片山"/>
 		<tag k="name:ja-Hrkt" v="カタヤマ"/>
 	</node>
-	<node id="-426" lat="34.53376" lon="133.36984">
+	<node id="-431" lat="34.53376" lon="133.36984">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5112,7 +5172,7 @@
 		<tag k="name:ja" v="片山"/>
 		<tag k="name:ja-Hrkt" v="カタヤマ"/>
 	</node>
-	<node id="-427" lat="34.5122" lon="133.4916">
+	<node id="-432" lat="34.5122" lon="133.4916">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5124,7 +5184,7 @@
 		<tag k="name:ja" v="金浦口"/>
 		<tag k="name:ja-Hrkt" v="カナウラグチ"/>
 	</node>
-	<node id="-428" lat="34.516888" lon="133.47627">
+	<node id="-433" lat="34.516888" lon="133.47627">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5136,7 +5196,7 @@
 		<tag k="name:ja" v="金浦中入口"/>
 		<tag k="name:ja-Hrkt" v="カナウラチュウイリグチ"/>
 	</node>
-	<node id="-429" lat="34.51695" lon="133.47632">
+	<node id="-434" lat="34.51695" lon="133.47632">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5148,7 +5208,7 @@
 		<tag k="name:ja" v="金浦中入口"/>
 		<tag k="name:ja-Hrkt" v="カナウラチュウイリグチ"/>
 	</node>
-	<node id="-430" lat="34.508595" lon="133.49188">
+	<node id="-435" lat="34.508595" lon="133.49188">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5160,7 +5220,7 @@
 		<tag k="name:ja" v="金崎"/>
 		<tag k="name:ja-Hrkt" v="カナザキ"/>
 	</node>
-	<node id="-431" lat="34.50864" lon="133.49207">
+	<node id="-436" lat="34.50864" lon="133.49207">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5172,7 +5232,7 @@
 		<tag k="name:ja" v="金崎"/>
 		<tag k="name:ja-Hrkt" v="カナザキ"/>
 	</node>
-	<node id="-432" lat="34.509007" lon="133.49255">
+	<node id="-437" lat="34.509007" lon="133.49255">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5184,7 +5244,7 @@
 		<tag k="name:ja" v="金崎"/>
 		<tag k="name:ja-Hrkt" v="カナザキ"/>
 	</node>
-	<node id="-433" lat="34.50902" lon="133.49261">
+	<node id="-438" lat="34.50902" lon="133.49261">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5196,7 +5256,7 @@
 		<tag k="name:ja" v="金崎"/>
 		<tag k="name:ja-Hrkt" v="カナザキ"/>
 	</node>
-	<node id="-434" lat="34.490902" lon="133.42671">
+	<node id="-439" lat="34.490902" lon="133.42671">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5208,7 +5268,7 @@
 		<tag k="name:ja" v="旭ヶ丘小学校前"/>
 		<tag k="name:ja-Hrkt" v="アサヒガオカショウガッコウマエ"/>
 	</node>
-	<node id="-435" lat="34.592583" lon="133.45409">
+	<node id="-440" lat="34.592583" lon="133.45409">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5220,7 +5280,7 @@
 		<tag k="name:ja" v="上出部入口"/>
 		<tag k="name:ja-Hrkt" v="カミイズエイリグチ"/>
 	</node>
-	<node id="-436" lat="34.59329" lon="133.45544">
+	<node id="-441" lat="34.59329" lon="133.45544">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5232,7 +5292,7 @@
 		<tag k="name:ja" v="上出部入口"/>
 		<tag k="name:ja-Hrkt" v="カミイズエイリグチ"/>
 	</node>
-	<node id="-437" lat="34.56811" lon="133.40384">
+	<node id="-442" lat="34.56811" lon="133.40384">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5244,7 +5304,7 @@
 		<tag k="name:ja" v="上御領"/>
 		<tag k="name:ja-Hrkt" v="カミゴリョウ"/>
 	</node>
-	<node id="-438" lat="34.56831" lon="133.40422">
+	<node id="-443" lat="34.56831" lon="133.40422">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5256,7 +5316,7 @@
 		<tag k="name:ja" v="上御領"/>
 		<tag k="name:ja-Hrkt" v="カミゴリョウ"/>
 	</node>
-	<node id="-439" lat="34.49068" lon="133.42055">
+	<node id="-444" lat="34.49068" lon="133.42055">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5268,7 +5328,7 @@
 		<tag k="name:ja" v="旭ヶ丘団地"/>
 		<tag k="name:ja-Hrkt" v="アサヒガオカダンチ"/>
 	</node>
-	<node id="-440" lat="34.4919" lon="133.42963">
+	<node id="-445" lat="34.4919" lon="133.42963">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5280,7 +5340,19 @@
 		<tag k="name:ja" v="旭ヶ丘団地上"/>
 		<tag k="name:ja-Hrkt" v="アサヒガオカダンチカミ"/>
 	</node>
-	<node id="-441" lat="34.49235" lon="133.42265">
+	<node id="-446" lat="34.491142" lon="133.42949">
+		<tag k="operator" v="井笠バスカンパニー"/>
+		<tag k="operator:en" v="Ikasa Bus"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="gtfs:stop_id" v="28 56"/>
+		<tag k="name" v="旭ヶ丘団地上"/>
+		<tag k="name:en" v="Asahigaokadanchi-kami"/>
+		<tag k="name:ja" v="旭ヶ丘団地上"/>
+		<tag k="name:ja-Hrkt" v="アサヒガオカダンチカミ"/>
+	</node>
+	<node id="-447" lat="34.49235" lon="133.42265">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5292,7 +5364,7 @@
 		<tag k="name:ja" v="旭ヶ丘団地下"/>
 		<tag k="name:ja-Hrkt" v="アサヒガオカダンチシモ"/>
 	</node>
-	<node id="-442" lat="34.500057" lon="133.40543">
+	<node id="-448" lat="34.500057" lon="133.40543">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5304,7 +5376,7 @@
 		<tag k="name:ja" v="鴨目"/>
 		<tag k="name:ja-Hrkt" v="カモメ"/>
 	</node>
-	<node id="-443" lat="34.501118" lon="133.40585">
+	<node id="-449" lat="34.501118" lon="133.40585">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5316,7 +5388,7 @@
 		<tag k="name:ja" v="鴨目"/>
 		<tag k="name:ja-Hrkt" v="カモメ"/>
 	</node>
-	<node id="-444" lat="34.490032" lon="133.42262">
+	<node id="-450" lat="34.490032" lon="133.42262">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5328,7 +5400,7 @@
 		<tag k="name:ja" v="旭ヶ丘団地中"/>
 		<tag k="name:ja-Hrkt" v="アサヒガオカダンチナカ"/>
 	</node>
-	<node id="-445" lat="34.492424" lon="133.42606">
+	<node id="-451" lat="34.492424" lon="133.42606">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5340,7 +5412,7 @@
 		<tag k="name:ja" v="旭ヶ丘幼稚園前"/>
 		<tag k="name:ja-Hrkt" v="アサヒガオカヨウチエンマエ"/>
 	</node>
-	<node id="-446" lat="34.537083" lon="133.37991">
+	<node id="-452" lat="34.537083" lon="133.37991">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5352,7 +5424,7 @@
 		<tag k="name:ja" v="神辺駅前"/>
 		<tag k="name:ja-Hrkt" v="カンナベエキマエ"/>
 	</node>
-	<node id="-447" lat="34.53707" lon="133.37999">
+	<node id="-453" lat="34.53707" lon="133.37999">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5364,7 +5436,7 @@
 		<tag k="name:ja" v="神辺駅前"/>
 		<tag k="name:ja-Hrkt" v="カンナベエキマエ"/>
 	</node>
-	<node id="-448" lat="34.539673" lon="133.38258">
+	<node id="-454" lat="34.539673" lon="133.38258">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5376,7 +5448,7 @@
 		<tag k="name:ja" v="神辺川北"/>
 		<tag k="name:ja-Hrkt" v="カンナベカワキタ"/>
 	</node>
-	<node id="-449" lat="34.539787" lon="133.38303">
+	<node id="-455" lat="34.539787" lon="133.38303">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5388,7 +5460,7 @@
 		<tag k="name:ja" v="神辺川北"/>
 		<tag k="name:ja-Hrkt" v="カンナベカワキタ"/>
 	</node>
-	<node id="-450" lat="34.541695" lon="133.38576">
+	<node id="-456" lat="34.541695" lon="133.38576">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5400,7 +5472,7 @@
 		<tag k="name:ja" v="神辺高校前"/>
 		<tag k="name:ja-Hrkt" v="カンナベコウコウマエ"/>
 	</node>
-	<node id="-451" lat="34.54232" lon="133.38593">
+	<node id="-457" lat="34.54232" lon="133.38593">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5412,7 +5484,7 @@
 		<tag k="name:ja" v="神辺高校前"/>
 		<tag k="name:ja-Hrkt" v="カンナベコウコウマエ"/>
 	</node>
-	<node id="-452" lat="34.533962" lon="133.3785">
+	<node id="-458" lat="34.533962" lon="133.3785">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5424,7 +5496,7 @@
 		<tag k="name:ja" v="神辺長畠"/>
 		<tag k="name:ja-Hrkt" v="カンナベナガバタケ"/>
 	</node>
-	<node id="-453" lat="34.534084" lon="133.37854">
+	<node id="-459" lat="34.534084" lon="133.37854">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5436,7 +5508,7 @@
 		<tag k="name:ja" v="神辺長畠"/>
 		<tag k="name:ja-Hrkt" v="カンナベナガバタケ"/>
 	</node>
-	<node id="-454" lat="34.54501" lon="133.38998">
+	<node id="-460" lat="34.54501" lon="133.38998">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5448,7 +5520,7 @@
 		<tag k="name:ja" v="神辺古市"/>
 		<tag k="name:ja-Hrkt" v="カンナベフルイチ"/>
 	</node>
-	<node id="-455" lat="34.545082" lon="133.38997">
+	<node id="-461" lat="34.545082" lon="133.38997">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5460,7 +5532,7 @@
 		<tag k="name:ja" v="神辺古市"/>
 		<tag k="name:ja-Hrkt" v="カンナベフルイチ"/>
 	</node>
-	<node id="-456" lat="34.4903" lon="133.3747">
+	<node id="-462" lat="34.490208" lon="133.37408">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5472,7 +5544,7 @@
 		<tag k="name:ja" v="旭町"/>
 		<tag k="name:ja-Hrkt" v="アサヒマチ"/>
 	</node>
-	<node id="-457" lat="34.49034" lon="133.37466">
+	<node id="-463" lat="34.49034" lon="133.37466">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5484,7 +5556,7 @@
 		<tag k="name:ja" v="旭町"/>
 		<tag k="name:ja-Hrkt" v="アサヒマチ"/>
 	</node>
-	<node id="-458" lat="34.516937" lon="133.47313">
+	<node id="-464" lat="34.516937" lon="133.47313">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5496,7 +5568,7 @@
 		<tag k="name:ja" v="銀山"/>
 		<tag k="name:ja-Hrkt" v="ギンザン"/>
 	</node>
-	<node id="-459" lat="34.489323" lon="133.36015">
+	<node id="-465" lat="34.489323" lon="133.36015">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5508,7 +5580,7 @@
 		<tag k="name:ja" v="県立歴史博物館前"/>
 		<tag k="name:ja-Hrkt" v="ケンリツレキシハクブツカンマエ"/>
 	</node>
-	<node id="-460" lat="34.52221" lon="133.3814">
+	<node id="-466" lat="34.52221" lon="133.3814">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5520,7 +5592,7 @@
 		<tag k="name:ja" v="小池"/>
 		<tag k="name:ja-Hrkt" v="コイケ"/>
 	</node>
-	<node id="-461" lat="34.522083" lon="133.38136">
+	<node id="-467" lat="34.522083" lon="133.38136">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5532,7 +5604,7 @@
 		<tag k="name:ja" v="小池"/>
 		<tag k="name:ja-Hrkt" v="コイケ"/>
 	</node>
-	<node id="-462" lat="34.495518" lon="133.39558">
+	<node id="-468" lat="34.495518" lon="133.39558">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5544,7 +5616,7 @@
 		<tag k="name:ja" v="公園前"/>
 		<tag k="name:ja-Hrkt" v="コウエンマエ"/>
 	</node>
-	<node id="-463" lat="34.49562" lon="133.3958">
+	<node id="-469" lat="34.49562" lon="133.3958">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5556,7 +5628,7 @@
 		<tag k="name:ja" v="公園前"/>
 		<tag k="name:ja-Hrkt" v="コウエンマエ"/>
 	</node>
-	<node id="-464" lat="34.54639" lon="133.36145">
+	<node id="-470" lat="34.54639" lon="133.36145">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5568,7 +5640,7 @@
 		<tag k="name:ja" v="十九軒屋"/>
 		<tag k="name:ja-Hrkt" v="19ケンヤ"/>
 	</node>
-	<node id="-465" lat="34.546257" lon="133.3618">
+	<node id="-471" lat="34.546257" lon="133.3618">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5580,7 +5652,7 @@
 		<tag k="name:ja" v="十九軒屋"/>
 		<tag k="name:ja-Hrkt" v="19ケンヤ"/>
 	</node>
-	<node id="-466" lat="34.497654" lon="133.39905">
+	<node id="-472" lat="34.497654" lon="133.39905">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5592,7 +5664,7 @@
 		<tag k="name:ja" v="高崎"/>
 		<tag k="name:ja-Hrkt" v="コウザキ"/>
 	</node>
-	<node id="-467" lat="34.497627" lon="133.39926">
+	<node id="-473" lat="34.497627" lon="133.39926">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5604,7 +5676,7 @@
 		<tag k="name:ja" v="高崎"/>
 		<tag k="name:ja-Hrkt" v="コウザキ"/>
 	</node>
-	<node id="-468" lat="34.562172" lon="133.39635">
+	<node id="-474" lat="34.562172" lon="133.39635">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5616,7 +5688,7 @@
 		<tag k="name:ja" v="国分寺"/>
 		<tag k="name:ja-Hrkt" v="コクブンジ"/>
 	</node>
-	<node id="-469" lat="34.562412" lon="133.3965">
+	<node id="-475" lat="34.562412" lon="133.3965">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5628,7 +5700,7 @@
 		<tag k="name:ja" v="国分寺"/>
 		<tag k="name:ja-Hrkt" v="コクブンジ"/>
 	</node>
-	<node id="-470" lat="34.543762" lon="133.38692">
+	<node id="-476" lat="34.543762" lon="133.38692">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5640,7 +5712,7 @@
 		<tag k="name:ja" v="古城"/>
 		<tag k="name:ja-Hrkt" v="コジョウ"/>
 	</node>
-	<node id="-471" lat="34.543705" lon="133.387">
+	<node id="-477" lat="34.543705" lon="133.387">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5652,7 +5724,7 @@
 		<tag k="name:ja" v="古城"/>
 		<tag k="name:ja-Hrkt" v="コジョウ"/>
 	</node>
-	<node id="-472" lat="34.62518" lon="133.58412">
+	<node id="-478" lat="34.62518" lon="133.58412">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5664,7 +5736,7 @@
 		<tag k="name:ja" v="小林"/>
 		<tag k="name:ja-Hrkt" v="オバヤシ"/>
 	</node>
-	<node id="-473" lat="34.5775" lon="133.42282">
+	<node id="-479" lat="34.5775" lon="133.42282">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5676,7 +5748,7 @@
 		<tag k="name:ja" v="金光教前"/>
 		<tag k="name:ja-Hrkt" v="コンコウキョウマエ"/>
 	</node>
-	<node id="-474" lat="34.577682" lon="133.42302">
+	<node id="-480" lat="34.577682" lon="133.42302">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5688,7 +5760,7 @@
 		<tag k="name:ja" v="金光教前"/>
 		<tag k="name:ja-Hrkt" v="コンコウキョウマエ"/>
 	</node>
-	<node id="-475" lat="34.57616" lon="133.42024">
+	<node id="-481" lat="34.57616" lon="133.42024">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5700,7 +5772,7 @@
 		<tag k="name:ja" v="金光橋"/>
 		<tag k="name:ja-Hrkt" v="コンコウバシ"/>
 	</node>
-	<node id="-476" lat="34.57671" lon="133.42123">
+	<node id="-482" lat="34.575912" lon="133.41936">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5712,7 +5784,7 @@
 		<tag k="name:ja" v="金光橋"/>
 		<tag k="name:ja-Hrkt" v="コンコウバシ"/>
 	</node>
-	<node id="-477" lat="34.571167" lon="133.40842">
+	<node id="-483" lat="34.571167" lon="133.40842">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5724,7 +5796,7 @@
 		<tag k="name:ja" v="御領中組"/>
 		<tag k="name:ja-Hrkt" v="ゴリョウナカグミ"/>
 	</node>
-	<node id="-478" lat="34.571335" lon="133.40857">
+	<node id="-484" lat="34.571335" lon="133.40857">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5736,7 +5808,7 @@
 		<tag k="name:ja" v="御領中組"/>
 		<tag k="name:ja-Hrkt" v="ゴリョウナカグミ"/>
 	</node>
-	<node id="-479" lat="34.589954" lon="133.4471">
+	<node id="-485" lat="34.589954" lon="133.4471">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5748,7 +5820,7 @@
 		<tag k="name:ja" v="笹賀"/>
 		<tag k="name:ja-Hrkt" v="ササガ"/>
 	</node>
-	<node id="-480" lat="34.590103" lon="133.44704">
+	<node id="-486" lat="34.590103" lon="133.44704">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5760,7 +5832,7 @@
 		<tag k="name:ja" v="笹賀"/>
 		<tag k="name:ja-Hrkt" v="ササガ"/>
 	</node>
-	<node id="-481" lat="34.498787" lon="133.5192">
+	<node id="-487" lat="34.498787" lon="133.5192">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5772,7 +5844,7 @@
 		<tag k="name:ja" v="三番町"/>
 		<tag k="name:ja-Hrkt" v="サンバンチョウ"/>
 	</node>
-	<node id="-482" lat="34.49864" lon="133.51949">
+	<node id="-488" lat="34.49864" lon="133.51949">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5784,7 +5856,7 @@
 		<tag k="name:ja" v="三番町"/>
 		<tag k="name:ja-Hrkt" v="サンバンチョウ"/>
 	</node>
-	<node id="-483" lat="34.514076" lon="133.39961">
+	<node id="-489" lat="34.514076" lon="133.39961">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5796,7 +5868,7 @@
 		<tag k="name:ja" v="山陽自動車学校前"/>
 		<tag k="name:ja-Hrkt" v="サンヨウジドウシャガッコウマエ"/>
 	</node>
-	<node id="-484" lat="34.514236" lon="133.39992">
+	<node id="-490" lat="34.514236" lon="133.39992">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5808,7 +5880,7 @@
 		<tag k="name:ja" v="山陽自動車学校前"/>
 		<tag k="name:ja-Hrkt" v="サンヨウジドウシャガッコウマエ"/>
 	</node>
-	<node id="-485" lat="34.50412" lon="133.39307">
+	<node id="-491" lat="34.50412" lon="133.39307">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5820,7 +5892,7 @@
 		<tag k="name:ja" v="南蔵王町二丁目"/>
 		<tag k="name:ja-Hrkt" v="ミナミザオウチョウニチョウメ"/>
 	</node>
-	<node id="-486" lat="34.504433" lon="133.39546">
+	<node id="-492" lat="34.504112" lon="133.39221">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5832,7 +5904,7 @@
 		<tag k="name:ja" v="南蔵王町二丁目"/>
 		<tag k="name:ja-Hrkt" v="ミナミザオウチョウニチョウメ"/>
 	</node>
-	<node id="-487" lat="34.50492" lon="133.40062">
+	<node id="-493" lat="34.50492" lon="133.40062">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5844,7 +5916,7 @@
 		<tag k="name:ja" v="蔵王東"/>
 		<tag k="name:ja-Hrkt" v="ザオウヒガシ"/>
 	</node>
-	<node id="-488" lat="34.505085" lon="133.40123">
+	<node id="-494" lat="34.505085" lon="133.40123">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5856,7 +5928,7 @@
 		<tag k="name:ja" v="蔵王東"/>
 		<tag k="name:ja-Hrkt" v="ザオウヒガシ"/>
 	</node>
-	<node id="-489" lat="34.498123" lon="133.40494">
+	<node id="-495" lat="34.498123" lon="133.40494">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5868,7 +5940,7 @@
 		<tag k="name:ja" v="蔵王病院前"/>
 		<tag k="name:ja-Hrkt" v="ザオウビョウインマエ"/>
 	</node>
-	<node id="-490" lat="34.498646" lon="133.40497">
+	<node id="-496" lat="34.498646" lon="133.40497">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5880,7 +5952,7 @@
 		<tag k="name:ja" v="蔵王病院前"/>
 		<tag k="name:ja-Hrkt" v="ザオウビョウインマエ"/>
 	</node>
-	<node id="-491" lat="34.487698" lon="133.41696">
+	<node id="-497" lat="34.487698" lon="133.41696">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5892,7 +5964,7 @@
 		<tag k="name:ja" v="四十分団地"/>
 		<tag k="name:ja-Hrkt" v="シジュウブダンチ"/>
 	</node>
-	<node id="-492" lat="34.48899" lon="133.4207">
+	<node id="-498" lat="34.48899" lon="133.4207">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5904,7 +5976,7 @@
 		<tag k="name:ja" v="四十分団地口"/>
 		<tag k="name:ja-Hrkt" v="シジュウブダンチグチ"/>
 	</node>
-	<node id="-493" lat="34.4886" lon="133.42017">
+	<node id="-499" lat="34.4886" lon="133.42017">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5916,7 +5988,7 @@
 		<tag k="name:ja" v="四十分団地口"/>
 		<tag k="name:ja-Hrkt" v="シジュウブダンチグチ"/>
 	</node>
-	<node id="-494" lat="34.519634" lon="133.46487">
+	<node id="-500" lat="34.519634" lon="133.46487">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5928,7 +6000,7 @@
 		<tag k="name:ja" v="有田"/>
 		<tag k="name:ja-Hrkt" v="アリダ"/>
 	</node>
-	<node id="-495" lat="34.53401" lon="133.4532">
+	<node id="-501" lat="34.53401" lon="133.4532">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5940,7 +6012,7 @@
 		<tag k="name:ja" v="篠坂"/>
 		<tag k="name:ja-Hrkt" v="シノサカ"/>
 	</node>
-	<node id="-496" lat="34.53356" lon="133.45345">
+	<node id="-502" lat="34.53356" lon="133.45345">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5952,7 +6024,7 @@
 		<tag k="name:ja" v="篠坂"/>
 		<tag k="name:ja-Hrkt" v="シノサカ"/>
 	</node>
-	<node id="-497" lat="34.59642" lon="133.46466">
+	<node id="-503" lat="34.59642" lon="133.46466">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5964,7 +6036,7 @@
 		<tag k="name:ja" v="市民会館前"/>
 		<tag k="name:ja-Hrkt" v="シミンカイカンマエ"/>
 	</node>
-	<node id="-498" lat="34.596706" lon="133.4652">
+	<node id="-504" lat="34.596706" lon="133.4652">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5976,7 +6048,7 @@
 		<tag k="name:ja" v="市民会館前"/>
 		<tag k="name:ja-Hrkt" v="シミンカイカンマエ"/>
 	</node>
-	<node id="-499" lat="34.518074" lon="133.46977">
+	<node id="-505" lat="34.518074" lon="133.46977">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -5988,7 +6060,7 @@
 		<tag k="name:ja" v="有田口"/>
 		<tag k="name:ja-Hrkt" v="アリダグチ"/>
 	</node>
-	<node id="-500" lat="34.50376" lon="133.3896">
+	<node id="-506" lat="34.50376" lon="133.3896">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6000,7 +6072,7 @@
 		<tag k="name:ja" v="下大目"/>
 		<tag k="name:ja-Hrkt" v="シモオオメ"/>
 	</node>
-	<node id="-501" lat="34.50383" lon="133.38962">
+	<node id="-507" lat="34.50383" lon="133.38962">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6012,7 +6084,7 @@
 		<tag k="name:ja" v="下大目"/>
 		<tag k="name:ja-Hrkt" v="シモオオメ"/>
 	</node>
-	<node id="-502" lat="34.564556" lon="133.39885">
+	<node id="-508" lat="34.564556" lon="133.39885">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6024,7 +6096,7 @@
 		<tag k="name:ja" v="下御領"/>
 		<tag k="name:ja-Hrkt" v="シモゴリョウ"/>
 	</node>
-	<node id="-503" lat="34.564877" lon="133.39915">
+	<node id="-509" lat="34.564877" lon="133.39915">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6036,7 +6108,7 @@
 		<tag k="name:ja" v="下御領"/>
 		<tag k="name:ja-Hrkt" v="シモゴリョウ"/>
 	</node>
-	<node id="-504" lat="34.486416" lon="133.36243">
+	<node id="-510" lat="34.486416" lon="133.36243">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6048,7 +6120,7 @@
 		<tag k="name:ja" v="市役所北"/>
 		<tag k="name:ja-Hrkt" v="シヤクショキタ"/>
 	</node>
-	<node id="-505" lat="34.486168" lon="133.36353">
+	<node id="-511" lat="34.486168" lon="133.36353">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6060,7 +6132,7 @@
 		<tag k="name:ja" v="市役所東"/>
 		<tag k="name:ja-Hrkt" v="シヤクショヒガシ"/>
 	</node>
-	<node id="-506" lat="34.503296" lon="133.4606">
+	<node id="-512" lat="34.503296" lon="133.4606">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6072,7 +6144,7 @@
 		<tag k="name:ja" v="城見"/>
 		<tag k="name:ja-Hrkt" v="シロミ"/>
 	</node>
-	<node id="-507" lat="34.503822" lon="133.46057">
+	<node id="-513" lat="34.503822" lon="133.46057">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6084,7 +6156,7 @@
 		<tag k="name:ja" v="城見"/>
 		<tag k="name:ja-Hrkt" v="シロミ"/>
 	</node>
-	<node id="-508" lat="34.508156" lon="133.47768">
+	<node id="-514" lat="34.508156" lon="133.47768">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6096,7 +6168,7 @@
 		<tag k="name:ja" v="城見隧道西口"/>
 		<tag k="name:ja-Hrkt" v="シロミズイドウニシグチ"/>
 	</node>
-	<node id="-509" lat="34.508232" lon="133.47777">
+	<node id="-515" lat="34.508232" lon="133.47777">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6108,7 +6180,7 @@
 		<tag k="name:ja" v="城見隧道西口"/>
 		<tag k="name:ja-Hrkt" v="シロミズイドウニシグチ"/>
 	</node>
-	<node id="-510" lat="34.501434" lon="133.46051">
+	<node id="-516" lat="34.501434" lon="133.46051">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6120,7 +6192,7 @@
 		<tag k="name:ja" v="城見台団地口"/>
 		<tag k="name:ja-Hrkt" v="シロミダイダンチグチ"/>
 	</node>
-	<node id="-511" lat="34.501427" lon="133.46037">
+	<node id="-517" lat="34.501427" lon="133.46037">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6132,7 +6204,7 @@
 		<tag k="name:ja" v="城見台団地口"/>
 		<tag k="name:ja-Hrkt" v="シロミダイダンチグチ"/>
 	</node>
-	<node id="-512" lat="34.50774" lon="133.4725">
+	<node id="-518" lat="34.50774" lon="133.4725">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6144,7 +6216,7 @@
 		<tag k="name:ja" v="新大冝"/>
 		<tag k="name:ja-Hrkt" v="シンオオゲ"/>
 	</node>
-	<node id="-513" lat="34.507782" lon="133.47336">
+	<node id="-519" lat="34.507782" lon="133.47336">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6156,7 +6228,7 @@
 		<tag k="name:ja" v="新大冝"/>
 		<tag k="name:ja-Hrkt" v="シンオオゲ"/>
 	</node>
-	<node id="-514" lat="34.487823" lon="133.37886">
+	<node id="-520" lat="34.487823" lon="133.37886">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6168,7 +6240,7 @@
 		<tag k="name:ja" v="新橋"/>
 		<tag k="name:ja-Hrkt" v="シンバシ"/>
 	</node>
-	<node id="-515" lat="34.487625" lon="133.37885">
+	<node id="-521" lat="34.487625" lon="133.37885">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6180,7 +6252,7 @@
 		<tag k="name:ja" v="新橋"/>
 		<tag k="name:ja-Hrkt" v="シンバシ"/>
 	</node>
-	<node id="-516" lat="34.494522" lon="133.39178">
+	<node id="-522" lat="34.494522" lon="133.39178">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6192,7 +6264,7 @@
 		<tag k="name:ja" v="地場産業振興センター前"/>
 		<tag k="name:ja-Hrkt" v="ジバサンギョウセンターマエ"/>
 	</node>
-	<node id="-517" lat="34.494446" lon="133.39172">
+	<node id="-523" lat="34.494446" lon="133.39172">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6204,7 +6276,7 @@
 		<tag k="name:ja" v="地場産業振興センター前"/>
 		<tag k="name:ja-Hrkt" v="ジバサンギョウセンターマエ"/>
 	</node>
-	<node id="-518" lat="34.514297" lon="133.4015">
+	<node id="-524" lat="34.514297" lon="133.4015">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6216,7 +6288,7 @@
 		<tag k="name:ja" v="城山"/>
 		<tag k="name:ja-Hrkt" v="ジョウヤマ"/>
 	</node>
-	<node id="-519" lat="34.489494" lon="133.38008">
+	<node id="-525" lat="34.489494" lon="133.38008">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6228,7 +6300,7 @@
 		<tag k="name:ja" v="すこやかセンター前"/>
 		<tag k="name:ja-Hrkt" v="スコヤカセンターマエ"/>
 	</node>
-	<node id="-520" lat="34.524372" lon="133.45955">
+	<node id="-526" lat="34.524372" lon="133.45955">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6240,7 +6312,7 @@
 		<tag k="name:ja" v="陶山局前"/>
 		<tag k="name:ja-Hrkt" v="スヤマキョクマエ"/>
 	</node>
-	<node id="-521" lat="34.48831" lon="133.39064">
+	<node id="-527" lat="34.48831" lon="133.39064">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6252,7 +6324,7 @@
 		<tag k="name:ja" v="千間土手中"/>
 		<tag k="name:ja-Hrkt" v="センゲンドテナカ"/>
 	</node>
-	<node id="-522" lat="34.488724" lon="133.39236">
+	<node id="-528" lat="34.488724" lon="133.39236">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6264,7 +6336,7 @@
 		<tag k="name:ja" v="千間土手中"/>
 		<tag k="name:ja-Hrkt" v="センゲンドテナカ"/>
 	</node>
-	<node id="-523" lat="34.48756" lon="133.38576">
+	<node id="-529" lat="34.48756" lon="133.38576">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6276,7 +6348,7 @@
 		<tag k="name:ja" v="千間土手西"/>
 		<tag k="name:ja-Hrkt" v="センゲンドテニシ"/>
 	</node>
-	<node id="-524" lat="34.48792" lon="133.38693">
+	<node id="-530" lat="34.48792" lon="133.38693">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6288,7 +6360,7 @@
 		<tag k="name:ja" v="千間土手西"/>
 		<tag k="name:ja-Hrkt" v="センゲンドテニシ"/>
 	</node>
-	<node id="-525" lat="34.489643" lon="133.39984">
+	<node id="-531" lat="34.489643" lon="133.39984">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6300,7 +6372,7 @@
 		<tag k="name:ja" v="千間土手東"/>
 		<tag k="name:ja-Hrkt" v="センゲンドテヒガシ"/>
 	</node>
-	<node id="-526" lat="34.490532" lon="133.40016">
+	<node id="-532" lat="34.490532" lon="133.40016">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6312,7 +6384,7 @@
 		<tag k="name:ja" v="千間土手東"/>
 		<tag k="name:ja-Hrkt" v="センゲンドテヒガシ"/>
 	</node>
-	<node id="-527" lat="34.490124" lon="133.40091">
+	<node id="-533" lat="34.490124" lon="133.40091">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6324,7 +6396,7 @@
 		<tag k="name:ja" v="千間土手東"/>
 		<tag k="name:ja-Hrkt" v="センゲンドテヒガシ"/>
 	</node>
-	<node id="-528" lat="34.519768" lon="133.36522">
+	<node id="-534" lat="34.519768" lon="133.36522">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6336,7 +6408,7 @@
 		<tag k="name:ja" v="千田入口"/>
 		<tag k="name:ja-Hrkt" v="センダイリグチ"/>
 	</node>
-	<node id="-529" lat="34.520058" lon="133.36534">
+	<node id="-535" lat="34.520058" lon="133.36534">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6348,7 +6420,7 @@
 		<tag k="name:ja" v="千田入口"/>
 		<tag k="name:ja-Hrkt" v="センダイリグチ"/>
 	</node>
-	<node id="-530" lat="34.581917" lon="133.43314">
+	<node id="-536" lat="34.581917" lon="133.43314">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6360,7 +6432,7 @@
 		<tag k="name:ja" v="高屋"/>
 		<tag k="name:ja-Hrkt" v="タカヤ"/>
 	</node>
-	<node id="-531" lat="34.582108" lon="133.4335">
+	<node id="-537" lat="34.582108" lon="133.4335">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6372,7 +6444,7 @@
 		<tag k="name:ja" v="高屋"/>
 		<tag k="name:ja-Hrkt" v="タカヤ"/>
 	</node>
-	<node id="-532" lat="34.583984" lon="133.43683">
+	<node id="-538" lat="34.583984" lon="133.43683">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6384,7 +6456,7 @@
 		<tag k="name:ja" v="高屋大橋"/>
 		<tag k="name:ja-Hrkt" v="タカヤオオハシ"/>
 	</node>
-	<node id="-533" lat="34.584324" lon="133.43723">
+	<node id="-539" lat="34.584324" lon="133.43723">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6396,7 +6468,7 @@
 		<tag k="name:ja" v="高屋大橋"/>
 		<tag k="name:ja-Hrkt" v="タカヤオオハシ"/>
 	</node>
-	<node id="-534" lat="34.502567" lon="133.41872">
+	<node id="-540" lat="34.502567" lon="133.41872">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6408,7 +6480,7 @@
 		<tag k="name:ja" v="高屋団地"/>
 		<tag k="name:ja-Hrkt" v="タカヤダンチ"/>
 	</node>
-	<node id="-535" lat="34.502483" lon="133.419">
+	<node id="-541" lat="34.502483" lon="133.419">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6420,7 +6492,7 @@
 		<tag k="name:ja" v="高屋団地"/>
 		<tag k="name:ja-Hrkt" v="タカヤダンチ"/>
 	</node>
-	<node id="-536" lat="34.503033" lon="133.41518">
+	<node id="-542" lat="34.503033" lon="133.41518">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6432,7 +6504,7 @@
 		<tag k="name:ja" v="高屋団地西"/>
 		<tag k="name:ja-Hrkt" v="タカヤダンチニシ"/>
 	</node>
-	<node id="-537" lat="34.5031" lon="133.41513">
+	<node id="-543" lat="34.5031" lon="133.41513">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6444,7 +6516,7 @@
 		<tag k="name:ja" v="高屋団地西"/>
 		<tag k="name:ja-Hrkt" v="タカヤダンチニシ"/>
 	</node>
-	<node id="-538" lat="34.580013" lon="133.4283">
+	<node id="-544" lat="34.580013" lon="133.4283">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6456,7 +6528,7 @@
 		<tag k="name:ja" v="高屋中学校入口"/>
 		<tag k="name:ja-Hrkt" v="タカヤチュウガッコウイリグチ"/>
 	</node>
-	<node id="-539" lat="34.58" lon="133.42813">
+	<node id="-545" lat="34.58" lon="133.42813">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6468,7 +6540,7 @@
 		<tag k="name:ja" v="高屋中学校入口"/>
 		<tag k="name:ja-Hrkt" v="タカヤチュウガッコウイリグチ"/>
 	</node>
-	<node id="-540" lat="34.59392" lon="133.45761">
+	<node id="-546" lat="34.59392" lon="133.45761">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6480,7 +6552,7 @@
 		<tag k="name:ja" v="出部小学校前"/>
 		<tag k="name:ja-Hrkt" v="イズエショウガッコウマエ"/>
 	</node>
-	<node id="-541" lat="34.594482" lon="133.45853">
+	<node id="-547" lat="34.594482" lon="133.45853">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6492,7 +6564,7 @@
 		<tag k="name:ja" v="出部小学校前"/>
 		<tag k="name:ja-Hrkt" v="イズエショウガッコウマエ"/>
 	</node>
-	<node id="-542" lat="34.584927" lon="133.44037">
+	<node id="-548" lat="34.584927" lon="133.44037">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6504,7 +6576,7 @@
 		<tag k="name:ja" v="イズミ井原店前"/>
 		<tag k="name:ja-Hrkt" v="イズミイバラテンマエ"/>
 	</node>
-	<node id="-543" lat="34.58498" lon="133.44032">
+	<node id="-549" lat="34.58498" lon="133.44032">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6516,7 +6588,7 @@
 		<tag k="name:ja" v="イズミ井原店前"/>
 		<tag k="name:ja-Hrkt" v="イズミイバラテンマエ"/>
 	</node>
-	<node id="-544" lat="34.554535" lon="133.39297">
+	<node id="-550" lat="34.554535" lon="133.39297">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6528,7 +6600,7 @@
 		<tag k="name:ja" v="田村"/>
 		<tag k="name:ja-Hrkt" v="タムラ"/>
 	</node>
-	<node id="-545" lat="34.554253" lon="133.39307">
+	<node id="-551" lat="34.554253" lon="133.39307">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6540,7 +6612,31 @@
 		<tag k="name:ja" v="田村"/>
 		<tag k="name:ja-Hrkt" v="タムラ"/>
 	</node>
-	<node id="-546" lat="34.502316" lon="133.42323">
+	<node id="-552" lat="34.510338" lon="133.43631">
+		<tag k="operator" v="井笠バスカンパニー"/>
+		<tag k="operator:en" v="Ikasa Bus"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="gtfs:stop_id" v="710 1449"/>
+		<tag k="name" v="大門高校前"/>
+		<tag k="name:en" v="Daimonkoko-mae"/>
+		<tag k="name:ja" v="大門高校前"/>
+		<tag k="name:ja-Hrkt" v="ダイモンコウコウマエ"/>
+	</node>
+	<node id="-553" lat="34.510235" lon="133.43634">
+		<tag k="operator" v="井笠バスカンパニー"/>
+		<tag k="operator:en" v="Ikasa Bus"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="gtfs:stop_id" v="710 1450"/>
+		<tag k="name" v="大門高校前"/>
+		<tag k="name:en" v="Daimonkoko-mae"/>
+		<tag k="name:ja" v="大門高校前"/>
+		<tag k="name:ja-Hrkt" v="ダイモンコウコウマエ"/>
+	</node>
+	<node id="-554" lat="34.502316" lon="133.42323">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6552,7 +6648,7 @@
 		<tag k="name:ja" v="伊勢丘三丁目"/>
 		<tag k="name:ja-Hrkt" v="イセガオカサンチョウメ"/>
 	</node>
-	<node id="-547" lat="34.50285" lon="133.42365">
+	<node id="-555" lat="34.50285" lon="133.42365">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6564,7 +6660,19 @@
 		<tag k="name:ja" v="伊勢丘三丁目"/>
 		<tag k="name:ja-Hrkt" v="イセガオカサンチョウメ"/>
 	</node>
-	<node id="-548" lat="34.473324" lon="133.49986">
+	<node id="-556" lat="34.502285" lon="133.42455">
+		<tag k="operator" v="井笠バスカンパニー"/>
+		<tag k="operator:en" v="Ikasa Bus"/>
+		<tag k="bus" v="yes"/>
+		<tag k="highway" v="bus_stop"/>
+		<tag k="public_transport" v="platform"/>
+		<tag k="gtfs:stop_id" v="7172 148"/>
+		<tag k="name" v="伊勢丘三丁目"/>
+		<tag k="name:en" v="Isegaokasanchome"/>
+		<tag k="name:ja" v="伊勢丘三丁目"/>
+		<tag k="name:ja-Hrkt" v="イセガオカサンチョウメ"/>
+	</node>
+	<node id="-557" lat="34.473324" lon="133.49986">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6576,7 +6684,7 @@
 		<tag k="name:ja" v="道の駅笠岡ベイファーム"/>
 		<tag k="name:ja-Hrkt" v="ミチノエキカサオカベイファーム"/>
 	</node>
-	<node id="-549" lat="34.510715" lon="133.53517">
+	<node id="-558" lat="34.510715" lon="133.53517">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6588,7 +6696,7 @@
 		<tag k="name:ja" v="広浜"/>
 		<tag k="name:ja-Hrkt" v="ヒロハマ"/>
 	</node>
-	<node id="-550" lat="34.48276" lon="133.58882">
+	<node id="-559" lat="34.48276" lon="133.58882">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6600,7 +6708,7 @@
 		<tag k="name:ja" v="寄島総合支所前"/>
 		<tag k="name:ja-Hrkt" v="ヨリシマソウゴウシショマエ"/>
 	</node>
-	<node id="-551" lat="34.531105" lon="133.65952">
+	<node id="-560" lat="34.531105" lon="133.65952">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6612,7 +6720,7 @@
 		<tag k="name:ja" v="玉島協同病院"/>
 		<tag k="name:ja-Hrkt" v="タマシマキョウドウビョウイン"/>
 	</node>
-	<node id="-552" lat="34.544636" lon="133.67152">
+	<node id="-561" lat="34.544636" lon="133.67152">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6624,7 +6732,7 @@
 		<tag k="name:ja" v="玉島中央町"/>
 		<tag k="name:ja-Hrkt" v="タマシマチュウオウチョウ"/>
 	</node>
-	<node id="-553" lat="34.544357" lon="133.67139">
+	<node id="-562" lat="34.544357" lon="133.67139">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6636,7 +6744,7 @@
 		<tag k="name:ja" v="玉島中央町"/>
 		<tag k="name:ja-Hrkt" v="タマシマチュウオウチョウ"/>
 	</node>
-	<node id="-554" lat="34.482544" lon="133.36649">
+	<node id="-563" lat="34.482544" lon="133.36649">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6648,7 +6756,7 @@
 		<tag k="name:ja" v="中央図書館ローズコム"/>
 		<tag k="name:ja-Hrkt" v="チュウオウトショカンローズコム"/>
 	</node>
-	<node id="-555" lat="34.580708" lon="133.42992">
+	<node id="-564" lat="34.580708" lon="133.42992">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6660,7 +6768,7 @@
 		<tag k="name:ja" v="中銀前"/>
 		<tag k="name:ja-Hrkt" v="チュウギンマエ"/>
 	</node>
-	<node id="-556" lat="34.58109" lon="133.43068">
+	<node id="-565" lat="34.58109" lon="133.43068">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6672,7 +6780,7 @@
 		<tag k="name:ja" v="中銀前"/>
 		<tag k="name:ja-Hrkt" v="チュウギンマエ"/>
 	</node>
-	<node id="-557" lat="34.548405" lon="133.3486">
+	<node id="-566" lat="34.548405" lon="133.3486">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6684,7 +6792,7 @@
 		<tag k="name:ja" v="中国中央病院"/>
 		<tag k="name:ja-Hrkt" v="チュウゴクチュウオウビョウイン"/>
 	</node>
-	<node id="-558" lat="34.548542" lon="133.34859">
+	<node id="-567" lat="34.548542" lon="133.34859">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6696,7 +6804,7 @@
 		<tag k="name:ja" v="中国中央病院"/>
 		<tag k="name:ja-Hrkt" v="チュウゴクチュウオウビョウイン"/>
 	</node>
-	<node id="-559" lat="34.503323" lon="133.38588">
+	<node id="-568" lat="34.503323" lon="133.38588">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6708,7 +6816,7 @@
 		<tag k="name:ja" v="綱木"/>
 		<tag k="name:ja-Hrkt" v="ツナキ"/>
 	</node>
-	<node id="-560" lat="34.503384" lon="133.38583">
+	<node id="-569" lat="34.503384" lon="133.38583">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6720,7 +6828,7 @@
 		<tag k="name:ja" v="綱木"/>
 		<tag k="name:ja-Hrkt" v="ツナキ"/>
 	</node>
-	<node id="-561" lat="34.53029" lon="133.44312">
+	<node id="-570" lat="34.53029" lon="133.44312">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6732,7 +6840,7 @@
 		<tag k="name:ja" v="坪生"/>
 		<tag k="name:ja-Hrkt" v="ツボウ"/>
 	</node>
-	<node id="-562" lat="34.525738" lon="133.43486">
+	<node id="-571" lat="34.525738" lon="133.43486">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6744,7 +6852,7 @@
 		<tag k="name:ja" v="坪生公園前"/>
 		<tag k="name:ja-Hrkt" v="ツボウコウエンマエ"/>
 	</node>
-	<node id="-563" lat="34.526104" lon="133.43561">
+	<node id="-572" lat="34.526104" lon="133.43561">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6756,7 +6864,7 @@
 		<tag k="name:ja" v="坪生公園前"/>
 		<tag k="name:ja-Hrkt" v="ツボウコウエンマエ"/>
 	</node>
-	<node id="-564" lat="34.522667" lon="133.43378">
+	<node id="-573" lat="34.522667" lon="133.43378">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6768,7 +6876,7 @@
 		<tag k="name:ja" v="坪生小学校前"/>
 		<tag k="name:ja-Hrkt" v="ツボウショウガッコウマエ"/>
 	</node>
-	<node id="-565" lat="34.523006" lon="133.43396">
+	<node id="-574" lat="34.523006" lon="133.43396">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6780,7 +6888,7 @@
 		<tag k="name:ja" v="坪生小学校前"/>
 		<tag k="name:ja-Hrkt" v="ツボウショウガッコウマエ"/>
 	</node>
-	<node id="-566" lat="34.5331" lon="133.4469">
+	<node id="-575" lat="34.5331" lon="133.4469">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6792,7 +6900,7 @@
 		<tag k="name:ja" v="坪生峠"/>
 		<tag k="name:ja-Hrkt" v="ツボウトウゲ"/>
 	</node>
-	<node id="-567" lat="34.529305" lon="133.4425">
+	<node id="-576" lat="34.529305" lon="133.4425">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6804,7 +6912,7 @@
 		<tag k="name:ja" v="坪生西"/>
 		<tag k="name:ja-Hrkt" v="ツボウニシ"/>
 	</node>
-	<node id="-568" lat="34.504635" lon="133.42433">
+	<node id="-577" lat="34.504635" lon="133.42433">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6816,7 +6924,7 @@
 		<tag k="name:ja" v="伊勢丘五丁目"/>
 		<tag k="name:ja-Hrkt" v="イセガオカ5チョウメ"/>
 	</node>
-	<node id="-569" lat="34.504917" lon="133.42462">
+	<node id="-578" lat="34.504917" lon="133.42462">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6828,7 +6936,7 @@
 		<tag k="name:ja" v="伊勢丘五丁目"/>
 		<tag k="name:ja-Hrkt" v="イセガオカ5チョウメ"/>
 	</node>
-	<node id="-570" lat="34.527466" lon="133.43956">
+	<node id="-579" lat="34.527466" lon="133.43956">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6840,7 +6948,7 @@
 		<tag k="name:ja" v="坪生東池"/>
 		<tag k="name:ja-Hrkt" v="ツボウヒガシイケ"/>
 	</node>
-	<node id="-571" lat="34.527596" lon="133.43971">
+	<node id="-580" lat="34.527596" lon="133.43971">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6852,7 +6960,7 @@
 		<tag k="name:ja" v="坪生東池"/>
 		<tag k="name:ja-Hrkt" v="ツボウヒガシイケ"/>
 	</node>
-	<node id="-572" lat="34.519844" lon="133.4337">
+	<node id="-581" lat="34.519844" lon="133.4337">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6864,7 +6972,7 @@
 		<tag k="name:ja" v="鶴ヶ丘団地"/>
 		<tag k="name:ja-Hrkt" v="ツルガオカダンチ"/>
 	</node>
-	<node id="-573" lat="34.519894" lon="133.43375">
+	<node id="-582" lat="34.519894" lon="133.43375">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6876,7 +6984,7 @@
 		<tag k="name:ja" v="鶴ヶ丘団地"/>
 		<tag k="name:ja-Hrkt" v="ツルガオカダンチ"/>
 	</node>
-	<node id="-574" lat="34.489788" lon="133.37129">
+	<node id="-583" lat="34.489788" lon="133.37129">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6888,7 +6996,7 @@
 		<tag k="name:ja" v="寺町"/>
 		<tag k="name:ja-Hrkt" v="テラマチ"/>
 	</node>
-	<node id="-575" lat="34.489826" lon="133.37117">
+	<node id="-584" lat="34.489826" lon="133.37117">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6900,7 +7008,7 @@
 		<tag k="name:ja" v="寺町"/>
 		<tag k="name:ja-Hrkt" v="テラマチ"/>
 	</node>
-	<node id="-576" lat="34.488132" lon="133.366">
+	<node id="-585" lat="34.488132" lon="133.366">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6912,7 +7020,7 @@
 		<tag k="name:ja" v="天下橋"/>
 		<tag k="name:ja-Hrkt" v="テンカバシ"/>
 	</node>
-	<node id="-577" lat="34.50648" lon="133.42548">
+	<node id="-586" lat="34.50648" lon="133.42548">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6924,7 +7032,7 @@
 		<tag k="name:ja" v="伊勢丘六丁目"/>
 		<tag k="name:ja-Hrkt" v="イセガオカ6チョウメ"/>
 	</node>
-	<node id="-578" lat="34.50673" lon="133.42586">
+	<node id="-587" lat="34.50673" lon="133.42586">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6936,7 +7044,7 @@
 		<tag k="name:ja" v="伊勢丘六丁目"/>
 		<tag k="name:ja-Hrkt" v="イセガオカ6チョウメ"/>
 	</node>
-	<node id="-579" lat="34.517555" lon="133.38832">
+	<node id="-588" lat="34.517555" lon="133.38832">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6948,7 +7056,7 @@
 		<tag k="name:ja" v="天神前"/>
 		<tag k="name:ja-Hrkt" v="テンジンマエ"/>
 	</node>
-	<node id="-580" lat="34.517673" lon="133.3885">
+	<node id="-589" lat="34.517673" lon="133.3885">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6960,7 +7068,7 @@
 		<tag k="name:ja" v="天神前"/>
 		<tag k="name:ja-Hrkt" v="テンジンマエ"/>
 	</node>
-	<node id="-581" lat="34.507076" lon="133.46208">
+	<node id="-590" lat="34.507076" lon="133.46208">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6972,7 +7080,7 @@
 		<tag k="name:ja" v="天理教前"/>
 		<tag k="name:ja-Hrkt" v="テンリキョウマエ"/>
 	</node>
-	<node id="-582" lat="34.507374" lon="133.46252">
+	<node id="-591" lat="34.507374" lon="133.46252">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6984,7 +7092,7 @@
 		<tag k="name:ja" v="天理教前"/>
 		<tag k="name:ja-Hrkt" v="テンリキョウマエ"/>
 	</node>
-	<node id="-583" lat="34.497425" lon="133.41823">
+	<node id="-592" lat="34.497425" lon="133.41823">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -6996,7 +7104,7 @@
 		<tag k="name:ja" v="藤五路"/>
 		<tag k="name:ja-Hrkt" v="トウゴロウ"/>
 	</node>
-	<node id="-584" lat="34.517563" lon="133.43422">
+	<node id="-593" lat="34.517563" lon="133.43422">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7008,7 +7116,7 @@
 		<tag k="name:ja" v="東陽台上"/>
 		<tag k="name:ja-Hrkt" v="トウヨウダイカミ"/>
 	</node>
-	<node id="-585" lat="34.51779" lon="133.4346">
+	<node id="-594" lat="34.51779" lon="133.4346">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7020,7 +7128,7 @@
 		<tag k="name:ja" v="東陽台上"/>
 		<tag k="name:ja-Hrkt" v="トウヨウダイカミ"/>
 	</node>
-	<node id="-586" lat="34.515232" lon="133.43034">
+	<node id="-595" lat="34.515232" lon="133.43034">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7032,7 +7140,7 @@
 		<tag k="name:ja" v="東陽台下"/>
 		<tag k="name:ja-Hrkt" v="トウヨウダイシモ"/>
 	</node>
-	<node id="-587" lat="34.515617" lon="133.4307">
+	<node id="-596" lat="34.515617" lon="133.4307">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7044,7 +7152,7 @@
 		<tag k="name:ja" v="東陽台下"/>
 		<tag k="name:ja-Hrkt" v="トウヨウダイシモ"/>
 	</node>
-	<node id="-588" lat="34.516987" lon="133.43279">
+	<node id="-597" lat="34.516987" lon="133.43279">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7056,7 +7164,7 @@
 		<tag k="name:ja" v="東陽台中"/>
 		<tag k="name:ja-Hrkt" v="トウヨウダイナカ"/>
 	</node>
-	<node id="-589" lat="34.51696" lon="133.43288">
+	<node id="-598" lat="34.51696" lon="133.43288">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7068,7 +7176,7 @@
 		<tag k="name:ja" v="東陽台中"/>
 		<tag k="name:ja-Hrkt" v="トウヨウダイナカ"/>
 	</node>
-	<node id="-590" lat="34.496887" lon="133.4609">
+	<node id="-599" lat="34.496887" lon="133.4609">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7080,7 +7188,7 @@
 		<tag k="name:ja" v="青木"/>
 		<tag k="name:ja-Hrkt" v="アオキ"/>
 	</node>
-	<node id="-591" lat="34.496723" lon="133.46107">
+	<node id="-600" lat="34.496723" lon="133.46107">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7092,7 +7200,7 @@
 		<tag k="name:ja" v="青木"/>
 		<tag k="name:ja-Hrkt" v="アオキ"/>
 	</node>
-	<node id="-592" lat="34.498333" lon="133.52208">
+	<node id="-601" lat="34.498333" lon="133.52208">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7104,7 +7212,7 @@
 		<tag k="name:ja" v="富岡"/>
 		<tag k="name:ja-Hrkt" v="トミオカ"/>
 	</node>
-	<node id="-593" lat="34.498367" lon="133.5228">
+	<node id="-602" lat="34.498367" lon="133.5228">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7116,7 +7224,7 @@
 		<tag k="name:ja" v="富岡"/>
 		<tag k="name:ja-Hrkt" v="トミオカ"/>
 	</node>
-	<node id="-594" lat="34.514313" lon="133.4851">
+	<node id="-603" lat="34.514313" lon="133.4851">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7128,7 +7236,7 @@
 		<tag k="name:ja" v="土手"/>
 		<tag k="name:ja-Hrkt" v="ドテ"/>
 	</node>
-	<node id="-595" lat="34.514164" lon="133.48524">
+	<node id="-604" lat="34.514164" lon="133.48524">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7140,7 +7248,7 @@
 		<tag k="name:ja" v="土手"/>
 		<tag k="name:ja-Hrkt" v="ドテ"/>
 	</node>
-	<node id="-596" lat="34.500618" lon="133.37335">
+	<node id="-605" lat="34.500618" lon="133.37335">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7152,7 +7260,7 @@
 		<tag k="name:ja" v="奈良津"/>
 		<tag k="name:ja-Hrkt" v="ナラヅ"/>
 	</node>
-	<node id="-597" lat="34.500706" lon="133.37341">
+	<node id="-606" lat="34.500706" lon="133.37341">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7164,7 +7272,7 @@
 		<tag k="name:ja" v="奈良津"/>
 		<tag k="name:ja-Hrkt" v="ナラヅ"/>
 	</node>
-	<node id="-598" lat="34.500072" lon="133.37369">
+	<node id="-607" lat="34.500072" lon="133.37369">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7176,7 +7284,7 @@
 		<tag k="name:ja" v="奈良津"/>
 		<tag k="name:ja-Hrkt" v="ナラヅ"/>
 	</node>
-	<node id="-599" lat="34.500484" lon="133.37454">
+	<node id="-608" lat="34.500484" lon="133.37454">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7188,7 +7296,7 @@
 		<tag k="name:ja" v="奈良津"/>
 		<tag k="name:ja-Hrkt" v="ナラヅ"/>
 	</node>
-	<node id="-600" lat="34.534912" lon="133.4514">
+	<node id="-609" lat="34.534912" lon="133.4514">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7200,7 +7308,7 @@
 		<tag k="name:ja" v="仁井"/>
 		<tag k="name:ja-Hrkt" v="ニイ"/>
 	</node>
-	<node id="-601" lat="34.534912" lon="133.45116">
+	<node id="-610" lat="34.534912" lon="133.45116">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7212,7 +7320,7 @@
 		<tag k="name:ja" v="仁井"/>
 		<tag k="name:ja-Hrkt" v="ニイ"/>
 	</node>
-	<node id="-602" lat="34.505066" lon="133.50345">
+	<node id="-611" lat="34.505066" lon="133.50345">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7224,7 +7332,7 @@
 		<tag k="name:ja" v="西の浜"/>
 		<tag k="name:ja-Hrkt" v="ニシノハマ"/>
 	</node>
-	<node id="-603" lat="34.505375" lon="133.50261">
+	<node id="-612" lat="34.505375" lon="133.50261">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7236,7 +7344,7 @@
 		<tag k="name:ja" v="西の浜"/>
 		<tag k="name:ja-Hrkt" v="ニシノハマ"/>
 	</node>
-	<node id="-604" lat="34.496227" lon="133.40169">
+	<node id="-613" lat="34.496227" lon="133.40169">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7248,7 +7356,7 @@
 		<tag k="name:ja" v="市場前"/>
 		<tag k="name:ja-Hrkt" v="イチバマエ"/>
 	</node>
-	<node id="-605" lat="34.49629" lon="133.4011">
+	<node id="-614" lat="34.49629" lon="133.4011">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7260,7 +7368,7 @@
 		<tag k="name:ja" v="市場前"/>
 		<tag k="name:ja-Hrkt" v="イチバマエ"/>
 	</node>
-	<node id="-606" lat="34.529385" lon="133.37192">
+	<node id="-615" lat="34.529385" lon="133.37192">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7272,7 +7380,7 @@
 		<tag k="name:ja" v="蓮池"/>
 		<tag k="name:ja-Hrkt" v="ハスイケ"/>
 	</node>
-	<node id="-607" lat="34.529564" lon="133.37207">
+	<node id="-616" lat="34.529564" lon="133.37207">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7284,7 +7392,7 @@
 		<tag k="name:ja" v="蓮池"/>
 		<tag k="name:ja-Hrkt" v="ハスイケ"/>
 	</node>
-	<node id="-608" lat="34.570168" lon="133.40685">
+	<node id="-617" lat="34.570168" lon="133.40685">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7296,7 +7404,7 @@
 		<tag k="name:ja" v="八丈岩入口"/>
 		<tag k="name:ja-Hrkt" v="ハチジョウイワイリグチ"/>
 	</node>
-	<node id="-609" lat="34.56978" lon="133.40639">
+	<node id="-618" lat="34.56978" lon="133.40639">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7308,7 +7416,7 @@
 		<tag k="name:ja" v="八丈岩入口"/>
 		<tag k="name:ja-Hrkt" v="ハチジョウイワイリグチ"/>
 	</node>
-	<node id="-610" lat="34.481766" lon="133.37355">
+	<node id="-619" lat="34.481766" lon="133.37355">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7320,7 +7428,7 @@
 		<tag k="name:ja" v="花園町"/>
 		<tag k="name:ja-Hrkt" v="ハナゾノチョウ"/>
 	</node>
-	<node id="-611" lat="34.512524" lon="133.41335">
+	<node id="-620" lat="34.512524" lon="133.41335">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7332,7 +7440,7 @@
 		<tag k="name:ja" v="培遠団地前"/>
 		<tag k="name:ja-Hrkt" v="バイエンダンチマエ"/>
 	</node>
-	<node id="-612" lat="34.510345" lon="133.41383">
+	<node id="-621" lat="34.510345" lon="133.41383">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7344,7 +7452,7 @@
 		<tag k="name:ja" v="培遠中学校前"/>
 		<tag k="name:ja-Hrkt" v="バイエンチュウガッコウマエ"/>
 	</node>
-	<node id="-613" lat="34.510036" lon="133.41318">
+	<node id="-622" lat="34.510036" lon="133.41318">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7356,7 +7464,7 @@
 		<tag k="name:ja" v="培遠中学校前"/>
 		<tag k="name:ja-Hrkt" v="バイエンチュウガッコウマエ"/>
 	</node>
-	<node id="-614" lat="34.48107" lon="133.37216">
+	<node id="-623" lat="34.48107" lon="133.37216">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7368,7 +7476,7 @@
 		<tag k="name:ja" v="ばら公園前"/>
 		<tag k="name:ja-Hrkt" v="バラコウエンマエ"/>
 	</node>
-	<node id="-615" lat="34.573044" lon="133.4114">
+	<node id="-624" lat="34.573044" lon="133.4114">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7380,7 +7488,7 @@
 		<tag k="name:ja" v="一里塚"/>
 		<tag k="name:ja-Hrkt" v="イチリヅカ"/>
 	</node>
-	<node id="-616" lat="34.57312" lon="133.4118">
+	<node id="-625" lat="34.57312" lon="133.4118">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7392,7 +7500,7 @@
 		<tag k="name:ja" v="一里塚"/>
 		<tag k="name:ja-Hrkt" v="イチリヅカ"/>
 	</node>
-	<node id="-617" lat="34.489475" lon="133.37538">
+	<node id="-626" lat="34.489475" lon="133.37538">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7404,7 +7512,7 @@
 		<tag k="name:ja" v="東警察署前"/>
 		<tag k="name:ja-Hrkt" v="ヒガシケイサツショマエ"/>
 	</node>
-	<node id="-618" lat="34.490623" lon="133.37723">
+	<node id="-627" lat="34.490623" lon="133.37723">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7416,7 +7524,7 @@
 		<tag k="name:ja" v="東中学校前"/>
 		<tag k="name:ja-Hrkt" v="ヒガシチュウガッコウマエ"/>
 	</node>
-	<node id="-619" lat="34.492542" lon="133.38817">
+	<node id="-628" lat="34.492542" lon="133.38817">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7428,7 +7536,7 @@
 		<tag k="name:ja" v="東深津"/>
 		<tag k="name:ja-Hrkt" v="ヒガシフカツ"/>
 	</node>
-	<node id="-620" lat="34.492634" lon="133.38881">
+	<node id="-629" lat="34.492634" lon="133.38881">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7440,7 +7548,7 @@
 		<tag k="name:ja" v="東深津"/>
 		<tag k="name:ja-Hrkt" v="ヒガシフカツ"/>
 	</node>
-	<node id="-621" lat="34.49555" lon="133.40497">
+	<node id="-630" lat="34.49555" lon="133.40497">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7452,7 +7560,7 @@
 		<tag k="name:ja" v="東福山駅北口"/>
 		<tag k="name:ja-Hrkt" v="ヒガシフクヤマエキキタグチ"/>
 	</node>
-	<node id="-622" lat="34.49322" lon="133.40819">
+	<node id="-631" lat="34.49322" lon="133.40819">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7464,7 +7572,7 @@
 		<tag k="name:ja" v="東福山駅口"/>
 		<tag k="name:ja-Hrkt" v="ヒガシフクヤマエキグチ"/>
 	</node>
-	<node id="-623" lat="34.493465" lon="133.40834">
+	<node id="-632" lat="34.493465" lon="133.40834">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7476,7 +7584,7 @@
 		<tag k="name:ja" v="東福山駅口"/>
 		<tag k="name:ja-Hrkt" v="ヒガシフクヤマエキグチ"/>
 	</node>
-	<node id="-624" lat="34.49841" lon="133.42287">
+	<node id="-633" lat="34.49841" lon="133.42287">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7488,7 +7596,7 @@
 		<tag k="name:ja" v="引野"/>
 		<tag k="name:ja-Hrkt" v="ヒキノ"/>
 	</node>
-	<node id="-625" lat="34.49651" lon="133.4044">
+	<node id="-634" lat="34.49651" lon="133.4044">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7500,7 +7608,7 @@
 		<tag k="name:ja" v="引野一丁目"/>
 		<tag k="name:ja-Hrkt" v="ヒキノ1チョウメ"/>
 	</node>
-	<node id="-626" lat="34.4966" lon="133.40475">
+	<node id="-635" lat="34.4966" lon="133.40475">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7512,7 +7620,7 @@
 		<tag k="name:ja" v="引野一丁目"/>
 		<tag k="name:ja-Hrkt" v="ヒキノ1チョウメ"/>
 	</node>
-	<node id="-627" lat="34.494987" lon="133.41205">
+	<node id="-636" lat="34.494987" lon="133.41205">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7524,7 +7632,7 @@
 		<tag k="name:ja" v="引野四丁目"/>
 		<tag k="name:ja-Hrkt" v="ヒキノ4チョウメ"/>
 	</node>
-	<node id="-628" lat="34.495247" lon="133.41226">
+	<node id="-637" lat="34.495247" lon="133.41226">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7536,7 +7644,7 @@
 		<tag k="name:ja" v="引野四丁目"/>
 		<tag k="name:ja-Hrkt" v="ヒキノ4チョウメ"/>
 	</node>
-	<node id="-629" lat="34.494125" lon="133.41287">
+	<node id="-638" lat="34.494125" lon="133.41287">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7548,7 +7656,7 @@
 		<tag k="name:ja" v="引野農協"/>
 		<tag k="name:ja-Hrkt" v="ヒキノノウキョウ"/>
 	</node>
-	<node id="-630" lat="34.494476" lon="133.41301">
+	<node id="-639" lat="34.494476" lon="133.41301">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7560,7 +7668,7 @@
 		<tag k="name:ja" v="引野農協"/>
 		<tag k="name:ja-Hrkt" v="ヒキノノウキョウ"/>
 	</node>
-	<node id="-631" lat="34.485832" lon="133.36559">
+	<node id="-640" lat="34.485832" lon="133.36559">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7572,7 +7680,7 @@
 		<tag k="name:ja" v="久松通り"/>
 		<tag k="name:ja-Hrkt" v="ヒサマツドオリ"/>
 	</node>
-	<node id="-632" lat="34.485645" lon="133.36588">
+	<node id="-641" lat="34.485645" lon="133.36588">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7584,7 +7692,7 @@
 		<tag k="name:ja" v="久松通り"/>
 		<tag k="name:ja-Hrkt" v="ヒサマツドオリ"/>
 	</node>
-	<node id="-633" lat="34.514027" lon="133.40526">
+	<node id="-642" lat="34.514027" lon="133.40526">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7596,7 +7704,7 @@
 		<tag k="name:ja" v="日吉台団地"/>
 		<tag k="name:ja-Hrkt" v="ヒヨシダイダンチ"/>
 	</node>
-	<node id="-634" lat="34.514072" lon="133.40553">
+	<node id="-643" lat="34.514072" lon="133.40553">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7608,7 +7716,7 @@
 		<tag k="name:ja" v="日吉台団地"/>
 		<tag k="name:ja-Hrkt" v="ヒヨシダイダンチ"/>
 	</node>
-	<node id="-635" lat="34.51225" lon="133.40703">
+	<node id="-644" lat="34.51225" lon="133.40703">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7620,7 +7728,7 @@
 		<tag k="name:ja" v="日吉台団地東"/>
 		<tag k="name:ja-Hrkt" v="ヒヨシダイダンチヒガシ"/>
 	</node>
-	<node id="-636" lat="34.512535" lon="133.40698">
+	<node id="-645" lat="34.512535" lon="133.40698">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7632,7 +7740,7 @@
 		<tag k="name:ja" v="日吉台団地東"/>
 		<tag k="name:ja-Hrkt" v="ヒヨシダイダンチヒガシ"/>
 	</node>
-	<node id="-637" lat="34.54699" lon="133.39189">
+	<node id="-646" lat="34.54699" lon="133.39189">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7644,7 +7752,7 @@
 		<tag k="name:ja" v="平野口"/>
 		<tag k="name:ja-Hrkt" v="ヒラノグチ"/>
 	</node>
-	<node id="-638" lat="34.546825" lon="133.3919">
+	<node id="-647" lat="34.546825" lon="133.3919">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7656,7 +7764,7 @@
 		<tag k="name:ja" v="平野口"/>
 		<tag k="name:ja-Hrkt" v="ヒラノグチ"/>
 	</node>
-	<node id="-639" lat="34.504578" lon="133.3965">
+	<node id="-648" lat="34.504578" lon="133.3965">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7668,7 +7776,7 @@
 		<tag k="name:ja" v="広尾"/>
 		<tag k="name:ja-Hrkt" v="ヒロオ"/>
 	</node>
-	<node id="-640" lat="34.504604" lon="133.39757">
+	<node id="-649" lat="34.504604" lon="133.39757">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7680,7 +7788,7 @@
 		<tag k="name:ja" v="広尾"/>
 		<tag k="name:ja-Hrkt" v="ヒロオ"/>
 	</node>
-	<node id="-641" lat="34.505013" lon="133.3979">
+	<node id="-650" lat="34.505013" lon="133.3979">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7692,7 +7800,7 @@
 		<tag k="name:ja" v="広尾"/>
 		<tag k="name:ja-Hrkt" v="ヒロオ"/>
 	</node>
-	<node id="-642" lat="34.504246" lon="133.39822">
+	<node id="-651" lat="34.504246" lon="133.39822">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7704,7 +7812,7 @@
 		<tag k="name:ja" v="広尾"/>
 		<tag k="name:ja-Hrkt" v="ヒロオ"/>
 	</node>
-	<node id="-643" lat="34.502598" lon="133.41109">
+	<node id="-652" lat="34.502598" lon="133.41109">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7716,7 +7824,7 @@
 		<tag k="name:ja" v="広大附属校前"/>
 		<tag k="name:ja-Hrkt" v="ヒロダイフゾクコウマエ"/>
 	</node>
-	<node id="-644" lat="34.502716" lon="133.41147">
+	<node id="-653" lat="34.502716" lon="133.41147">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7728,7 +7836,7 @@
 		<tag k="name:ja" v="広大附属校前"/>
 		<tag k="name:ja-Hrkt" v="ヒロダイフゾクコウマエ"/>
 	</node>
-	<node id="-645" lat="34.547283" lon="133.34996">
+	<node id="-654" lat="34.547283" lon="133.34996">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7740,7 +7848,7 @@
 		<tag k="name:ja" v="ビッグローズ前"/>
 		<tag k="name:ja-Hrkt" v="ビッグローズマエ"/>
 	</node>
-	<node id="-646" lat="34.54725" lon="133.35005">
+	<node id="-655" lat="34.54725" lon="133.35005">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7752,7 +7860,7 @@
 		<tag k="name:ja" v="ビッグローズ前"/>
 		<tag k="name:ja-Hrkt" v="ビッグローズマエ"/>
 	</node>
-	<node id="-647" lat="34.492268" lon="133.41934">
+	<node id="-656" lat="34.492268" lon="133.41934">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7764,7 +7872,7 @@
 		<tag k="name:ja" v="旭ヶ丘団地入口"/>
 		<tag k="name:ja-Hrkt" v="アサヒガオカダンチイリグチ"/>
 	</node>
-	<node id="-648" lat="34.49218" lon="133.41939">
+	<node id="-657" lat="34.49218" lon="133.41939">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7776,7 +7884,7 @@
 		<tag k="name:ja" v="旭ヶ丘団地入口"/>
 		<tag k="name:ja-Hrkt" v="アサヒガオカダンチイリグチ"/>
 	</node>
-	<node id="-649" lat="34.54324" lon="133.36417">
+	<node id="-658" lat="34.54324" lon="133.36417">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7788,7 +7896,7 @@
 		<tag k="name:ja" v="深安消防署前"/>
 		<tag k="name:ja-Hrkt" v="フカヤスショウボウショマエ"/>
 	</node>
-	<node id="-650" lat="34.54334" lon="133.36433">
+	<node id="-659" lat="34.54334" lon="133.36433">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7800,7 +7908,7 @@
 		<tag k="name:ja" v="深安消防署前"/>
 		<tag k="name:ja-Hrkt" v="フカヤスショウボウショマエ"/>
 	</node>
-	<node id="-651" lat="34.490147" lon="133.36292">
+	<node id="-660" lat="34.490147" lon="133.36292">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7812,7 +7920,7 @@
 		<tag k="name:ja" v="福山駅北口"/>
 		<tag k="name:ja-Hrkt" v="フクヤマエキキタグチ"/>
 	</node>
-	<node id="-652" lat="34.51373" lon="133.428">
+	<node id="-661" lat="34.51373" lon="133.428">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
@@ -7824,7 +7932,7 @@
 		<tag k="name:ja" v="青葉台"/>
 		<tag k="name:ja-Hrkt" v="アオバダイ"/>
 	</node>
-	<node id="-653" lat="34.513542" lon="133.42859">
+	<node id="-662" lat="34.513542" lon="133.42859">
 		<tag k="operator" v="井笠バスカンパニー"/>
 		<tag k="operator:en" v="Ikasa Bus"/>
 		<tag k="bus" v="yes"/>
